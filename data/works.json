@@ -17,5 +17,25 @@
     "tweet": "《山海经·大荒北经》里的烛龙：睁眼为昼，闭眼为夜，不食不寝不息，风雨是谒。\n用 AI 把它从文字里请了出来 🐉\n提示词来自 VibeShot 社区「山海经系列」\n\nZhulong, the Candle Dragon: when it opens its eyes, it is day; when it closes them, night falls.\n#AIart #山海经",
     "notes": "- 成图把脸画成了龙脸，没有体现原典的「人面蛇身」。下次可在提示词中强调 `a serene human face on a serpent body, not a dragon head`。\n- 输出为横图，想要竖图需另外指定比例。",
     "story": "《山海经·大荒北经》：西北海之外，赤水之北，有章尾山。有神，人面蛇身而赤，直目正乘，其瞑乃晦，其视乃明，不食不寝不息，风雨是谒。是烛九阴，是谓烛龙。"
+  },
+  {
+    "id": "2026-09-27-xingmao-xunyeren",
+    "title": "星猫巡夜人 Star-Cat Night Watcher",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-xingmao-xunyeren.png",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "角色设定",
+      "四宫格",
+      "原创角色",
+      "机能风"
+    ],
+    "source": "用户提供的角色设定四宫格版式模板，加入原创角色设计以避免撞图",
+    "prompt": "竖版2×2角色设定四宫格，浅灰色纯色摄影棚背景，统一柔和棚拍光，四格之间用细白色分隔线。角色：原创角色「星猫巡夜人」，年轻东亚女性，银白色齐下巴短发，头戴一对猫耳造型金属发夹，深紫色机能风长款风衣，风衣上有银线刺绣的星座纹，黑色修身长裤，黑色及膝长靴，腰间挂一个小巧的黄铜星盘挂饰，神情冷静。左上格为脸部正面近景；右上格为脸部90度侧面近景；左下格为从颈部以下一直到鞋靴的正面服装与身体展示，横向分隔线从颈部切过，头部位于左下格画面之外；右下格为包含后脑到鞋靴的完整全身背面。四格保持同一角色的脸型、发型、服装、配饰和身体比例一致。画面中不要任何文字、标签、水印。",
+    "tweet": "原创角色「星猫巡夜人」：银白短发、猫耳金属发夹、深紫机能风衣上绣着银线星座，腰间挂一枚黄铜星盘，在夜里替星空巡逻 🐱✨\n四宫格角色设定：正脸、侧脸、正面服装、全身背面。\n\nMeet the Star-Cat Night Watcher, an original character who patrols the night sky: silver bob, cat-ear hairclips, a violet techwear coat stitched with constellations, and a brass astrolabe at her waist.\n#AIart #原创角色",
+    "notes": "- 防撞图改动：使用原创角色「星猫巡夜人」替代模板中的通用人物；固定浅灰色纯色摄影棚背景与统一柔和棚拍光；明确要求画面中不要任何文字、标签、水印。\n- 缺陷：提示词要求竖版，但模型输出为横版 16:9 四宫格（生成两次均为横图）；四宫格版式与四格间的角色一致性（脸型、发型、服装、配饰）其余均正确。下次如需竖图，应在生成工具中另外指定竖版比例。",
+    "story": "无（原创角色，呼应 coolcat 星空猫品牌）"
   }
 ]
