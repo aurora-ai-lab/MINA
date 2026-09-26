@@ -5,7 +5,7 @@
   // URL hashes: #<work-id> opens that work (and its tab); #women / #general selects a tab
   const SPARSE_MAX = 2; // show featured layout + "coming soon" card when works <= this
 
-  const CATS = { general: "综合作品", women: "女性人像" };
+  const CATS = { general: "综合作品", women: "女性人像", "web-ui": "视觉系 UI" };
   const DEFAULT_CAT = "general";
   const state = { works: [], filtered: [], query: "", tags: [], cat: DEFAULT_CAT, current: -1, lastFocus: null };
   const catWorks = () => state.works.filter((w) => w.category === state.cat);
