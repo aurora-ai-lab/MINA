@@ -19,6 +19,46 @@
     "story": "《山海经·大荒北经》：西北海之外，赤水之北，有章尾山。有神，人面蛇身而赤，直目正乘，其瞑乃晦，其视乃明，不食不寝不息，风雨是谒。是烛九阴，是谓烛龙。"
   },
   {
+    "id": "2026-09-27-yutu-xianzi",
+    "title": "玉兔仙子·月影 Moon Rabbit's Shadow",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-yutu-xianzi.png",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "玉兔",
+      "剪影",
+      "东方奇幻",
+      "极简海报"
+    ],
+    "source": "用户提供的玉兔仙子宣纸幕剪影提示词（改编）",
+    "prompt": "极简东方奇幻艺术海报，写实摄影质感，清冷神秘。前景：一只雪白的兔子安静地伏在深色地面上，前爪收拢。身后：一面巨大的半透明宣纸屏风，被清冷的白色月光从背后照亮；屏风上投出一个巨大的月兔仙子剪影，仿佛兔子的影子化作了神话人物：身着层叠飘逸、宽袖汉服的优雅女子，一对修长的兔耳，半披发的中式发髻，跪坐并向前俯身行礼、双臂前伸，与前景兔子的姿态呼应；纯剪影，不显五官。画面上方一角有淡淡的满月光晕。极简构图，大面积留白；色调为冷白、灰蓝、银灰与淡墨黑；真实的宣纸纹理与兔毛质感。画面中不要任何文字。",
+    "tweet": "月光照在宣纸屏风上，一只小白兔的影子，化作了跪坐行礼的玉兔仙子 🐇🌕\n极简东方奇幻，月宫玉兔传说的一次重新想象。\n\nMoonlight on a rice-paper screen: a little white rabbit's shadow becomes the Moon Rabbit goddess, bowing in flowing hanfu.\n#AIart #玉兔",
+    "notes": "- 防撞图改动：原提示词要求裸体剪影与翘臀姿势，改为身着汉服的剪影，姿势改为与前景兔子呼应的跪坐行礼；加入满月光晕作为标志性元素。\n- 第一次尝试使用薄纱服饰被图像模型的内容政策拦截，改为层叠汉服后成功。\n- 缺陷：原提示词要求 5:4 比例，输出为横图；剪影侧脸隐约可见轮廓，并非完全无五官；屏风呈现为方格墙板而非典型的宣纸屏风。",
+    "story": "月宫玉兔传说"
+  },
+  {
+    "id": "2026-09-27-yacht-party",
+    "title": "日落游艇闺蜜派对 Sunset Yacht Birthday",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-yacht-party.png",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "群像",
+      "游艇",
+      "日落",
+      "生活抓拍"
+    ],
+    "source": "用户提供的游艇派对合影提示词（改编，原文在复刻一张具体照片）",
+    "prompt": "广角抓拍合影：十位三十多岁的女性好友在一艘白色游艇的后甲板上庆祝生日，时间为日落黄金时刻；大家欢乐地挤坐在台阶上，互相搂着肩，举杯、大笑、比 V 字手势；人物族裔、发型与体型多样，包括丰满与大码身材；色彩缤纷的度假装扮（吊带长裙、亚麻衬衫、纱笼裙、草帽、墨镜），配色有酒红、白色、豹纹、橄榄绿、荧光粉与热带印花；深海军蓝的船舱顶棚上有一盏圆形航行灯，柚木甲板，一个复古薄荷绿冷藏箱和一只黑色旅行袋，一面紫色小三角旗；两侧是海面，天空金黄；真实的手机照片质感。",
+    "tweet": "日落、游艇、一群笑到停不下来的闺蜜——生日就该这样过 🥂🌅\n不同身材、不同风格，一样闪闪发光。\n\nGolden hour, a white yacht, and ten friends who can't stop laughing. This is how birthdays should feel.\n#AIart #日落",
+    "notes": "- 防撞图改动：原文是在复刻一张具体照片，已更改游艇配色、把冷藏箱改为薄荷绿，并删除「替换中间男士」之类的复刻措辞。\n- 比基尼版本多次被图像模型的内容政策拦截，因此服装改为度假装。\n- 缺陷：要求 4:5 比例，输出为横图；画面中实际只有九位女性，不是提示词要求的十位。",
+    "story": "无"
+  },
+  {
     "id": "2026-09-27-xingmao-xunyeren",
     "title": "星猫巡夜人 Star-Cat Night Watcher",
     "date": "2026-09-27",
@@ -37,5 +77,45 @@
     "tweet": "原创角色「星猫巡夜人」：银白短发、猫耳金属发夹、深紫机能风衣上绣着银线星座，腰间挂一枚黄铜星盘，在夜里替星空巡逻 🐱✨\n四宫格角色设定：正脸、侧脸、正面服装、全身背面。\n\nMeet the Star-Cat Night Watcher, an original character who patrols the night sky: silver bob, cat-ear hairclips, a violet techwear coat stitched with constellations, and a brass astrolabe at her waist.\n#AIart #原创角色",
     "notes": "- 防撞图改动：使用原创角色「星猫巡夜人」替代模板中的通用人物；固定浅灰色纯色摄影棚背景与统一柔和棚拍光；明确要求画面中不要任何文字、标签、水印。\n- 缺陷：提示词要求竖版，但模型输出为横版 16:9 四宫格（生成两次均为横图）；四宫格版式与四格间的角色一致性（脸型、发型、服装、配饰）其余均正确。下次如需竖图，应在生成工具中另外指定竖版比例。",
     "story": "无（原创角色，呼应 coolcat 星空猫品牌）"
+  },
+  {
+    "id": "2026-09-27-heijin-wafu",
+    "title": "黑金和风·雨夜京都 Black & Gold in Rainy Kyoto",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-heijin-wafu.png",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "和风",
+      "时装大片",
+      "雨夜",
+      "京都"
+    ],
+    "source": "用户提供的黑金和风短洋装服装描述（扩写）",
+    "prompt": "写实时装大片：一位年轻东亚女性站在雨夜的京都街道上，两侧是纸灯笼与木造町屋，湿润的石板路面映着倒影；她身穿现代黑金和风短洋装：V 领，收腰，黑色缎面配金色花卉刺绣，两侧小面积半透明网纱拼接，可拆卸的黑色网纱长袖，金色流苏，短裙摆带侧开衩；黑色半透明及膝长袜，黑色低跟鞋；利落的低发髻配金色发簪，手持黑色油纸伞；85mm 镜头，浅景深，电影感。",
+    "tweet": "雨夜京都，灯笼微光，黑缎金绣的和风短洋装配一把油纸伞 ☂️\n现代剪裁遇上传统纹样。\n\nA rainy night in Kyoto: black satin, gold embroidery, and an oil-paper umbrella under the lantern glow.\n#AIart #京都",
+    "notes": "- 防撞图改动：原文只有服装描述，加入原创模特、雨夜京都场景与油纸伞，使画面独一无二。\n- 缺陷：脚部与鞋子被画面底部裁掉；输出为横图。",
+    "story": "无"
+  },
+  {
+    "id": "2026-09-27-couture-board",
+    "title": "暗夜高定·五座传说 设定板 Five Dreams, Five Legends",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-couture-board.png",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "高定礼服",
+      "设定板",
+      "暗黑奇幻",
+      "时尚概念"
+    ],
+    "source": "用户提供的高定服装设定板提示词（改编）",
+    "prompt": "奢华时装概念展示板，宽幅版式，配色为黑色、深棕、暖金与香槟金，细金色边框。\n上部「DESIGN DISPLAY」：五款暗黑奇幻风高定晚礼服，分别穿在编号 No.1–No.5 的人台上，每款含正面、背面视图与细节特写（刺绣、金链垂饰、蕾丝、钉珠、束腰结构）。主题：No.1 Midnight Rose（黑色配暗红玫瑰）；No.2 Butterfly Illusion（烟灰与裸粉，蝶翼造型上身，银链装饰）；No.3 Black Swan（黑色羽毛上身）；No.4 Golden Whisper（青铜与金色刺绣，金链）；No.5 Holy Mirage（银白、冰灰，水晶装饰）。\n中部「MODEL SHOW」：五位成年模特身穿对应礼服，宫殿长廊，金色焦外光斑，85mm 人像摄影。\n底部「CHARACTER CARD」：五张深色金边人物档案卡，含半身像与名称。\n底部标语：「Five dreams, five legends.」",
+    "tweet": "五件暗夜高定礼服，五个传说：午夜玫瑰、蝶之幻影、黑天鹅、金色低语、圣洁幻境 🖤✨\n一张设定板，从人台到走秀到角色卡。\n\nFive dark-fantasy couture gowns, five legends — from dress forms to runway to character cards.\n#AIart #高定",
+    "notes": "- 防撞图改动：原提示词为透视内衣/身体链连体衣，并附三围体重与「five temptations」标语；改为高定晚礼服，删除身材数据与原标语。\n- 缺陷：上排标签有误——第二件礼服被标为「No.2 Black Swan」，No.3 缺失；第一个人台区块没有编号；部分细节特写的名称与所在礼服不对应。",
+    "story": "无"
   }
 ]
