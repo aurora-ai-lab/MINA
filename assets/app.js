@@ -7,10 +7,12 @@
 
   const CATS = { general: "综合作品", women: "女性人像" };
   const DEFAULT_CAT = "general";
-  const state = { works: [], filtered: [], query: "", tag: "", cat: DEFAULT_CAT, current: -1, lastFocus: null };
+  const state = { works: [], filtered: [], query: "", tags: [], cat: DEFAULT_CAT, current: -1, lastFocus: null };
   const catWorks = () => state.works.filter((w) => w.category === state.cat);
   const el = {
-    grid: $("#grid"), tags: $("#tags"), search: $("#search"), status: $("#status"),
+    grid: $("#grid"), selectedTags: $("#selected-tags"), tagGroups: $("#tag-groups"), tagSearch: $("#tag-search"),
+    filterToggle: $("#filter-toggle"), filterCount: $("#filter-count"), filterPanel: $("#filter-panel"), filterClose: $("#filter-close"),
+    search: $("#search"), status: $("#status"),
     modal: $("#modal"), media: $("#m-media"), title: $("#m-title"), meta: $("#m-meta"),
     mtags: $("#m-tags"), prompt: $("#m-prompt"), extra: $("#m-extra"), copy: $("#copy"),
     share: $("#share"), prev: $("#prev"), next: $("#next"), toast: $("#toast"),
@@ -90,30 +92,67 @@
   }
 
   /* ---------- filtering ---------- */
+  const TAG_GROUPS = [
+    ["风格", ["写实", "超现实", "胶片", "水彩", "极简", "复古", "霓虹", "动漫", "油画", "水墨", "插画", "赛博朋克", "国风"]],
+    ["题材", ["科幻", "仙侠", "宇宙", "神兽", "猫咪", "美食", "建筑", "自然", "人物", "动物", "植物", "海洋", "城市", "战争"]],
+    ["画面类型", ["海报", "产品", "设定图", "信息图", "漫画", "拆解图", "概念图", "摄影", "肖像", "Logo", "UI", "包装"]],
+    ["文化元素", ["山海经", "和风", "敦煌", "西部", "传统", "汉服", "唐风", "宋风", "春节", "节日", "民俗"]],
+    ["其他", []],
+  ];
+  const groupForTag = (tag) => TAG_GROUPS.find(([, tags]) => tags.includes(tag))?.[0] || "其他";
+  function selectedByGroup() {
+    const map = new Map(TAG_GROUPS.map(([name]) => [name, []]));
+    state.tags.forEach((tag) => map.get(groupForTag(tag)).push(tag));
+    return map;
+  }
   function applyFilter() {
     const q = state.query.trim().toLowerCase();
     state.filtered = catWorks().filter((w) => {
-      if (state.tag && !(w.tags || []).includes(state.tag)) return false;
+      const workTags = w.tags || [];
+      const byGroup = selectedByGroup();
+      for (const selected of byGroup.values()) if (selected.length && !selected.some((tag) => workTags.includes(tag))) return false;
       if (!q) return true;
       const hay = [w.title, w.prompt, (w.tags || []).join(" ")].join(" ").toLowerCase();
       return q.split(/\s+/).every((t) => hay.includes(t));
     });
     renderGrid();
   }
-
-  function renderTags() {
+  function renderSelectedTags() {
+    el.selectedTags.replaceChildren(...state.tags.map((tag) => h("button", { class: "selected-chip", type: "button", "aria-label": `移除标签 ${tag}`, onclick: () => removeTag(tag) }, "#" + tag, h("span", { "aria-hidden": "true", text: "×" }))));
+    if (state.tags.length) el.selectedTags.append(h("button", { class: "clear-tags", type: "button", onclick: () => clearTags() }, "清除全部"));
+    el.filterCount.textContent = String(state.tags.length); el.filterCount.hidden = !state.tags.length;
+  }
+  function renderTagGroups() {
     const counts = new Map();
     catWorks().forEach((w) => (w.tags || []).forEach((t) => counts.set(t, (counts.get(t) || 0) + 1)));
-    // Map keeps first-seen order (newest work first); stable sort by count keeps that order on ties
-    const tags = [...counts.entries()].sort((a, b) => b[1] - a[1]);
-    el.tags.replaceChildren(
-      h("button", { class: "chip" + (state.tag ? "" : " active"), "aria-pressed": String(!state.tag), onclick: () => setTag("") }, "全部"),
-      ...tags.map(([t, n]) =>
-        h("button", { class: "chip" + (state.tag === t ? " active" : ""), "aria-pressed": String(state.tag === t), onclick: () => setTag(state.tag === t ? "" : t) },
-          "#" + t, h("small", { text: String(n) })))
-    );
+    const needle = el.tagSearch.value.trim().toLowerCase();
+    const grouped = new Map(TAG_GROUPS.map(([name, tags]) => [name, new Set(tags)]));
+    counts.forEach((_, tag) => { if (!grouped.get(groupForTag(tag))) grouped.get("其他").add(tag); });
+    el.tagGroups.replaceChildren(...TAG_GROUPS.map(([name]) => {
+      const tags = [...grouped.get(name)].filter((tag) => counts.has(tag) && (!needle || tag.toLowerCase().includes(needle))).sort((a, b) => counts.get(b) - counts.get(a) || a.localeCompare(b, "zh-CN"));
+      if (!tags.length) return null;
+      const visible = tags.slice(0, 8), hidden = tags.slice(8);
+      const more = hidden.length ? h("div", { class: "tag-more", hidden: true }, ...hidden.map((tag) => tagButton(tag, counts.get(tag)))) : null;
+      const moreBtn = hidden.length ? h("button", { class: "more-toggle", type: "button", onclick: (e) => { more.hidden = !more.hidden; e.currentTarget.textContent = more.hidden ? `更多（${hidden.length}）` : "收起"; } }, `更多（${hidden.length}）`) : null;
+      return h("section", { class: "tag-group" }, h("h3", { text: name }), h("div", { class: "tag-options" }, ...visible.map((tag) => tagButton(tag, counts.get(tag))), moreBtn, more));
+    }).filter(Boolean));
   }
-  function setTag(t) { state.tag = t; renderTags(); applyFilter(); }
+  function tagButton(tag, count) {
+    return h("button", { class: "chip" + (state.tags.includes(tag) ? " active" : ""), type: "button", "aria-pressed": String(state.tags.includes(tag)), onclick: () => setTag(tag) }, "#" + tag, h("small", { text: String(count) }));
+  }
+  function setTag(tag) {
+    if (!tag) return clearTags();
+    if (state.tags.includes(tag)) state.tags = state.tags.filter((t) => t !== tag);
+    else state.tags = [...state.tags, tag];
+    renderSelectedTags(); renderTagGroups(); applyFilter(); syncUrl();
+  }
+  function removeTag(tag) { state.tags = state.tags.filter((t) => t !== tag); renderSelectedTags(); renderTagGroups(); applyFilter(); syncUrl(); }
+  function clearTags() { state.tags = []; renderSelectedTags(); renderTagGroups(); applyFilter(); syncUrl(); }
+  function toggleFilter(open) {
+    const next = open == null ? el.filterPanel.hidden : open;
+    el.filterPanel.hidden = !next; el.filterToggle.setAttribute("aria-expanded", String(next));
+    if (next) { renderTagGroups(); setTimeout(() => el.tagSearch.focus(), 0); }
+  }
 
   function renderCats() {
     document.querySelectorAll("#cats .cat").forEach((b) => {
@@ -127,9 +166,9 @@
     if (!CATS[c]) c = DEFAULT_CAT;
     const changed = c !== state.cat;
     state.cat = c;
-    if (changed) state.tag = "";
-    renderCats(); renderTags(); applyFilter();
-    if (updateHash) history.replaceState(null, "", c === DEFAULT_CAT ? location.pathname + location.search : "#" + c);
+    if (changed) state.tags = [];
+    renderCats(); renderSelectedTags(); renderTagGroups(); applyFilter();
+    if (updateHash) syncUrl();
   }
   document.querySelectorAll("#cats .cat").forEach((b) => b.addEventListener("click", () => setCat(b.dataset.cat, true)));
 
@@ -174,13 +213,13 @@
 
   function renderGrid() {
     const list = state.filtered, total = catWorks().length, label = CATS[state.cat];
-    const filtering = state.query.trim() || state.tag;
+    const filtering = state.query.trim() || state.tags.length;
     el.status.textContent = filtering ? `${label} · 找到 ${list.length} / ${total} 件作品` : total ? `${label} · 共 ${total} 件作品 · 点击作品查看提示词` : `${label} · 暂无作品`;
     el.grid.classList.toggle("sparse", !filtering && total > 0 && total <= SPARSE_MAX);
     if (!list.length) {
       el.grid.replaceChildren(total
         ? h("div", { class: "empty" }, h("p", { text: "没有找到匹配的作品，换个关键词试试？" }),
-            h("button", { class: "ghost-btn", onclick: () => { el.search.value = ""; state.query = ""; setTag(""); } }, "清除筛选"))
+            h("button", { class: "ghost-btn", onclick: () => { el.search.value = ""; state.query = ""; clearTags(); } }, "清除筛选"))
         : h("div", { class: "soon soon-empty" },
             h("span", { class: "spark", text: "✦" }),
             h("h3", { text: `「${label}」更多作品即将上线` }),
@@ -264,8 +303,17 @@
     const v = el.media.querySelector("video"); if (v) v.pause();
     el.media.replaceChildren();
     document.title = "Coolcat · AI 艺术作品与提示词";
-    if (location.hash) history.replaceState(null, "", location.pathname + location.search + (state.cat === DEFAULT_CAT ? "" : "#" + state.cat));
+    if (location.hash) { syncUrl(); const url = new URL(location.href); url.hash = ""; history.replaceState(null, "", url.pathname + url.search); }
     if (state.lastFocus && state.lastFocus.focus) state.lastFocus.focus({ preventScroll: true });
+  }
+
+  function syncUrl() {
+    const url = new URL(location.href);
+    url.searchParams.delete("cat"); url.searchParams.delete("q"); url.searchParams.delete("tags");
+    if (state.cat !== DEFAULT_CAT) url.searchParams.set("cat", state.cat);
+    if (state.query.trim()) url.searchParams.set("q", state.query.trim());
+    if (state.tags.length) url.searchParams.set("tags", state.tags.join(","));
+    history.replaceState(null, "", url.pathname + (url.searchParams.toString() ? "?" + url.searchParams.toString() : "") + url.hash);
   }
 
   function step(d) {
@@ -308,14 +356,25 @@
   });
   function fromHash() {
     const id = decodeURIComponent(location.hash.slice(1));
+    const params = new URLSearchParams(location.search);
+    const cat = params.get("cat") || (CATS[id] ? id : DEFAULT_CAT);
+    state.query = params.get("q") || ""; el.search.value = state.query;
+    setCat(cat);
+    state.tags = (params.get("tags") || "").split(",").filter((tag) => tag && catWorksFor(cat).some((w) => (w.tags || []).includes(tag)));
+    renderSelectedTags(); renderTagGroups(); applyFilter();
     if (id && state.works.some((w) => w.id === id)) openWork(id, true);
-    else if (CATS[id]) { closeModal(); setCat(id); }
-    else if (!id) { closeModal(); setCat(DEFAULT_CAT); }
+    else closeModal();
   }
+  function catWorksFor(cat) { return state.works.filter((w) => w.category === cat); }
   addEventListener("hashchange", fromHash);
 
   let st;
-  el.search.addEventListener("input", () => { clearTimeout(st); st = setTimeout(() => { state.query = el.search.value; applyFilter(); }, 120); });
+  el.search.addEventListener("input", () => { clearTimeout(st); st = setTimeout(() => { state.query = el.search.value; applyFilter(); syncUrl(); }, 120); });
+  el.filterToggle.addEventListener("click", () => toggleFilter());
+  el.filterClose.addEventListener("click", () => toggleFilter(false));
+  el.tagSearch.addEventListener("input", () => renderTagGroups());
+  document.addEventListener("click", (e) => { if (!el.filterPanel.hidden && !e.target.closest("#filter-panel, #filter-toggle")) toggleFilter(false); });
+  document.addEventListener("keydown", (e) => { if (e.key === "Escape" && !el.filterPanel.hidden) { e.stopPropagation(); toggleFilter(false); } });
 
   /* ---------- boot ---------- */
   stars();
@@ -326,7 +385,7 @@
         .filter((w) => w && w.id && w.image)
         .map((w) => Object.assign({}, w, { category: CATS[w.category] ? w.category : DEFAULT_CAT }))
         .sort((a, b) => String(b.date).localeCompare(String(a.date)) || String(b.id).localeCompare(String(a.id)));
-      renderCats(); renderTags(); applyFilter(); fromHash();
+      renderCats(); renderSelectedTags(); renderTagGroups(); applyFilter(); fromHash();
     })
     .catch((err) => {
       console.error(err);

@@ -44,7 +44,18 @@
       <svg class="search-icon" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M11 19a8 8 0 1 1 0-16 8 8 0 0 1 0 16zm10 2-4.35-4.35"/></svg>
       <input id="search" type="search" placeholder="搜索标题、提示词或标签…" autocomplete="off" aria-label="搜索作品">
     </div>
-    <div id="tags" class="tags" role="toolbar" aria-label="标签筛选"></div>
+    <button id="filter-toggle" class="filter-toggle" type="button" aria-expanded="false" aria-controls="filter-panel">
+      <span class="filter-glyph" aria-hidden="true">☷</span>筛选<span id="filter-count" class="filter-count" hidden>0</span>
+    </button>
+    <div id="selected-tags" class="selected-tags" role="toolbar" aria-label="已选标签"></div>
+    <div id="filter-panel" class="filter-panel" hidden>
+      <div class="filter-panel-head">
+        <div><strong>筛选作品</strong><span>同组标签为「或」，不同组之间为「且」</span></div>
+        <button id="filter-close" class="filter-close" type="button" aria-label="关闭筛选">✕</button>
+      </div>
+      <label class="filter-search"><span aria-hidden="true">⌕</span><input id="tag-search" type="search" placeholder="搜索标签…" autocomplete="off" aria-label="搜索标签"></label>
+      <div id="tag-groups" class="tag-groups"></div>
+    </div>
   </section>
 
   <main>
