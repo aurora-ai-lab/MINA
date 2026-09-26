@@ -1,5 +1,24 @@
 [
   {
+    "id": "2026-09-27-zipper-ocean-night-sky",
+    "title": "拉开海面的星空拉链 Zipper Revealing the Cosmos in the Sea",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-zipper-ocean-night-sky.png?v=28917260",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "超现实",
+      "脑洞",
+      "宇宙",
+      "电影感"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 1: 现实的拉链 (The Unzipping of Reality)",
+    "prompt": "一只超现实的巨手从平静的海面中伸出，拉开一条横亘海面的巨大拉链。拉链外是写实的蔚蓝海水与阳光粼粼的波纹，拉链开口内露出深紫色的星云宇宙与闪烁的星辰。海面像布料一样在拉链周围起皱，令人脑洞大开，8K，电影感。",
+    "tweet": "拉开海面的星空拉链 ✨ Zipper Revealing the Cosmos in the Sea\n超现实 · 脑洞 · 宇宙 · 电影感\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：蓝天改为平静的海面，代码矩阵改为深紫色星云宇宙，巨手改为从海里伸出的巨手。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。"
+  },
+  {
     "id": "2026-09-27-zhulong",
     "title": "烛龙 Zhulong（Candle Dragon）",
     "date": "2026-09-27",
@@ -37,6 +56,25 @@
     "tweet": "月光照在宣纸屏风上，一只小白兔的影子，化作了跪坐行礼的玉兔仙子 🐇🌕\n极简东方奇幻，月宫玉兔传说的一次重新想象。\n\nMoonlight on a rice-paper screen: a little white rabbit's shadow becomes the Moon Rabbit goddess, bowing in flowing hanfu.\n#AIart #玉兔",
     "notes": "- 防撞图改动：原提示词要求裸体剪影与翘臀姿势，改为身着汉服的剪影，姿势改为与前景兔子呼应的跪坐行礼；加入满月光晕作为标志性元素。\n- 第一次尝试使用薄纱服饰被图像模型的内容政策拦截，改为层叠汉服后成功。\n- 缺陷：原提示词要求 5:4 比例，输出为横图；剪影侧脸隐约可见轮廓，并非完全无五官；屏风呈现为方格墙板而非典型的宣纸屏风。\n\n**2026-09-27 重做（第二版）**：参考用户提供的同题作品，改为大满月背光、竖向纱帘、横跨画面的柔边大剪影、前景兔子放左下角低机位；剪影保持穿长袍、改为趴伏托腮翘小腿的姿势（不做裸体翘臀，也避免撞参考图）。",
     "story": "月宫玉兔传说"
+  },
+  {
+    "id": "2026-09-27-yami-kawaii-studio-adult",
+    "title": "暗黑可爱风棚拍 Yami-Kawaii Studio Portrait",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-yami-kawaii-studio-adult.png?v=ca3ffb5d",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "暗黑可爱",
+      "棚拍",
+      "时尚",
+      "日系"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》15.1 暗黑可爱影棚",
+    "prompt": "一位约25岁的成年日本女子暗黑可爱风时尚棚拍，宽大的粉色开衫配黑色阔腿裤与厚底鞋，丝带项链，齐刘海，眼下腮红与水润唇，粉黑相间并带深紫色的背景上印着小猫与星星图案，50mm。",
+    "tweet": "暗黑可爱风棚拍 ✨ Yami-Kawaii Studio Portrait\n暗黑可爱 · 棚拍 · 时尚 · 日系\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：人物明确为约25岁成年女性，百褶短裙及膝袜改为黑色阔腿裤配厚底鞋，粉黑背景加入深紫与小猫图案。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
   },
   {
     "id": "2026-09-27-yacht-party",
@@ -98,6 +136,82 @@
     "notes": "- 防撞图改动：夜色暗调改为黎明金紫天光，四象神兽换成原创九尾白鹿与雷纹玄鲸，场景从浮空山改为倒悬的冰川仙岛。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。"
   },
   {
+    "id": "2026-09-27-wisteria-kimono-swordswoman",
+    "title": "紫藤和服女剑士 Wisteria Kimono Swordswoman",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-wisteria-kimono-swordswoman.png?v=b1b79f61",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "和风",
+      "华丽",
+      "奇幻",
+      "女剑士"
+    ],
+    "source": "VibeShot 知识库《2026年3月》古典和服樱花武士女 by 迪丽热霉",
+    "prompt": "一位约26岁的成年女子身着华丽的高领和服，和服以紫藤紫与银白为主色，布满精美的紫藤与流云纹样，背后系着精致的大太鼓结腰带，领口与袖口有银线刺绣的彼岸花纹。头发高高盘起，插着紫藤花串、银簪等饰品，手扶一把黑鞘武士刀。她身处夜色中的紫藤花廊，垂落的花穗间点缀着发光的奇幻花草，一只黑猫蜷在她脚边的石灯笼上。月光与灯笼光交织出神秘氛围，整体呈现日式华丽又带奇幻感的风格。",
+    "tweet": "紫藤和服女剑士 ✨ Wisteria Kimono Swordswoman\n和风 · 华丽 · 奇幻 · 女剑士\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：彼岸花纹身改为和服上的银线刺绣，红色主调改为紫藤紫与银白，幽暗花草改为夜色紫藤花廊并加入一只黑猫。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-window-seat-sketcher",
+    "title": "窗边速写的女孩 Window-Seat Sketcher",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-window-seat-sketcher.png?v=89bab6d5",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "文艺",
+      "咖啡馆",
+      "速写",
+      "背影"
+    ],
+    "source": "VibeShot 知识库《前女友系列》前女友系列 #12",
+    "prompt": "一个从肩后视角拍下的抓拍瞬间：一位约25岁的成年女子坐在河畔茶室的窗边画速写，长直发自然垂落，刘海别在耳后，身穿燕麦色亚麻长袖衬衫连衣裙，姿态安静优雅。速写本上是一只正在打盹的猫，桌上放着一杯茶，窗外是傍晚金光中的河面与行人虚化光斑，富有艺术内省感。",
+    "tweet": "窗边速写的女孩 ✨ Window-Seat Sketcher\n文艺 · 咖啡馆 · 速写 · 背影\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：露背吊带裙改为亚麻衬衫连衣裙，咖啡馆改为河畔茶室，午后改为傍晚金光，并在速写本上画一只猫。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-window-reflection-paradox",
+    "title": "车窗倒影悖论 Train-Window Reflection Paradox",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-window-reflection-paradox.png?v=9e609854",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "心理惊悚",
+      "倒影",
+      "悖论",
+      "电影感"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 14: 镜面悖论 (情绪分离)",
+    "prompt": "心理惊悚概念：一位约28岁的成年女子坐在夜行列车的车窗边，现实中她神情平静地看着书，但车窗玻璃里的倒影却满脸惊恐地盯着她身后。车厢细节丰富，冷白灯光，窗外一片漆黑，心理惊悚氛围。",
+    "tweet": "车窗倒影悖论 ✨ Train-Window Reflection Paradox\n心理惊悚 · 倒影 · 悖论 · 电影感\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：女孩改为约28岁成年女性，镜子改为夜行列车的车窗，哭与笑互换为现实平静而倒影惊恐。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-vintage-camera-container-blueprint",
+    "title": "复古相机容器蓝图 Vintage Camera Container Blueprint",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-vintage-camera-container-blueprint.png?v=7b596c42",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "拆解图",
+      "相机",
+      "工程图",
+      "海报"
+    ],
+    "source": "VibeShot 知识库《2026年1月》创意相册 by 迪丽冷弘",
+    "prompt": "竖版9:16图像，画面在1/3高度处被一条锐利水平线物理分割。上1/3：一个宽幅矩形\"容器\"，深紫到黑色渐变背景，中央悬浮着一台完整缩小的原创双镜头反光复古相机（皮革机身、黄铜旋钮），上下留有明显空白边距，不接触分割线，电影感照片质感。下2/3：全部为墨绿色旧图纸上的高密度技术蓝图——爆炸视图、线框、光路示意、快门结构剖面与英文标注，从分割线下方立即开始，排布紧凑精密。",
+    "tweet": "复古相机容器蓝图 ✨ Vintage Camera Container Blueprint\n拆解图 · 相机 · 工程图 · 海报\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：填充主体为一台原创双镜头反光复古相机，旧纸改为墨绿色图纸，上方容器背景加入深紫渐变。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 9:16。"
+  },
+  {
     "id": "2026-09-27-vaporwave-venus-bust",
     "title": "蒸汽波维纳斯胸像 Vaporwave Classical Bust",
     "date": "2026-09-27",
@@ -115,6 +229,101 @@
     "prompt": "超现实蒸汽波赛博海报：一尊原创古典女神石膏胸像（头部与上身）的写实博物馆摄影特写，戴着复古头戴式耳机，几只发光的全息蝴蝶围绕飞舞。极简抽象的径向全息渐变背景，高饱和霓虹蒸汽波配色并混入深紫星尘，细微光粒子，平面2D图形叠层：全息渐变几何形状、柔光与故障切片。粗犷不规则的日式动漫风字体发出霓虹光，写着\"NIGHT SIGNAL\"。写实基底+强烈霓虹发光，梦幻复古未来氛围，9:16。避免：插画感、3D渲染感、卡通、低分辨率。",
     "tweet": "蒸汽波维纳斯胸像 ✨ Vaporwave Classical Bust\n蒸汽波 · 海报 · 古典雕塑 · 霓虹\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
     "notes": "- 防撞图改动：把圣殇像换成原创古典女神石膏胸像，去掉香烟改为耳机与漂浮的蝴蝶，文字改为\"NIGHT SIGNAL\"，加入深紫星尘。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 9:16。"
+  },
+  {
+    "id": "2026-09-27-vajra-aim-goddess",
+    "title": "金刚指·星窟女神 Vajra-Aim Cave Goddess",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-vajra-aim-goddess.png?v=4ee6bc2c",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "敦煌",
+      "写实",
+      "手部透视",
+      "暗黑"
+    ],
+    "source": "VibeShot 知识库《2026年2月》暗黑个人写实头像 by 迪丽热浪",
+    "prompt": "主体：照片级写实的敦煌风原创女神，约26岁成年女性，冷白瓷肌。动作：\"金刚瞄准\"视角，悬浮在深紫色星空石窟中。姿态几何：前景中她的右手结金刚印（食指中指并拢如剑，拇指扣住，其余手指弯曲），指尖几乎贴近镜头直指观者；极致微距聚焦指尖纹理与青金石银质指饰；瞄准的手部分遮挡面部，一只眼睛从指缝间锐利地看向镜头。身披飘带与壁画色彩的衣饰，背后石窟壁上有褪色飞天壁画与星点。戏剧性顶光，高对比，暗调，强透视前缩。",
+    "tweet": "金刚指·星窟女神 ✨ Vajra-Aim Cave Goddess\n敦煌 · 写实 · 手部透视 · 暗黑\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：人物明确为约26岁成年女神，虚空背景改为深紫星空石窟，金色指套改为青金石与银质指饰。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-umbrella-shadow-dragon",
+    "title": "雨伞与龙影 Umbrella Casting a Dragon Shadow",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-umbrella-shadow-dragon.png?v=69480e0c",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "概念艺术",
+      "影子",
+      "极简",
+      "反转"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 18: 阴影实体化 (光影逻辑反转)",
+    "prompt": "一把红色油纸伞悬浮在阳光下的白色石板广场上方，地面投下的影子不是伞，而是一条盘旋的龙。概念艺术，极简，强烈的硬光，令人不安又充满东方意趣。",
+    "tweet": "雨伞与龙影 ✨ Umbrella Casting a Dragon Shadow\n概念艺术 · 影子 · 极简 · 反转\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：篮球改为一把红色油纸伞，骷髅影子改为一条盘旋的龙影，球场改为白色石板广场。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 4:3。"
+  },
+  {
+    "id": "2026-09-27-ukiyoe-thunder-swordsman-card",
+    "title": "浮世绘雷之剑士闪卡 Ukiyo-e Thunder Swordsman Holo Card",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-ukiyoe-thunder-swordsman-card.png?v=d1591052",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "浮世绘",
+      "集换卡",
+      "剑士",
+      "和风"
+    ],
+    "source": "VibeShot 知识库《1鬼灭之刃系列》鬼灭之刃·浮世绘闪卡 Prompt 模板",
+    "prompt": "一张日式浮世绘风格的收藏级集换式卡牌设计，竖构图。插画风格为日式动漫与传统木版画结合：粗细变化的墨笔轮廓线、传统木版画配色、戏剧性的动态构图。主角是一位原创成年剑士\"鸣神·凛\"（称号：雷之剑士），黑发高束，身披紫白相间的几何纹羽织，处于低身突进的战斗姿势，手持一柄刀身带雷纹的长刀，正在施展\"雷鸣·紫电一闪\"，周围环绕着以传统日式水墨（墨绘）风格呈现的紫色雷电与翻卷乌云。背景融合纹理化的镭射闪卡效果，在水墨元素下方闪烁。四周是日本传统麻叶纹装饰边框，底部有一个风格化横幅，用古朴的日式书法写着\"鳴神 凛\"。",
+    "tweet": "浮世绘雷之剑士闪卡 ✨ Ukiyo-e Thunder Swordsman Holo Card\n浮世绘 · 集换卡 · 剑士 · 和风\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：将鬼灭角色模板填充为原创的\"雷鸣剑士\"，火焰/水龙改为紫色雷电与乌云，青海波边框改为麻叶纹边框。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-typewriter-hands-key-closeup",
+    "title": "打字机上的手 Hands on a Vintage Typewriter",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-typewriter-hands-key-closeup.png?v=826cc9f7",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "手部",
+      "打字机",
+      "复古",
+      "细节"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 44: 完美键盘",
+    "prompt": "特写：一双手在复古打字机上打字，键帽为正确的QWERTY布局，焦点落在按下字母\"Q\"键的手指上，纸张上有几行字，暖色台灯光。",
+    "tweet": "打字机上的手 ✨ Hands on a Vintage Typewriter\n手部 · 打字机 · 复古 · 细节\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：机械键盘改为复古打字机，RGB灯光改为暖色台灯，焦点改为按下字母键\"Q\"。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 4:3。\n- 成图瑕疵：键盘排列乱了，不是标准 QWERTY。"
+  },
+  {
+    "id": "2026-09-27-traffic-light-cats",
+    "title": "红绿灯里的三只猫 Three Cats in a Traffic Light",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-traffic-light-cats.png?v=0c3fd858",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "创意",
+      "3D",
+      "猫咪",
+      "城市"
+    ],
+    "source": "VibeShot 知识库《2026年1月》创意路灯 by Richmond Zhu",
+    "prompt": "一张照片级写实的3D渲染，低角度仰拍一根锈迹斑斑、缠着爬藤的金属红绿灯杆，背景是雨后黄昏的橙紫天空。三个灯同时亮起，每个灯罩里都探出一只原创猫咪，完全按各自性格表演：顶部红灯里是一只炸毛的暴躁黑猫，被强烈红光笼罩，龇牙哈气；中间黄灯里是一只慵懒的橘猫，在明黄光中打着哈欠、半眯眼；底部绿灯里是一只兴奋的三花猫，被绿光照亮，前爪扒着灯罩边缘准备跳出。猫咪毛发质感真实，与灯罩内壁的反光、水珠和锈迹自然互动，戏剧性彩色补光，浅景深。",
+    "tweet": "红绿灯里的三只猫 ✨ Three Cats in a Traffic Light\n创意 · 3D · 猫咪 · 城市\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：把午夜凶铃角色换成三只原创性格猫咪，晴天改为雨后黄昏，锈迹灯杆加上爬藤。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
   },
   {
     "id": "2026-09-27-titan-hand-in-mist",
@@ -155,6 +364,82 @@
     "notes": "- 防撞图改动：四个白大褂小人改为穿深紫工装的迷你舞台布景师，工具从吹风机/眼线改为画笔、梯子吊灯、星星贴纸，绿眼改为琥珀色眼睛。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
   },
   {
+    "id": "2026-09-27-time-lag-window-candle",
+    "title": "延迟的窗影与蜡烛 Time-Lag Reflection with a Candle",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-time-lag-window-candle.png?v=f5d1533f",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "惊悚",
+      "时间悖论",
+      "倒影",
+      "电影感"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 5: 时间延迟的镜子 (The Time-Lag Mirror)",
+    "prompt": "惊悚电影镜头：一位男子站在夜晚书房的窗前，手里端着一支刚点燃的新蜡烛。在窗玻璃的倒影中，他手中的蜡烛却已几乎燃尽、蜡泪流满烛台，倒影中的他神情疲惫苍老了许多。房间完全一致，形成时间悖论。电影光效，不祥的氛围。",
+    "tweet": "延迟的窗影与蜡烛 ✨ Time-Lag Reflection with a Candle\n惊悚 · 时间悖论 · 倒影 · 电影感\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：浴室镜子改为夜晚的书房窗玻璃，红苹果改为点燃的蜡烛，倒影中蜡烛已燃尽。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-terracotta-penrose-courtyard",
+    "title": "赤陶色彭罗斯庭院 Terracotta Penrose Courtyard",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-terracotta-penrose-courtyard.png?v=e1e7ea08",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "建筑",
+      "彭罗斯",
+      "重力",
+      "超写实"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 4: 莫比乌斯建筑 (The Penrose Architecture)",
+    "prompt": "令人费解的建筑摄影：一座赤陶色墙面与黛瓦的中式庭院，楼梯构成无限的彭罗斯循环，提着灯笼的人与几只猫同时在地面、墙面和屋檐下行走，重力相对于各自所在的表面。阴影朝不同方向投下，却在场景内自洽。照片级写实。",
+    "tweet": "赤陶色彭罗斯庭院 ✨ Terracotta Penrose Courtyard\n建筑 · 彭罗斯 · 重力 · 超写实\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：去掉艺术家与电影名，白色建筑改为赤陶色中式庭院，行人改为提灯的人与几只猫。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-teahouse-indigo-qipao",
+    "title": "茶室靛蓝旗袍 Indigo Qipao in a Teahouse",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-teahouse-indigo-qipao.png?v=4c8054f9",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "旗袍",
+      "茶室",
+      "古典",
+      "中式"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》11.1 茶室古典",
+    "prompt": "一位约27岁的成年中国女子身穿靛蓝色丝绸旗袍，领口为立领，衣身有淡雅的白梅刺绣，站在阳光斜照的茶室中雕花木屏旁，姿态优雅，一手执一把紫砂小茶壶、一手轻触桌面，低发髻插着玉簪，经典红唇与柔和眼线，温暖的漫射窗光，抛光红木家具，背景是水墨山水屏风，柔和胶片感，四分之三身，85mm。",
+    "tweet": "茶室靛蓝旗袍 ✨ Indigo Qipao in a Teahouse\n旗袍 · 茶室 · 古典 · 中式\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：翡翠绿旗袍改为靛蓝底白梅刺绣旗袍，团扇改为紫砂茶壶，书法卷轴改为山水屏风。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 9:16。"
+  },
+  {
+    "id": "2026-09-27-teacup-observatory-miniature",
+    "title": "茶杯里的天文台 Observatory in a Teacup",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-teacup-observatory-miniature.png?v=4bb68970",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "微缩",
+      "奇幻",
+      "微距",
+      "天文"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 37: 核桃图书馆 (微缩景观)",
+    "prompt": "一座迷你魔法天文台建在一只缺了口的旧瓷茶杯里，微小的望远镜、星图与铜质浑天仪，一只极小的猫趴在栏杆上，星光与奇幻尘埃，微距摄影。",
+    "tweet": "茶杯里的天文台 ✨ Observatory in a Teacup\n微缩 · 奇幻 · 微距 · 天文\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：核桃壳改为一只缺口的旧瓷茶杯，图书馆改为天文台，烛光改为星光。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 1:1。"
+  },
+  {
     "id": "2026-09-27-tang-lady-plum-garden",
     "title": "梅园里的唐风贵女 Tang Noblewoman in the Plum Garden",
     "date": "2026-09-27",
@@ -172,6 +457,44 @@
     "prompt": "胶片摄影，镜头语言，淡彩，个性视角。一位约25岁的成年女子，皮肤白皙光滑，五官比例优美，身着武周时期唐代服饰，京城贵女形象，发髻繁复，头戴鎏金步摇与珍珠饰品，与衣裙呼应。冬季厚衣，外披黛紫色织锦斗篷，绸缎刺绣衣裙层次分明，手持一把绘有山水的团扇。身处雪后的红梅园，光线明亮柔和。神情沉静、心思深沉，带权谋感。柔焦美学，细腻肌理，伦勃朗光，强光影对比，大光圈虚化，85mm镜头质感，lomo效果，朦胧美学，情绪叙事，电影感，杰作。",
     "tweet": "梅园里的唐风贵女 ✨ Tang Noblewoman in the Plum Garden\n古风 · 唐风 · 胶片 · 人像\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
     "notes": "- 防撞图改动：花园改为雪后的红梅园，白色大氅换成黛紫色织锦斗篷，丝绢换成一把团扇，人物明确为成年女子。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-sweet-cool-staircase",
+    "title": "甜酷混搭街梯 Sweet-Cool Mix on Street Stairs",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-sweet-cool-staircase.png?v=2eb66366",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "甜酷",
+      "混搭",
+      "街拍",
+      "韩系"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》6.1 甜酷混搭",
+    "prompt": "一位约25岁的成年韩国女子甜酷混搭风，坐在彩色街道台阶上，荷叶边衬衫外搭短款皮夹克，直筒牛仔裤与厚底乐福鞋，空气刘海，柔和腮红配细翼眼线，日光，50mm。",
+    "tweet": "甜酷混搭街梯 ✨ Sweet-Cool Mix on Street Stairs\n甜酷 · 混搭 · 街拍 · 韩系\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：巷子改为彩色街梯，褶裙改为直筒牛仔裤，玛丽珍鞋改为厚底乐福鞋。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-sunrise-bound-yoga-cliff",
+    "title": "崖顶日出瑜伽 Sunrise Yoga on a Cliff",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-sunrise-bound-yoga-cliff.png?v=2d49a7ea",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "瑜伽",
+      "日出",
+      "解剖",
+      "运动"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 43: 复杂的瑜伽",
+    "prompt": "一位约30岁的成年女子在日出时的崖顶草地上做高难度的鹰式单腿平衡瑜伽，手臂与腿部准确地相互缠绕，身穿长袖上衣与全长瑜伽裤，解剖结构正确的肌肉线条，远处云海。",
+    "tweet": "崖顶日出瑜伽 ✨ Sunrise Yoga on a Cliff\n瑜伽 · 日出 · 解剖 · 运动\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：海滩改为日出崖顶，人物明确为约30岁成年女性并穿长袖长裤瑜伽服，姿势改为手臂缠绕的鹰式单腿平衡。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。\n- 成图瑕疵：鹰式没做出来，姿势更像普通单腿站立。"
   },
   {
     "id": "2026-09-27-studio-window-illustrator",
@@ -212,6 +535,63 @@
     "notes": "- 防撞图改动：把欧洲地图换成丝绸之路沿线的东亚—中亚大陆地图，罗马皇帝换成原创草原可汗骑马立像，暖金色调改为黄昏琥珀+深紫夜空。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。"
   },
   {
+    "id": "2026-09-27-stationmaster-in-the-kiosk",
+    "title": "小站站务员 The Little Station Attendant",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-stationmaster-in-the-kiosk.png?v=0590f632",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "胶片",
+      "昭和",
+      "制服",
+      "人像"
+    ],
+    "source": "VibeShot 知识库《karin复刻系列》3.警官",
+    "prompt": "一位约27岁的成年日本女子，瓷白肌肤，淡妆配鲜红唇色，笔直的栗棕色头发扎成利落马尾配齐刘海，身穿合身的藏青色铁路站务员制服外套，金色纽扣与徽章，白衬衫配墨绿色领结，同色长裤，白手套，戴着站务帽，端正地坐在乡间小站站务室的窄木长椅上，戴手套的双手轻叠捧着一只搪瓷茶杯，下巴微收直视镜头，姿态沉静优雅。她左右各有一位年长的铁路员工：左边是倚在门框边、帽子微斜的老站长，手肘搭在膝上，神情温和；右边是穿条纹短袖衬衫的检票员，双臂抱胸，若有所思。站务室狭小，墙上贴满泛黄的时刻表和手写告示，架子上堆着信号灯、票夹与旧收音机，窗外是黄昏的单线铁轨。从门口拍摄，木门框形成框中框；一两盏裸露的白炽灯投下局部琥珀光，迅速没入黑暗。平视近距离，35mm焦段感，3:4竖构图，暖琥珀色调，低饱和，细腻胶片颗粒，高光略过曝，80年代模拟快照感，浅景深。",
+    "tweet": "小站站务员 ✨ The Little Station Attendant\n胶片 · 昭和 · 制服 · 人像\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：警察制服改为铁路站务员制服（裤装），小酒吧改为乡间小站的站务室，两名警察改为两位老站长与检票员，并去掉摄影师名字。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-starry-river-poet-ink",
+    "title": "醉饮星河的诗人 Poet Toasting the Star River",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-starry-river-poet-ink.png?v=1c06801e",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "水墨",
+      "超现实",
+      "书法",
+      "诗意"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 1: 李白的狂想 (诗画合一·终极测试)",
+    "prompt": "一幅超现实水墨画杰作：一位身着古袍、微醺的无名诗人坐在江边礁石上，举壶对着倒映星河的江面，江水中的倒影里浮现出一只由月光凝成的猫与他对饮。夜空中如金粉般漂浮的竖排书法诗句写着\"一壶星河醉，半袖月光寒\"。空灵氛围，魔幻现实主义，杰作，8K。",
+    "tweet": "醉饮星河的诗人 ✨ Poet Toasting the Star River\n水墨 · 超现实 · 书法 · 诗意\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：李白改为无名的原创诗人，原诗改为原创对联\"一壶星河醉，半袖月光寒\"，影子成人改为倒影中浮现一只月光猫。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-spiral-staircase-city-view",
+    "title": "旋转楼梯上的城市 City View from a Spiral Staircase",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-spiral-staircase-city-view.png?v=964ad230",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "职场",
+      "都市",
+      "倒影",
+      "人像"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》3.2 玻璃电梯",
+    "prompt": "一位约28岁的成年日本女子站在高层玻璃幕墙旁的白色旋转楼梯上，身穿丝质衬衫配阔腿西裤与低跟鞋，极简首饰，直发，自然光泽妆容，身后是黄昏的城市天际线，85mm。",
+    "tweet": "旋转楼梯上的城市 ✨ City View from a Spiral Staircase\n职场 · 都市 · 倒影 · 人像\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：玻璃电梯改为玻璃幕墙旁的旋转楼梯，铅笔裙高跟鞋改为丝质衬衫配阔腿西裤，城市倒影改为黄昏城市天际线。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
     "id": "2026-09-27-spatial-os-home",
     "title": "空间计算操作系统界面 Spatial OS Home Screen",
     "date": "2026-09-27",
@@ -229,6 +609,101 @@
     "prompt": "一张照片级写实的头戴式空间计算设备第一人称界面截图：原创无品牌操作系统，多个半透明磨砂玻璃质感的3D浮动窗口与立体应用图标呈弧形排列在用户周围，与真实的夜晚阁楼书房透视画面自然融合（木梁、书架、窗外城市灯光）。打开的窗口包括：浏览器、立体相册、音乐专辑封面、聊天气泡、笔记，以及一个生成式绘画窗口正漂浮出几张星空插画。眼动选中的图标有柔和白色辉光，其中一个图标是小猫头像。视野下方可见手势指针。深紫星云色调与柔和环境光，虚拟元素在真实环境上投下体积光影，圆角极简UI，超清微显示质感，宽幅沉浸构图。无品牌标志、无水印。",
     "tweet": "空间计算操作系统界面 ✨ Spatial OS Home Screen\nUI设计 · 空间计算 · 未来科技 · 界面\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
     "notes": "- 防撞图改动：去掉所有品牌与真实App名称，改为原创\"Nebula OS\"风格的无品牌界面，场景从客厅透视改为夜晚的阁楼书房，主色加入深紫星云与一只猫咪图标。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。"
+  },
+  {
+    "id": "2026-09-27-song-dynasty-sentinel-mech",
+    "title": "宋风哨卫机甲 Song-Dynasty Sentinel Mech",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-song-dynasty-sentinel-mech.png?v=a7bdf1dd",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "机甲",
+      "国风",
+      "融合",
+      "写实"
+    ],
+    "source": "VibeShot 知识库《2026年2月》黑武士机甲 by voxcat",
+    "prompt": "粗粝的赛博国风融合写实：一台原创重型战术机甲与宋代山文甲的超写实融合。场景：机甲以\"静守哨卫\"姿态单膝跪在雨中古城门前，双手扶着一柄十米长的宋式长刀，背部推进器垂下五米长的青色旗幡（兼作冷却散热片）。光学：35mm变形宽银幕镜头，水平镜头光晕。构图：L形构图，竖直的机体与水平延展的旗幡平衡。机体：关节处有山文甲片纹理，漆面剥落，雨水顺着甲片流下，城门灯笼映出暖光。电影级写实。",
+    "tweet": "宋风哨卫机甲 ✨ Song-Dynasty Sentinel Mech\n机甲 · 国风 · 融合 · 写实\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：去掉高达名称改为原创战术机甲，唐代甲胄改为宋代山文甲，披帛改为青色旗幡，场景从寺庙废墟改为雨中古城门。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。"
+  },
+  {
+    "id": "2026-09-27-sofubi-phoenix-queen",
+    "title": "软胶凤凰女王 Sofubi Phoenix Queen Toy",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-sofubi-phoenix-queen.png?v=5a5fd8c5",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "潮玩",
+      "唐卡",
+      "镭射",
+      "产品摄影"
+    ],
+    "source": "VibeShot 知识库《rare-style-explorer/style_library》E024 软胶龙王",
+    "prompt": "软胶凤凰女王潮玩，敦煌藻井式的矿物颜料对称构图，镭射箔点缀，白底产品摄影，收藏级设计师玩具。",
+    "tweet": "软胶凤凰女王 ✨ Sofubi Phoenix Queen Toy\n潮玩 · 唐卡 · 镭射 · 产品摄影\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：龙王改为凤凰女王，镭射点缀保留，唐卡对称改为敦煌藻井对称。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 1:1。"
+  },
+  {
+    "id": "2026-09-27-snowy-plum-garden-hanfu",
+    "title": "雪中梅园汉服背影 Hanfu in a Snowy Plum Garden",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-snowy-plum-garden-hanfu.png?v=06c98913",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "汉服",
+      "古风",
+      "雪景",
+      "写实"
+    ],
+    "source": "VibeShot 知识库《2026年3月》古风画像 by VOXCAT",
+    "prompt": "杰作，最佳画质，超细节，8K，照片级写实，电影级光效：一位约25岁的成年中国女子身着繁复的传统汉服，月白底色配银线仙鹤刺绣，飘逸的丝绸广袖外罩朱红色斗篷，头发梳成精致的盘发，插着白玉簪与银饰。侧面四分之三背影，望向远方，神情宁静，五官精致。背景是雪后静谧的古典梅园，朱红游廊、覆雪的石灯，红梅枝头积雪，细雪缓缓飘落。清晨冷光透过梅枝形成柔和的丁达尔光束，背景柔焦虚化，冷白与朱红的克制配色，叠加淡淡的水墨纹理，空灵怀旧，景深，刺绣清晰锐利，85mm镜头质感。",
+    "tweet": "雪中梅园汉服背影 ✨ Hanfu in a Snowy Plum Garden\n汉服 · 古风 · 雪景 · 写实\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：晨光荷花湖改为雪后梅园，柳树石桥改为红梅与朱红游廊，金线云纹改为银线鹤纹，色调由棕褐改为冷白配朱红。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-snowfield-snowmobile-ad",
+    "title": "雪原雪地摩托广告 Snowfield Snowmobile Ad",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-snowfield-snowmobile-ad.png?v=40840939",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "产品",
+      "西部片",
+      "胶片漏光",
+      "英雄构图"
+    ],
+    "source": "VibeShot 知识库《rare-style-explorer/style_library》E019 沙漠摩托",
+    "prompt": "雪地摩托广告，意大利西部片式的风雪变形宽银幕特写，车身有冰霜侵蚀痕迹，35mm胶片漏光，极夜蓝调时刻的英雄构图。",
+    "tweet": "雪原雪地摩托广告 ✨ Snowfield Snowmobile Ad\n产品 · 西部片 · 胶片漏光 · 英雄构图\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：沙漠摩托改为雪地摩托，盐霜侵蚀改为冰霜侵蚀，日落改为极夜蓝调时刻。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。\n- 成图瑕疵：出现了真实品牌「POLARIS」「RMK KHAOS」和网址 polaris.com，发布前必须修掉或重出。"
+  },
+  {
+    "id": "2026-09-27-snow-farewell-glance",
+    "title": "雪中回眸 Farewell Glance in the Snow",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-snow-farewell-glance.png?v=3cd9ca3b",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "人像",
+      "雪景",
+      "情绪",
+      "电影感"
+    ],
+    "source": "VibeShot 知识库《2026年1月》雪景人像 by 迪丽热列",
+    "prompt": "雪中回眸·永别的眼神。竖版9:16，极致面部特写，脸部占画面70%以上。一位约24岁的成年女子，清冷文艺，靠在雪中老树旁侧头看向镜头，略微俯视机位贴近面部，画面边缘是虚化的雪景和飘落的雪花。鹅蛋脸，五官精致，眉眼间淡淡的忧郁。眼睛是核心：偏大的杏眼，漆黑瞳孔与清透眼白强烈对比，目光锁定镜头，眼眶微红、强忍泪水，是\"终于见到你，却也是最后一面\"的永别眼神；浓密睫毛上沾着细碎雪花。齐肩黑发编成松散侧辫，碎发贴在脸颊，发丝落满雪花。苍白冷白皮，冻出的淡淡红晕，豆沙色干燥唇。深紫色羊绒围巾是画面唯一的色彩焦点，一端被风吹起，外穿深灰大衣。阴天散射光，冷色调低饱和，轻胶片颗粒，眼睛极致锐利，日韩文艺电影静帧质感。",
+    "tweet": "雪中回眸 ✨ Farewell Glance in the Snow\n人像 · 雪景 · 情绪 · 电影感\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：红围巾改为深紫色围巾作唯一色彩焦点，及耳短发改为齐肩黑发编辫，去掉原作刺绣水印，雪地躺姿改为靠在雪中老槐树旁侧头回眸。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 9:16。"
   },
   {
     "id": "2026-09-27-snow-fairy-mudra",
@@ -250,6 +725,614 @@
     "notes": "- 防撞图改动：雪山冷色调加入深紫暮色，皇冠换成冰晶发冠，飘浮的花朵蝴蝶改为冰蓝萤火与梅花瓣，人物明确为约26岁成年女子。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 9:16。"
   },
   {
+    "id": "2026-09-27-sliced-char-siu-food-photo",
+    "title": "切片蜜汁叉烧 Sliced Honey-Glazed Char Siu",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-sliced-char-siu-food-photo.png?v=0d5bfd7b",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "美食摄影",
+      "质感",
+      "诱人",
+      "暗调"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 30: 惠灵顿牛排 (食物诱惑力)",
+    "prompt": "美食摄影：切片的蜜汁叉烧，截面粉嫩多汁，边缘焦糖化的红亮蜜汁外皮闪着光泽，汁水晶莹，旁边一碗白米饭与烫青菜，热气升腾，暗调情绪化布光。",
+    "tweet": "切片蜜汁叉烧 ✨ Sliced Honey-Glazed Char Siu\n美食摄影 · 质感 · 诱人 · 暗调\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：惠灵顿牛排改为蜜汁叉烧，酥皮改为焦糖化的蜜汁外皮，加入米饭与青菜。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 4:3。"
+  },
+  {
+    "id": "2026-09-27-skybridge-stride",
+    "title": "空中连廊疾行 Skybridge Stride",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-skybridge-stride.png?v=7436f60d",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "职场",
+      "动感",
+      "都市",
+      "人像"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》3.3 高层走廊",
+    "prompt": "一位约28岁的成年日本职场女性大步走过高层之间的玻璃空中连廊，身穿剪裁利落的炭灰色西装外套与同色长裤、黑色乐福鞋，光洁低发髻，一手拿着平板电脑，行走中外套下摆随步伐摆动，雨后傍晚的天光与玻璃上的清晰反光，四分之三身，50mm。",
+    "tweet": "空中连廊疾行 ✨ Skybridge Stride\n职场 · 动感 · 都市 · 人像\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：铅笔裙丝袜细高跟改为炭灰色西装长裤与乐福鞋，文件夹改为平板电脑，晨光改为雨后傍晚的反光。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 9:16。"
+  },
+  {
+    "id": "2026-09-27-silver-embroidery-on-indigo-silk",
+    "title": "靛蓝丝绸银线绣 Silver Embroidery on Indigo Silk",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-silver-embroidery-on-indigo-silk.png?v=6844138c",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "刺绣",
+      "文字渲染",
+      "微距",
+      "非遗"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 4: 绣在丝绸上的江山 (软材质与刺绣质感)",
+    "prompt": "靛蓝色丝绸刺绣的特写质感镜头：银线在织物上绣出\"山河入梦\"四个汉字，角落绣着一只蜷睡的小猫，可以看到每一根丝线纤维与针脚纹理，文字凸起有触感，侧光勾勒出绣线的光泽，奢华而富有非遗文化气息。",
+    "tweet": "靛蓝丝绸银线绣 ✨ Silver Embroidery on Indigo Silk\n刺绣 · 文字渲染 · 微距 · 非遗\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：红丝绸改为靛蓝丝绸，金线改为银线，文字改为\"山河入梦\"并在角落绣一只小猫。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 4:3。"
+  },
+  {
+    "id": "2026-09-27-seoul-bakery-morning",
+    "title": "首尔面包店的早晨 Seoul Bakery Morning",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-seoul-bakery-morning.png?v=d2f05c75",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "咖啡馆",
+      "韩系",
+      "早晨",
+      "人像"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》1.2 首尔咖啡馆",
+    "prompt": "一位约26岁的成年韩国女子在首尔一家面包店的木质柜台边的抓拍人像，一手拿着刚出炉的可颂、一手捧着热茶，身穿宽松奶油色针织开衫与高腰牛仔裤，锁骨长度的内扣卷发，水光底妆、平眉与珊瑚色唇，温暖晨光，平视，50mm。",
+    "tweet": "首尔面包店的早晨 ✨ Seoul Bakery Morning\n咖啡馆 · 韩系 · 早晨 · 人像\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：咖啡馆窗边改为面包店柜台，拿铁改为可颂与热茶，齐短发改为锁骨长度的内扣卷发。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。\n- 成图瑕疵：背景黑板上的菜单文字是模型随机生成的乱码。"
+  },
+  {
+    "id": "2026-09-27-secondhand-record-shop",
+    "title": "二手唱片店 Secondhand Record Shop",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-secondhand-record-shop.png?v=6bc08086",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "唱片店",
+      "文艺",
+      "暖光",
+      "日系"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》1.9 温馨书店",
+    "prompt": "一位约25岁的成年日本女子在温馨的二手唱片店里，正从木箱中抽出一张黑胶唱片端详，身穿格纹衬衫与灯芯绒长裤，中长波波头别着发夹，极简妆容与淡蜜桃腮红，暖钨丝灯光，平视，50mm。",
+    "tweet": "二手唱片店 ✨ Secondhand Record Shop\n唱片店 · 文艺 · 暖光 · 日系\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：书店改为二手唱片店，翻书改为挑选黑胶唱片，高领毛衣百褶裙改为格纹衬衫配灯芯绒长裤。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。\n- 成图瑕疵：唱片封面上自动出现了真实乐队名「はっぴいえんど / HAPPY END」，发布前可考虑修掉。"
+  },
+  {
+    "id": "2026-09-27-seaside-sunrise-run",
+    "title": "海边日出晨跑 Seaside Sunrise Run",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-seaside-sunrise-run.png?v=3781dd07",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "运动",
+      "晨跑",
+      "日出",
+      "活力"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》8.1 河畔晨跑",
+    "prompt": "一位约26岁的成年日本女子在日出时分沿海边栈道晨跑，身穿长袖速干运动上衣与运动长裤，腰间系着轻薄风衣，高马尾，极简妆容，侧面跑动的动态瞬间，海面薄雾与金色晨光，50mm。",
+    "tweet": "海边日出晨跑 ✨ Seaside Sunrise Run\n运动 · 晨跑 · 日出 · 活力\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：河边跑道改为海边栈道，跑步短裤背心改为长袖运动上衣与运动长裤，系鞋带改为跑步中的侧面动态。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-seaside-kiosk-hydrangea-film",
+    "title": "海边小卖部绣球胶片 Seaside Kiosk Hydrangea Film Portrait",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-seaside-kiosk-hydrangea-film.png?v=f5303790",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "胶片",
+      "运动模糊",
+      "花卉",
+      "人像"
+    ],
+    "source": "VibeShot 知识库《2026年3月》复古胶片人像 by 惊鹭",
+    "prompt": "复古胶片摄影，明显的胶片颗粒感，真实光影，复古色调。海边的旧小卖部一侧堆着漂流木，旁边盛开大片蓝紫色绣球花，胶片颗粒纹理交织，虚焦背景拖影残迹突出，重影效果营造强烈的非现实主义氛围。一位约24岁的成年女子抱着一大捧绣球侧身而立，冷白皮细腻通透，精致面容带动感模糊，人物轮廓随平移镜头微微摇晃，清冷蓝调低饱和滤镜，长发在逆光海风中闪闪发光，凌乱发丝飘动拂过下颌，神情介于甜美与疏离之间，运动模糊与胶片颗粒融合，兼具网感与故事感。",
+    "tweet": "海边小卖部绣球胶片 ✨ Seaside Kiosk Hydrangea Film Portrait\n胶片 · 运动模糊 · 花卉 · 人像\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：人物改为约24岁成年女性，旧报刊亭改为海边小卖部，橘粉花丛改为蓝紫绣球，暖调改为清冷蓝调。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-sandstorm-titan-mech",
+    "title": "沙暴中的巨型机甲 Titan Mech in a Sandstorm",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-sandstorm-titan-mech.png?v=963d6a08",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "机甲",
+      "写实",
+      "虫眼视角",
+      "工业"
+    ],
+    "source": "VibeShot 知识库《2026年2月》写实级高达战士 by 迪丽热浪里个浪",
+    "prompt": "粗粝工业机甲写实摄影：一台原创超写实巨型人形机甲在低能见度环境中压迫而立。场景：半截身体埋在翻滚的沙暴中，巨大的头部低垂，琥珀橙色传感器发光，正在锁定目标。光学：14mm超广角，强制透视。构图：极端虫眼视角，75度仰拍，机体占据画面90%垂直高度，脚边一辆小型越野车作为尺度参照。机体：厚重金属装甲布满锈迹、划痕、渗油，外露液压活塞，风化的钛钢合金，沙粒嵌入缝隙。电影级尘暴光束，高度写实。",
+    "tweet": "沙暴中的巨型机甲 ✨ Titan Mech in a Sandstorm\n机甲 · 写实 · 虫眼视角 · 工业\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：去掉高达名称改为原创巨型机甲，雾霾暴雨改为沙暴，冷青感应器改为琥珀橙，加入脚边的小型越野车作尺度。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 9:16。"
+  },
+  {
+    "id": "2026-09-27-samurai-bento-delivery",
+    "title": "武士便当外卖箱 Samurai Bento Delivery Box",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-samurai-bento-delivery.png?v=7415bcfd",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "产品",
+      "霓虹黑色",
+      "功夫",
+      "雨夜"
+    ],
+    "source": "VibeShot 知识库《rare-style-explorer/style_library》E021 忍者外卖箱",
+    "prompt": "武士风便当外卖箱，1990年代香港霓虹黑色电影雨夜街道，箱体是航天器隔热瓦表面，剑道护具造型的装饰，产品位于前景。",
+    "tweet": "武士便当外卖箱 ✨ Samurai Bento Delivery Box\n产品 · 霓虹黑色 · 功夫 · 雨夜\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：忍者改为武士，功夫练功服改为剑道护具造型，航天隔热瓦保留。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-sage-suit-gallery",
+    "title": "画廊里的鼠尾草套装 Sage Suit in a Gallery",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-sage-suit-gallery.png?v=3fc4b612",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "套装",
+      "画廊",
+      "极简",
+      "日系"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》7.2 米白套装",
+    "prompt": "一位约28岁的成年日本女子身穿鼠尾草绿色西装套装内搭白色圆领针织衫，戴珍珠耳钉，光滑低马尾，在白色画廊空间中欣赏一幅大尺寸抽象画，柔和反射光，85mm。",
+    "tweet": "画廊里的鼠尾草套装 ✨ Sage Suit in a Gallery\n套装 · 画廊 · 极简 · 日系\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：米白套装改为鼠尾草绿套装，丝质吊带改为白色圆领针织，金耳环改为珍珠耳钉。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-rune-veiled-ninja",
+    "title": "符文蒙面忍者 Rune-Veiled Ninja",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-rune-veiled-ninja.png?v=5bb45fae",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "忍者",
+      "东方美学",
+      "胶片",
+      "暗黑浪漫"
+    ],
+    "source": "VibeShot 知识库《2026年3月》剑客忍者 by 古一",
+    "prompt": "日式动作游戏般的视觉设计，纯净的暗红到灰色渐变背景，东方美学，高级感：一位被发光魔幻服饰包裹的蒙面忍者，剑芒闪烁，妖异神秘，服饰上装饰着精致的符文与经文，赋予其生命力。人物眼神坚定，仿佛面对未知的挑战，整体压抑沉闷，抽象魔幻。反常规构图，泛影与耀光，POV视角，对焦模糊，超广角强透视，透射冷银与深紫微光，灰红褪色胶片粗颗粒，低光与高曝并存，低饱和，高对比，弱印象派光影模糊，超现实朦胧渐变，逆光过曝，粒子高噪点，大面积高曝负空间留白，强张力构图，昏暗中的闪耀，暗黑浪漫主义，电影感光影美学。",
+    "tweet": "符文蒙面忍者 ✨ Rune-Veiled Ninja\n忍者 · 东方美学 · 胶片 · 暗黑浪漫\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：去掉游戏与动漫名称，青色渐变背景改为暗红到灰的渐变，暖金微光改为冷银与深紫泛光。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-rooftop-velvet-evening",
+    "title": "天台丝绒之夜 Rooftop Velvet Evening",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-rooftop-velvet-evening.png?v=cab3662f",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "夜景",
+      "晚装",
+      "都市",
+      "人像"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》5.2 屋顶酒廊",
+    "prompt": "一位约28岁的成年日本女子在夜晚的天台酒廊，身穿深紫色长袖丝绒晚礼服，复古手推波纹发，暖调光泽底妆配柔和烟熏眼线，四分之三姿态优雅从容地倚着栏杆，身后是城市光斑，50mm。",
+    "tweet": "天台丝绒之夜 ✨ Rooftop Velvet Evening\n夜景 · 晚装 · 都市 · 人像\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：黑色吊带裙改为深紫色长袖丝绒晚礼服，湿发改为复古手推波纹，\"性感\"氛围改为优雅从容。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-rooftop-sunset-dj",
+    "title": "天台日落DJ Rooftop Sunset DJ Set",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-rooftop-sunset-dj.png?v=5df05656",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "DJ",
+      "音乐",
+      "日落",
+      "韩系"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》10.2 DJ舞台",
+    "prompt": "一位约27岁的成年韩国女DJ在天台日落派对上打碟，身穿皮裤与oversize丝质衬衫，蓬松波浪发，大胆唇色，一手扶着耳机，身后是橙粉到深紫的日落天空，充满活力的四分之三构图，35mm。",
+    "tweet": "天台日落DJ ✨ Rooftop Sunset DJ Set\nDJ · 音乐 · 日落 · 韩系\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：夜店DJ台改为天台日落DJ台，金属上衣改为oversize衬衫，彩色灯光改为日落暖光与深紫天空。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。\n- 成图瑕疵：DJ 台上出现了「Pioneer DJ」品牌字样，发布前可考虑修掉。"
+  },
+  {
+    "id": "2026-09-27-rooftop-flash-editorial",
+    "title": "天台闪光灯时装特写 Rooftop Flash Editorial",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-rooftop-flash-editorial.png?v=0fdb031b",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "时装",
+      "闪光灯",
+      "夜景",
+      "人像"
+    ],
+    "source": "VibeShot 知识库《2026年3月》时尚特写女性 by 古一",
+    "prompt": "一位高挑时髦的约27岁成年韩国时尚博主，气场自信鲜明，站在雨后城市天台的积水边，身体微侧展现修长轮廓，一手抬起拨弄头发。她身穿利落的oversize炭灰西装套装与黑色高领内搭，妆容干净，头发光泽，眼神清楚地意识到镜头。场景简洁，地面积水倒映出远处城市灯火与深紫色霓虹招牌，烘托氛围而不喧宾夺主。以直闪快照感拍摄的精致时装肖像，主体分离清晰，细腻皮肤纹理，反光表面有受控的高光晕染。整体是韩系夜生活INS美学，大胆、有型、极具分享感。",
+    "tweet": "天台闪光灯时装特写 ✨ Rooftop Flash Editorial\n时装 · 闪光灯 · 夜景 · 人像\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：20岁改为约27岁成年女性，酒店镜前改为雨后城市天台，贴身装改为oversize西装套装，加入深紫色霓虹反光。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-rooftop-birthday-instant-photo",
+    "title": "天台生日派对即显照 Rooftop Birthday Instant Photo",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-rooftop-birthday-instant-photo.png?v=e590550d",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "即显胶片",
+      "直闪",
+      "90年代",
+      "抓拍"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 8: 90s 拍立得 (直闪死光)",
+    "prompt": "一张1998年天台生日派对的抓拍即显相纸照片：一位约25岁的成年女子捧着插满蜡烛的蛋糕笑到不行，刺眼的机顶直闪，红眼效果，皮肤微微泛油光，彩带与暗色杂乱的夜色背景，复古美学，构图不完美。",
+    "tweet": "天台生日派对即显照 ✨ Rooftop Birthday Instant Photo\n即显胶片 · 直闪 · 90年代 · 抓拍\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：女孩改为约25岁成年女性，家庭派对改为天台生日派对，加入生日蛋糕与彩带。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 1:1。"
+  },
+  {
+    "id": "2026-09-27-robot-librarian-ova-sheet",
+    "title": "机器人图书管理员设定 Robot Librarian Model Sheet",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-robot-librarian-ova-sheet.png?v=146c1cbd",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "角色设计",
+      "80年代OVA",
+      "设定图",
+      "机器人"
+    ],
+    "source": "VibeShot 知识库《rare-style-explorer/style_library》E003 机器人护士",
+    "prompt": "机器人图书管理员角色设计，1980年代OVA动画赛璐珞画风，半透明发光的琥珀色外壳，肩头趴着一只小机械猫，怀抱一摞书，复古CAD蓝图标注，正侧背三视图设定稿版式。",
+    "tweet": "机器人图书管理员设定 ✨ Robot Librarian Model Sheet\n角色设计 · 80年代OVA · 设定图 · 机器人\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：机器人护士改为机器人图书管理员，雪花石膏外壳改为半透明琥珀外壳，并加入肩上的一只机械猫。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 4:3。"
+  },
+  {
+    "id": "2026-09-27-riverside-autumn-picnic",
+    "title": "河畔秋日野餐 Riverside Autumn Picnic",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-riverside-autumn-picnic.png?v=17b705a1",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "野餐",
+      "黄金时刻",
+      "韩系",
+      "生活感"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》1.4 汉江野餐",
+    "prompt": "一位约25岁的成年韩国女子在日落时分的河畔草坪上，坐在格纹野餐垫上开怀大笑，身穿燕麦色针织连衣裙外搭牛仔外套，头戴酒红色贝雷帽，低马尾，蜜桃腮红与渐变唇，野餐篮旁趴着一只小猫，黄金时刻逆光，中景，85mm。",
+    "tweet": "河畔秋日野餐 ✨ Riverside Autumn Picnic\n野餐 · 黄金时刻 · 韩系 · 生活感\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：夏日碎花裙改为秋季针织连衣裙，丝带半扎发改为贝雷帽配低马尾，加入野餐篮旁的一只小猫。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-retro-diner-milk-tea",
+    "title": "复古冰室奶茶 Retro Diner Milk Tea",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-retro-diner-milk-tea.png?v=de205e7e",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "冰室",
+      "复古",
+      "港风",
+      "韩系"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》13.2 茶餐厅",
+    "prompt": "一位约26岁的成年韩国女子坐在复古冰室的卡座里，身穿宽松针织马甲配白衬衫与高腰牛仔裤，头发挽成低盘发，柔和眼线，桌上摆着菠萝包与冻奶茶，绿色瓷砖墙与富美家桌面，温暖钨丝灯光，50mm。",
+    "tweet": "复古冰室奶茶 ✨ Retro Diner Milk Tea\n冰室 · 复古 · 港风 · 韩系\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：修身衬衫改为宽松针织马甲配衬衫，短波波头改为低双马尾盘发，加入桌上的菠萝包与冻奶茶。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-retro-cel-submarine-pilot",
+    "title": "90年代赛璐珞潜艇驾驶员 90s Cel Anime Submarine Pilot",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-retro-cel-submarine-pilot.png?v=37ba2bc1",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "赛璐珞",
+      "90年代",
+      "动画",
+      "复古"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 24: 90s EVA 赛璐珞 (复古感)",
+    "prompt": "90年代动画截图风格：一位成年驾驶员坐在深海潜艇的驾驶舱内，硬朗的阴影，低分辨率，深紫色警示灯闪烁，CRT显示器扫描线，色差，怀旧美学。",
+    "tweet": "90年代赛璐珞潜艇驾驶员 ✨ 90s Cel Anime Submarine Pilot\n赛璐珞 · 90年代 · 动画 · 复古\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：去掉动画名，机甲驾驶舱改为深海潜艇驾驶舱，并加入舱内的深紫色警示灯。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 4:3。"
+  },
+  {
+    "id": "2026-09-27-retro-ai-tarot-cabinet",
+    "title": "复古AI塔罗机 Retro AI Tarot Cabinet",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-retro-ai-tarot-cabinet.png?v=5192bd2c",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "装置",
+      "档案",
+      "终端界面",
+      "神秘"
+    ],
+    "source": "VibeShot 知识库《rare-style-explorer/style_library》E013 复古AI占卜机",
+    "prompt": "复古AI塔罗发牌机，巴洛克火漆封印档案室，琥珀色屏幕终端档案界面，蓝色珐琅与黄铜外壳，一只黑猫坐在机器顶上，神秘但清晰可读。",
+    "tweet": "复古AI塔罗机 ✨ Retro AI Tarot Cabinet\n装置 · 档案 · 终端界面 · 神秘\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：占卜机改为塔罗发牌机，维德曼施泰登陨铁外壳改为蓝色珐琅与黄铜外壳，绿屏改为琥珀屏。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-retro-90s-video-store",
+    "title": "90年代录像带店 90s Video Rental Store",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-retro-90s-video-store.png?v=ef0b1aa3",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "复古",
+      "90年代",
+      "胶片",
+      "韩系"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》9.3 复古90s",
+    "prompt": "一位约26岁的成年韩国女子复古90年代风，高腰牛仔裤配宽松牛仔夹克与白T，蓬松中长发，棕色口红与细眼线，在录像带出租店的货架间挑选录像带，胶片质感，50mm。",
+    "tweet": "90年代录像带店 ✨ 90s Video Rental Store\n复古 · 90年代 · 胶片 · 韩系\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：街头电话亭改为录像带出租店，短开衫改为宽松牛仔夹克，短波波头改为蓬松中长发。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。\n- 成图瑕疵：背景海报出现了真实电影名「Dr. Dolittle」，发布前可考虑修掉。"
+  },
+  {
+    "id": "2026-09-27-regal-winter-portrait",
+    "title": "冷艳冬日女王肖像 Regal Winter Portrait",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-regal-winter-portrait.png?v=94483b62",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "棚拍",
+      "人像",
+      "节日",
+      "华服"
+    ],
+    "source": "VibeShot 知识库《2026年1月》冷艳系美女 by 迪丽热烈",
+    "prompt": "一位自信优雅的成年亚洲女性身着节日华服的电影感棚拍肖像，9:16竖构图，超高分辨率。戏剧性布光：柔和面部高光与强轮廓光勾勒身形，背景为深紫色丝绒幕布。中近景，微低机位，体态自然的对立式站姿，颈肩线条流畅。右手横过身前轻触腰间的缎带，左手自然下垂。心形脸，下颌清晰，目光坚定直视镜头，带一抹浅笑。瓷质肌肤带细腻次表面散射，哑光底妆、暖棕眼妆、蜜桃色水润唇。浓密深色波浪长发。身穿墨绿色丝绒长裙，高领长袖，垂坠感真实，外披白色仿狐毛披肩。配饰：银色星形冠冕、祖母绿耳坠。侧光与逆光塑造材质高光，正面柔光补脸，高贵、艺术、节日氛围。无动漫、无CG。",
+    "tweet": "冷艳冬日女王肖像 ✨ Regal Winter Portrait\n棚拍 · 人像 · 节日 · 华服\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：红色金属褶裙改为墨绿丝绒长裙，去掉吊袜带元素，头饰换成银色星冠与白狐毛披肩，背景白板换成深紫色丝绒幕布。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 9:16。"
+  },
+  {
+    "id": "2026-09-27-recycled-cassette-tape-gown",
+    "title": "磁带编织高定 Cassette-Tape Couture",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-recycled-cassette-tape-gown.png?v=e0d98e0b",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "时尚大片",
+      "前卫",
+      "材质",
+      "高定"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 11: 虚拟Vogue (材质混合)",
+    "prompt": "高级时装大片：一位约27岁的成年前卫模特，身穿以回收磁带条与珍珠编织而成的高领长袖礼服，磁带的光泽与珍珠交错。中画幅胶片，真实皮肤纹理（雀斑），深紫色纯色背景，柔和的艺术光。",
+    "tweet": "磁带编织高定 ✨ Cassette-Tape Couture\n时尚大片 · 前卫 · 材质 · 高定\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：去掉杂志名，黑色垃圾袋加钻石改为回收磁带与珍珠编织的礼服，中性背景改为深紫色背景。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-reading-room-rain-afternoon",
+    "title": "雨天阅览室 Rainy-Afternoon Reading Room",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-reading-room-rain-afternoon.png?v=85ac5f38",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "抓拍",
+      "图书馆",
+      "文艺",
+      "人像"
+    ],
+    "source": "VibeShot 知识库《前女友系列》前女友系列 #6",
+    "prompt": "一个安静的抓拍瞬间：一位约25岁的成年日本女子在雨天的老式阅览室里，黑色齐肩发，五官精致，身穿宽松的燕麦色高领毛衣外搭开衫，专注地读着一本旧书。绿色玻璃台灯投下温暖高光，窗外雨丝朦胧，窗台上蜷着一只打盹的小猫，浅景深柔和虚化。",
+    "tweet": "雨天阅览室 ✨ Rainy-Afternoon Reading Room\n抓拍 · 图书馆 · 文艺 · 人像\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：图书馆改为雨天的老式阅览室，贴身低领针织改为宽松高领毛衣与开衫，加入窗台上的小猫。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-raven-headphones-rave",
+    "title": "渡鸦耳机·锐舞 Raven Headphones Rave Ad",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-raven-headphones-rave.png?v=359ed203",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "产品",
+      "锐舞",
+      "磁流体",
+      "霓虹"
+    ],
+    "source": "VibeShot 知识库《rare-style-explorer/style_library》E009 黑豹耳机",
+    "prompt": "渡鸦造型头戴耳机，赛博哥特工业锐舞风，耳罩表面是磁流体尖刺，1990年代锐舞传单排版，黑色背景配霓虹紫。",
+    "tweet": "渡鸦耳机·锐舞 ✨ Raven Headphones Rave Ad\n产品 · 锐舞 · 磁流体 · 霓虹\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：黑豹改为渡鸦，霓虹绿改为霓虹紫，磁流体表面保留。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-ramen-stall-night-candid",
+    "title": "昭和拉面摊夜色 Showa Ramen Stall Night Candid",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-ramen-stall-night-candid.png?v=b95ebfea",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "胶片",
+      "昭和",
+      "夜生活",
+      "人像"
+    ],
+    "source": "VibeShot 知识库《karin复刻系列》2.小酒馆",
+    "prompt": "一位约26岁、甜美微笑的成年亚洲女子，柔软的棕发松松地扎成低马尾，侧脸有自然的碎发，侧坐在街边昭和风屋台拉面摊的窄木凳上，回头望向镜头露出自然温柔的笑容；身穿奶白色针织开衫与墨绿色长裙；身旁坐着几位穿深色西装、低声交谈的中老年上班族。摊位狭小，布帘上写着手写菜单，挂着红灯笼，锅里热气蒸腾，小架子上摆着瓶罐与陶碗。温暖的钨丝灯光带有薄雾，汤汽弥漫，真实的抓拍瞬间，亲切的市井氛围，怀旧昭和夜生活感；低反差，带轻微绿调的低饱和色彩，浅景深，胶片柔和感，35mm模拟胶片，细腻颗粒，暖调人像胶片质感。",
+    "tweet": "昭和拉面摊夜色 ✨ Showa Ramen Stall Night Candid\n胶片 · 昭和 · 夜生活 · 人像\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：小酒馆改为街边屋台拉面摊，短裤改为墨绿长裙与针织开衫，暖钨丝灯加入红灯笼，并去掉摄影师与导演名字。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-rainy-riverside-qipao",
+    "title": "江畔雨夜旗袍 Rainy Riverside Night Qipao",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-rainy-riverside-qipao.png?v=dfb7a25f",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "旗袍",
+      "雨夜",
+      "霓虹",
+      "电影感"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》11.3 外滩雨夜",
+    "prompt": "一位约28岁的成年中国女子身穿墨绿色及踝丝绸旗袍，立领，外搭奶白色短款针织开衫，低跟玛丽珍鞋，在雨夜湿漉漉的老码头江边步道上行走，肩头撑一把油纸伞；复古手推波纹发，经典红唇；对岸灯火形成电影感逆光与霓虹轮廓光，花岗岩地面光亮倒影，空中可见细雨，栏杆形成戏剧性引导线；四分之三身，50mm。",
+    "tweet": "江畔雨夜旗袍 ✨ Rainy Riverside Night Qipao\n旗袍 · 雨夜 · 霓虹 · 电影感\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：深红高开叉旗袍改为墨绿色及踝旗袍配短款针织开衫，外滩改为老码头江边，细高跟改为低跟玛丽珍鞋，透明伞改为油纸伞。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 9:16。"
+  },
+  {
+    "id": "2026-09-27-rainy-crosswalk-yellow-umbrella",
+    "title": "雨中斑马线的黄伞 Yellow Umbrella at a Rainy Crosswalk",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-rainy-crosswalk-yellow-umbrella.png?v=baf632d3",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "雨天",
+      "街拍",
+      "色彩点睛",
+      "日系"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》1.7 雨天街头",
+    "prompt": "一位约26岁的成年日本女子撑着一把明黄色雨伞走过雨中的斑马线，身穿藏青色长款防水外套与短靴，齐肩微卷发，自然妆容与水润唇，冷调阴天光，湿漉漉的路面倒映灯光，略微俯拍的街头抓拍，50mm。",
+    "tweet": "雨中斑马线的黄伞 ✨ Yellow Umbrella at a Rainy Crosswalk\n雨天 · 街拍 · 色彩点睛 · 日系\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：透明伞改为明黄色伞，米色风衣改为藏青色雨衣式长外套，人行道改为俯拍斑马线。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-punk-rooftop-garage",
+    "title": "天台车库朋克 Punk Rooftop Garage",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-punk-rooftop-garage.png?v=d64f3026",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "朋克",
+      "街头",
+      "态度",
+      "韩系"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》9.2 朋克风",
+    "prompt": "一位约26岁的成年韩国女子朋克风穿搭，皮质机车夹克配格纹宽松长裤与厚底靴，晕染眼线与银色大耳圈，坐在天台停车场的一辆老式摩托上，粗粝质感，黄昏光，35mm。",
+    "tweet": "天台车库朋克 ✨ Punk Rooftop Garage\n朋克 · 街头 · 态度 · 韩系\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：砖墙小巷改为天台停车场，格纹短裙改为格纹宽松长裤，双臂交叉改为坐在机车上。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-preppy-autumn-arcade",
+    "title": "学院风拱廊 Preppy Look in a Stone Arcade",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-preppy-autumn-arcade.png?v=509b0ceb",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "学院风",
+      "秋天",
+      "街拍",
+      "韩系"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》2.3 英伦学院风",
+    "prompt": "一位约26岁的成年韩国女子身穿常春藤学院风穿搭，站在铺满落叶的石拱廊下，藏青色粗花呢外套内搭毛衣背心与牛津衬衫，直筒牛仔裤与乐福鞋，干净妆容，秋日暖色侧光，35mm。",
+    "tweet": "学院风拱廊 ✨ Preppy Look in a Stone Arcade\n学院风 · 秋天 · 街拍 · 韩系\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：石砌庭院改为落叶拱廊，风衣改为藏青色粗花呢外套，阴天冷光改为秋日暖侧光。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-polar-glacier-researcher",
+    "title": "冰川研究员肖像 Glacier Researcher Portrait",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-polar-glacier-researcher.png?v=be9aa574",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "人像",
+      "科幻",
+      "X光",
+      "冷调"
+    ],
+    "source": "VibeShot 知识库《rare-style-explorer/style_library》E010 海底研究员",
+    "prompt": "极地冰川研究员肖像，复古冰洞研究站，苏联科幻手绘布景氛围，X光底片叠加效果，冰蓝与深紫的冷峻哲思氛围。",
+    "tweet": "冰川研究员肖像 ✨ Glacier Researcher Portrait\n人像 · 科幻 · X光 · 冷调\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：海底研究员改为极地冰川研究员，海底站改为冰川冰洞研究站，冷蓝改为冰蓝与深紫。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。\n- 成图瑕疵：画面里有「СССР」（苏联）字样和徽记，发布前可考虑修掉。"
+  },
+  {
+    "id": "2026-09-27-plush-monster-dunhuang-travel-map",
+    "title": "小毛怪游敦煌手绘地图 Plush Monster's Dunhuang Travel Map",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-plush-monster-dunhuang-travel-map.png?v=29b3ce09",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "手绘地图",
+      "旅行",
+      "卡通",
+      "信息图"
+    ],
+    "source": "VibeShot 知识库《一些好玩儿的提示词》1.labubu手绘地图",
+    "prompt": "画一张卡通版手绘旅行地图：一只原创的深紫色毛绒小怪兽（尖耳朵、一排小尖牙、背着小书包）去敦煌旅游。地图上包含鸣沙山月牙泉、莫高窟、雅丹地貌、沙洲夜市等景点，每个景点旁都有小怪兽在当地游玩的可爱插画和非常精细的手写中文景点描述，路线用虚线连接，配有骆驼、飞天纹样、指南针与比例尺等装饰。暖沙色纸张纹理，水彩加细墨线风格。",
+    "tweet": "小毛怪游敦煌手绘地图 ✨ Plush Monster's Dunhuang Travel Map\n手绘地图 · 旅行 · 卡通 · 信息图\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：Labubu改为原创的深紫色小毛怪角色，景德镇改为敦煌，去掉水印。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
     "id": "2026-09-27-peach-blossom-sword-fairy",
     "title": "桃花剑气仙子 Peach-Blossom Sword Fairy",
     "date": "2026-09-27",
@@ -269,6 +1352,101 @@
     "notes": "- 防撞图改动：凌霄剑法的淡蓝银白改为桃粉与月白，黄山云海改为桃花谷与瀑布，水晶玉冠改为桃枝发簪。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 9:16。"
   },
   {
+    "id": "2026-09-27-pastel-goth-street-adult",
+    "title": "粉黑哥特街头 Pastel Goth Street",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-pastel-goth-street-adult.png?v=c712e2e5",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "粉黑",
+      "哥特",
+      "街头",
+      "韩系"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》15.2 粉黑街头",
+    "prompt": "一位约26岁的成年韩国女子粉黑哥特街头风，黑色短款西装外套内搭粉色蝴蝶结衬衫，黑色直筒长裤与厚底靴，低马尾，眼角点缀小爱心眼线，手提一只黑猫造型小包，傍晚城市灯光，35mm。",
+    "tweet": "粉黑哥特街头 ✨ Pastel Goth Street\n粉黑 · 哥特 · 街头 · 韩系\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：水手领褶裙双马尾与玩偶改为成年女性的黑色西装外套配粉色蝴蝶结衬衫、长裤与低马尾，手持一只黑猫造型包。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。\n- 成图瑕疵：短款西装下露出了一截腰腹，和提示词不完全一致。"
+  },
+  {
+    "id": "2026-09-27-parametric-desert-library",
+    "title": "沙漠参数化图书馆 Parametric Desert Library",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-parametric-desert-library.png?v=7c7a05d5",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "建筑",
+      "参数化",
+      "曲线",
+      "渲染"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 40: 扎哈·哈迪德建筑 (曲线)",
+    "prompt": "沙漠中的未来主义图书馆，流线型的砂岩色曲面，参数化设计，玻璃幕墙，黄昏暖光与长长的阴影，照片级建筑渲染。",
+    "tweet": "沙漠参数化图书馆 ✨ Parametric Desert Library\n建筑 · 参数化 · 曲线 · 渲染\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：去掉建筑师名，博物馆改为沙漠中的图书馆，白色改为砂岩色，加入黄昏光。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。"
+  },
+  {
+    "id": "2026-09-27-paper-cut-underwater-reef",
+    "title": "纸雕海底珊瑚 Paper-Cut Coral Reef",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-paper-cut-underwater-reef.png?v=22c7b381",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "纸雕",
+      "灯箱",
+      "层次",
+      "光影"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 27: 纸雕世界 (光影层级)",
+    "prompt": "层叠纸雕灯箱艺术：一幅有深度的海底珊瑚礁场景，一条小鲸鱼游过，冷蓝到深紫的背光在纸层之间形成剪影与阴影，精细的镂空细节。",
+    "tweet": "纸雕海底珊瑚 ✨ Paper-Cut Coral Reef\n纸雕 · 灯箱 · 层次 · 光影\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：森林改为海底珊瑚礁，暖橙背光改为冷蓝到深紫的背光，并加入一条小鲸鱼。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 4:3。"
+  },
+  {
+    "id": "2026-09-27-owl-toaster-kissaten",
+    "title": "猫头鹰吐司机·昭和喫茶 Owl Toaster in a Showa Kissaten",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-owl-toaster-kissaten.png?v=11fd00d3",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "产品",
+      "昭和",
+      "风格融合",
+      "复古"
+    ],
+    "source": "VibeShot 知识库《rare-style-explorer/style_library》E001 橘猫咖啡机",
+    "prompt": "一台猫头鹰造型的家用吐司机，昭和年代喫茶店室内，奶油色搪瓷机身配黄铜细节，两片吐司刚弹出，过期即显胶片的白色边框与褪色色调，产品轮廓清晰，温暖琥珀光。",
+    "tweet": "猫头鹰吐司机·昭和喫茶 ✨ Owl Toaster in a Showa Kissaten\n产品 · 昭和 · 风格融合 · 复古\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：猫形咖啡机改为猫头鹰造型吐司机，烟熏玻璃水箱改为奶油色搪瓷机身，去掉宝丽来型号改为过期即显胶片边框。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 1:1。"
+  },
+  {
+    "id": "2026-09-27-osaka-canal-night-walk",
+    "title": "大阪运河夜行 Osaka Canal Night Walk",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-osaka-canal-night-walk.png?v=80e2429f",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "夜景",
+      "街拍",
+      "霓虹",
+      "日系"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》1.3 东京夜街",
+    "prompt": "一位约26岁的成年日本女子夜晚走在大阪运河边的步道上，行走中回头一瞥，身穿深紫色短款风衣配白T与褶皱西裤，半扎发，柔和烟熏眼线与裸色唇，河面倒映霓虹招牌，情绪化环境光，街头抓拍，35mm。",
+    "tweet": "大阪运河夜行 ✨ Osaka Canal Night Walk\n夜景 · 街拍 · 霓虹 · 日系\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：东京霓虹小巷改为大阪运河边的步道，黑皮夹克改为深紫色短款风衣，高马尾改为半扎发。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
     "id": "2026-09-27-old-photo-overlay-temple",
     "title": "老照片叠影：古寺今昔 Then-and-Now Photo Overlay",
     "date": "2026-09-27",
@@ -286,6 +1464,82 @@
     "prompt": "一张超逼真的4K照片，镜头正对苏州寒山寺的黄墙山门与钟楼，拍摄距离精确。前景中央，一只手拿着一张20世纪初的黑白老照片（不能出现彩色）。老照片的位置和角度与背后的真实建筑完全吻合——屋檐、门洞、钟楼、墙体像素级对齐。老照片呈半透明，与现在的背景自然融合，照片中可见当年挑担的僧人和穿长衫的孩童。真实背景中同样的建筑以彩色呈现，秋日清晨薄雾，枫叶初红，游客三三两两。对齐精准，透视一致，历史叠加浑然天成，极高细节，文化准确。避免：老照片出现彩色或偏黄偏红、人物不协调、错位。",
     "tweet": "老照片叠影：古寺今昔 ✨ Then-and-Now Photo Overlay\n历史 · 老照片 · 建筑 · 叠影\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
     "notes": "- 防撞图改动：地点从南京夫子庙改为苏州寒山寺，时间改为秋日清晨的薄雾，老照片人物改为挑担的僧人与孩童。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-obsidian-moon-goddess-statue",
+    "title": "黑曜石月神雕像 Obsidian Moon Goddess Statue",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-obsidian-moon-goddess-statue.png?v=a0cc842a",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "雕塑",
+      "巴洛克",
+      "博物馆",
+      "明暗对照"
+    ],
+    "source": "VibeShot 知识库《黑白风格系列》6.Seraphine",
+    "prompt": "超写实的黑曜石月神雕像，四分之三侧面视角，巴洛克文艺复兴风格，栩栩如生的五官与飘逸长发，繁复的衣袍褶皱覆盖全身，发间与衣缘镶嵌金箔，双手捧着一弯新月，神情优雅宁静。基座旁蹲着一只小小的黑曜石猫。博物馆摄影，强烈的戏剧性明暗对照光，电影感聚光，超高分辨率，黑曜石表面细腻的镜面反光与柔和阴影，大师级工艺，超写实石材质感。",
+    "tweet": "黑曜石月神雕像 ✨ Obsidian Moon Goddess Statue\n雕塑 · 巴洛克 · 博物馆 · 明暗对照\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：白色大理石改为黑曜石与金箔，正面视角改为四分之三侧面，女神手持新月，并在底座旁加入一只石雕小猫。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-night-train-commute",
+    "title": "夜班电车 Night Train Commute",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-night-train-commute.png?v=4d7ea699",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "通勤",
+      "电车",
+      "情绪",
+      "人像"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》1.8 地铁通勤",
+    "prompt": "一位约27岁的成年韩国女子坐在夜晚电车的车窗边，身穿驼色长款大衣与黑色高领毛衣，直发配空气刘海，淡淡猫眼眼线与玫瑰色唇，戴着耳机若有所思，车窗外流动的城市灯光在脸上掠过，腰部以上，50mm。",
+    "tweet": "夜班电车 ✨ Night Train Commute\n通勤 · 电车 · 情绪 · 人像\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：白天地铁改为夜晚电车，西装半裙改为长款大衣配高领毛衣，柔和窗光改为车窗外流动的城市灯带。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-night-market-stairwell-glance",
+    "title": "夜市楼梯擦肩 Passing Glance on a Night-Market Stairwell",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-night-market-stairwell-glance.png?v=87666a7e",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "电影感",
+      "暧昧",
+      "霓虹",
+      "胶片"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 7: 王家卫式暧昧 (抽帧感)",
+    "prompt": "电影剧照：一对成年男女在夜市旁一栋旧楼的窄楼梯间擦肩而过，彼此回眸，运动模糊，琥珀色与青色霓虹光，高感光胶片颗粒，楼梯口蹲着一只猫，强烈的浪漫张力，梦幻而暧昧。",
+    "tweet": "夜市楼梯擦肩 ✨ Passing Glance on a Night-Market Stairwell\n电影感 · 暧昧 · 霓虹 · 胶片\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：去掉导演名，窄走廊改为夜市旁的旧楼楼梯，红绿霓虹改为琥珀与青色，加入楼梯口的一只猫。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。"
+  },
+  {
+    "id": "2026-09-27-night-market-fishcake",
+    "title": "夜市鱼糕摊 Night Market Fish Cake Stall",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-night-market-fishcake.png?v=fff371b3",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "夜市",
+      "美食",
+      "街拍",
+      "韩系"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》1.10 明洞夜市",
+    "prompt": "一位约25岁的成年韩国女子在夜市的鱼糕摊前，笑着吹凉手里热气腾腾的鱼糕串，身穿复古棒球夹克与工装长裤，丸子头，清透水光妆与渐变唇，夜市暖黄灯串与蒸汽，街头抓拍，35mm。",
+    "tweet": "夜市鱼糕摊 ✨ Night Market Fish Cake Stall\n夜市 · 美食 · 街拍 · 韩系\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：辣炒年糕改为鱼糕串，连帽衫牛仔裙改为棒球夹克配工装长裤，高马尾改为丸子头。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
   },
   {
     "id": "2026-09-27-new-year-rooftop-friends",
@@ -326,6 +1580,177 @@
     "notes": "- 防撞图改动：模板选项固定为原创Q版动物小伙伴，把横幅派对换成舞龙灯笼游行，配色改为朱红+金+夜紫。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 1:1。"
   },
   {
+    "id": "2026-09-27-neon-tram-stop-night",
+    "title": "霓虹电车站 Neon Tram Stop at Night",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-neon-tram-stop-night.png?v=9203e174",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "港风",
+      "夜景",
+      "霓虹",
+      "电影感"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》13.1 港式夜街",
+    "prompt": "一位约27岁的成年日本女子在港风夜色中的叮叮车站台，身穿酒红色长袖高领连衣裙外搭皮夹克，侧分波浪发，棕红色口红，霓虹招牌倒映在雨后积水中，电影胶片颗粒，35mm。",
+    "tweet": "霓虹电车站 ✨ Neon Tram Stop at Night\n港风 · 夜景 · 霓虹 · 电影感\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：缎面吊带裙改为酒红色高领连衣裙配皮夹克，街道改为叮叮车站台，加入雨后积水倒影。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-neon-reflection-rainy-alley",
+    "title": "雨夜霓虹倒影 Neon Reflection on a Rainy Night",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-neon-reflection-rainy-alley.png?v=edf097a3",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "霓虹",
+      "繁体字",
+      "倒影",
+      "港风"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 5: 霓虹灯下的《花样年华》 (繁体字与光影遮挡)",
+    "prompt": "上世纪60年代的香港雨夜，石板路上一个水洼的倒影，倒影中是一个倒置发光的霓虹灯箱，写着繁体字\"夜未央\"。雨滴与一只猫刚踩过的涟漪轻轻扰动倒影，但文字依然清晰可辨。电影感的情绪化光影，红绿霓虹，胶片颗粒。",
+    "tweet": "雨夜霓虹倒影 ✨ Neon Reflection on a Rainy Night\n霓虹 · 繁体字 · 倒影 · 港风\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：去掉电影名与导演名，文字改为\"夜未央\"，场景由柏油路改为石板路，并加入一只踩过水洼的猫的爪印涟漪。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-neon-paper-lantern-talisman",
+    "title": "雨夜符咒纸灯 Talisman on a Rainy-Night Lantern",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-neon-paper-lantern-talisman.png?v=450e88c8",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "符咒",
+      "赛博朋克",
+      "文字渲染",
+      "东方奇幻"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 3: 赛博僵尸符咒 (复杂笔画与材质)",
+    "prompt": "电影感镜头：赛博朋克雨夜小巷里，一盏会飘浮的古旧纸灯笼精怪，灯笼上贴着一张随风飘动的黄纸符咒，符上用朱砂红毛笔写着\"镇宅平安\"，文字随皱褶的纸张真实变形，被雨水微微打湿。品红与青色霓虹光，积水倒影，诡异又神秘的氛围。",
+    "tweet": "雨夜符咒纸灯 ✨ Talisman on a Rainy-Night Lantern\n符咒 · 赛博朋克 · 文字渲染 · 东方奇幻\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：僵尸改为一盏悬浮的古旧纸灯笼精怪，霓虹绿改为品红与青，符咒文字改为\"镇宅平安\"。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。"
+  },
+  {
+    "id": "2026-09-27-neon-arcade-jumpsuit",
+    "title": "霓虹游戏厅 Neon Arcade",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-neon-arcade-jumpsuit.png?v=b65891f2",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "霓虹",
+      "派对",
+      "街机",
+      "人像"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》5.1 派对走廊",
+    "prompt": "一位约26岁的成年韩国女子在复古街机厅里，身穿银色亮片阔腿连体裤与短靴，高卷马尾，水润唇与大胆眼线，俏皮地倚靠在一台街机旁，彩色霓虹与屏幕光映在脸上，35mm。",
+    "tweet": "霓虹游戏厅 ✨ Neon Arcade\n霓虹 · 派对 · 街机 · 人像\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：派对走廊改为复古街机厅，亮片短裙长靴改为亮片阔腿连体裤与短靴，撩发改为倚靠街机。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。\n- 成图瑕疵：街机屏幕上自动出现了真实游戏名「SPACE INVADERS」，发布前可考虑修掉。"
+  },
+  {
+    "id": "2026-09-27-negative-space-owl-logo",
+    "title": "负空间猫头鹰Logo Negative-Space Owl Logo",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-negative-space-owl-logo.png?v=8c0d53c7",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "Logo",
+      "矢量",
+      "极简",
+      "负空间"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 39: 极简Logo (矢量)",
+    "prompt": "极简矢量Logo：一个利用负空间的风格化猫头鹰头像，负空间中藏着一弯新月，纯深紫色平涂，几何形状，白色背景，矢量插画风格。",
+    "tweet": "负空间猫头鹰Logo ✨ Negative-Space Owl Logo\nLogo · 矢量 · 极简 · 负空间\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：狐狸头改为猫头鹰，橙色改为深紫色，并在负空间中藏入一弯新月。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 1:1。"
+  },
+  {
+    "id": "2026-09-27-negative-space-deer-bamboo",
+    "title": "竹林负空间之鹿 Negative-Space Deer in Bamboo",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-negative-space-deer-bamboo.png?v=79362e8a",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "负空间",
+      "极简",
+      "构图",
+      "水墨"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 35: 负空间狼 (构图)",
+    "prompt": "极简艺术：一片茂密的墨色竹林笼罩在晨雾中，竹竿之间的负空间构成一只回首的鹿的剪影，高对比，水墨质感。",
+    "tweet": "竹林负空间之鹿 ✨ Negative-Space Deer in Bamboo\n负空间 · 极简 · 构图 · 水墨\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：白桦林改为墨色竹林，嚎叫的狼改为回首的鹿，冬季改为雾中清晨。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。\n- 成图瑕疵：鹿是直接画出来的，不是竹林间留白形成的负空间剪影。"
+  },
+  {
+    "id": "2026-09-27-nautilus-night-light-page",
+    "title": "鹦鹉螺夜灯产品页 Nautilus Night Light Product Page",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-nautilus-night-light-page.png?v=d56ecea9",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "产品页",
+      "热熔玻璃",
+      "蓝晒",
+      "复古"
+    ],
+    "source": "VibeShot 知识库《rare-style-explorer/style_library》E020 水母台灯",
+    "prompt": "鹦鹉螺夜灯产品页，热熔玻璃的半透明边缘，蓝晒标本般的平面感，1990年代老式百货公司玻璃橱窗陈列。",
+    "tweet": "鹦鹉螺夜灯产品页 ✨ Nautilus Night Light Product Page\n产品页 · 热熔玻璃 · 蓝晒 · 复古\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：水母台灯改为鹦鹉螺夜灯，机场免税店改为老式百货橱窗。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-mystic-moth-stamp-sheet",
+    "title": "神秘夜蛾纪念邮票 Mystic Moth Stamp Sheet",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-mystic-moth-stamp-sheet.png?v=fc59592e",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "邮票",
+      "敦煌色",
+      "树脂",
+      "收藏"
+    ],
+    "source": "VibeShot 知识库《rare-style-explorer/style_library》E015 神秘蘑菇邮票",
+    "prompt": "神秘夜蛾纪念邮票小版张，敦煌壁画矿物色（石青、石绿、赭石）配深紫点缀，透明树脂封装带微小气泡，清晰的齿孔边缘。",
+    "tweet": "神秘夜蛾纪念邮票 ✨ Mystic Moth Stamp Sheet\n邮票 · 敦煌色 · 树脂 · 收藏\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：蘑菇改为夜蛾，敦煌矿物色保留并加入深紫色，树脂封装保留。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 4:3。"
+  },
+  {
+    "id": "2026-09-27-music-box-blueprint-poster",
+    "title": "八音盒工程拆解海报 Music Box Engineering Poster",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-music-box-blueprint-poster.png?v=1efb6660",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "拆解图",
+      "工程图",
+      "产品",
+      "海报"
+    ],
+    "source": "VibeShot 知识库《2026年1月》铅笔盒拆解图 by 迪丽热烈",
+    "prompt": "竖版9:16工程海报，画面被一条清晰的水平分割线精确分为上1/3与下2/3。上1/3：一只原创黄铜星象八音盒的高端电影感棚拍照片，盒盖打开，内部旋转的星球模型可见，侧面插着一把猫形发条钥匙；主体完整缩放在上方区域内，四周留有深色背景边距，不越过分割线；戏剧性棚拍光。下2/3：从分割线下方开始，铺满深蓝色晒图纸上的高密度技术图纸——主线框结构、内部部件爆炸视图、侧立面、俯视剖面、齿轮/音梳/发条的局部放大、密集的尺寸标注与网格线，达芬奇手稿与现代CAD结合，拥挤精密而富有想象力。",
+    "tweet": "八音盒工程拆解海报 ✨ Music Box Engineering Poster\n拆解图 · 工程图 · 产品 · 海报\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：填充主体为一只原创黄铜星象八音盒，米色图纸改为深蓝色晒图纸，加入猫形发条钥匙作为小彩蛋。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 9:16。"
+  },
+  {
     "id": "2026-09-27-mountain-inn-at-dusk",
     "title": "山城客栈的黄昏 Mountain-Town Inn at Dusk",
     "date": "2026-09-27",
@@ -343,6 +1768,386 @@
     "prompt": "古代中国山城里，一座建在悬崖边的吊脚楼客栈，木平台上挂着灯笼与风铃。一位身着白色汉服的女医者提着药篓站在平台边，背影面向远方，营造电影感氛围。背景是层叠的山城建筑，远处炊烟袅袅，黄昏的天空中飘着一盏盏孔明灯。广角视角，高品质3D渲染，高分辨率，细节丰富的材质。",
     "tweet": "山城客栈的黄昏 ✨ Mountain-Town Inn at Dusk\n古风 · 场景 · 电影感 · 氛围\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
     "notes": "- 防撞图改动：人物从持柴的黑衣男子改为提着药篓的白衣女医者背影，开放木平台改为悬崖边的吊脚楼客栈，飞鸟改为放飞的孔明灯。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。"
+  },
+  {
+    "id": "2026-09-27-mossy-forest-stream",
+    "title": "苔藓森林溪边 Mossy Forest Stream",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-mossy-forest-stream.png?v=de5edc62",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "森系",
+      "自然",
+      "溪流",
+      "日系"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》14.1 森林小径",
+    "prompt": "一位约25岁的成年日本女子在苔藓覆盖的森林溪边，身穿深绿色亚麻长裙与系带短靴，头上系着编织头巾，自然柔和妆，蹲下用手轻触溪水，林冠透下斑驳光束，50mm。",
+    "tweet": "苔藓森林溪边 ✨ Mossy Forest Stream\n森系 · 自然 · 溪流 · 日系\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：森林小径改为苔藓溪边，草帽改为编织头巾，亚麻罩衫裙改为深绿亚麻长裙。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-monster-ice-cream-parlor",
+    "title": "怪兽冰淇淋店 Monster Ice Cream Parlor",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-monster-ice-cream-parlor.png?v=cffd25be",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "品牌",
+      "贴纸漫画",
+      "包装",
+      "可爱"
+    ],
+    "source": "VibeShot 知识库《rare-style-explorer/style_library》E018 怪兽面包店",
+    "prompt": "怪兽冰淇淋店品牌形象，泡泡糖怪兽贴纸漫画，复古冰淇淋纸杯吉祥物包装，报纸网点纸纹理，搞笑可爱。",
+    "tweet": "怪兽冰淇淋店 ✨ Monster Ice Cream Parlor\n品牌 · 贴纸漫画 · 包装 · 可爱\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：面包店改为冰淇淋店，麦片盒改为复古冰淇淋纸杯包装。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-mobius-water-slide",
+    "title": "莫比乌斯水滑梯 Möbius Water Slide",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-mobius-water-slide.png?v=1fdea0ff",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "超现实",
+      "莫比乌斯",
+      "结构",
+      "写实"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 17: 莫比乌斯过山车 (单一曲面)",
+    "prompt": "一条水上乐园滑梯构成完美的莫比乌斯环（单一连续曲面），半透明彩色玻璃钢管道中水流不断，一只橡皮艇正倒挂在环上滑行。真实材质，日落暖色天空，违反物理直觉的结构。",
+    "tweet": "莫比乌斯水滑梯 ✨ Möbius Water Slide\n超现实 · 莫比乌斯 · 结构 · 写实\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：过山车改为水上乐园滑梯，钢轨改为半透明彩色玻璃钢管道，蓝天改为日落天空。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 4:3。\n- 成图瑕疵：滑梯是普通圆环，没有真正做出莫比乌斯带的单面扭转。"
+  },
+  {
+    "id": "2026-09-27-minimal-magazine-cover-east",
+    "title": "极简杂志封面·山海 Minimal Magazine Cover: Mountains & Seas",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-minimal-magazine-cover-east.png?v=400bf849",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "杂志封面",
+      "排版",
+      "极简",
+      "瑞士风格"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 7: 现代杂志封面 (图文混排与字号权重)",
+    "prompt": "高级时尚杂志封面版式：极简摄影，一位约27岁成年女性的侧脸逆光剪影，只有耳垂上一枚玉耳饰被光点亮。左侧是大号粗黑体竖排汉字\"山海\"，下方是小号英文\"ISSUE 07\"。干净的排版，大面积留白，瑞士设计风格，米白底色。",
+    "tweet": "极简杂志封面·山海 ✨ Minimal Magazine Cover: Mountains & Seas\n杂志封面 · 排版 · 极简 · 瑞士风格\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：侧脸阴影改为逆光剪影与一枚玉耳饰，竖排文字改为\"山海\"，英文改为\"ISSUE 07\"，版式改为左侧排字。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-mars-ramen-vending-shop",
+    "title": "火星拉面自贩店 Mars Ramen Vending Shop",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-mars-ramen-vending-shop.png?v=7b252163",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "场景",
+      "太空",
+      "玩具感",
+      "自动售货"
+    ],
+    "source": "VibeShot 知识库《rare-style-explorer/style_library》E012 月球披萨店",
+    "prompt": "火星拉面自动售卖店，火星基地游乐场，自动售货机商品展示照片，70年代日本低成本特摄布景，玩具般的氛围。",
+    "tweet": "火星拉面自贩店 ✨ Mars Ramen Vending Shop\n场景 · 太空 · 玩具感 · 自动售货\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：月球披萨改为火星拉面，意式太空剧改为70年代日本特摄布景。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 4:3。"
+  },
+  {
+    "id": "2026-09-27-mars-jade-bridge-to-earth",
+    "title": "火星玉桥通地球 Jade Bridge from Mars to Earth",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-mars-jade-bridge-to-earth.png?v=e3ef71af",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "宇宙",
+      "古建筑",
+      "科幻",
+      "史诗"
+    ],
+    "source": "VibeShot 知识库《2026年2月》电影级写实海岸线建筑 by 热迪巴巴",
+    "prompt": "16:9，广角电影感宇宙景观，强烈对角线构图，视角位于太空。左下：巨大的赤红火星球体，表面被密集连绵的青玉色中国古建筑覆盖，由于极浅景深，这些建筑被强烈虚化成一片质感丰富的青玉色塔楼剪影。右侧远处：地球悬挂在深空，夜半球上有模糊的金色城市光网，外围环绕一道细细的金色星环。连接：一座巨大的青玉石古桥从火星左下方向右上方地球延伸，对焦最清晰处在桥的中段；极端透视下桥身近火星处极宽，逐渐收窄成通往地球的一条细线，强调巨大的距离。光线：凛冽的恒星光勾勒桥梁边缘，衬着漆黑真空，冷峻史诗感。照片级写实，强烈浅景深，电影光效，宏大尺度。",
+    "tweet": "火星玉桥通地球 ✨ Jade Bridge from Mars to Earth\n宇宙 · 古建筑 · 科幻 · 史诗\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：白色月球改为赤红火星，白石古建改为青玉色古建，远处地球保留但增加金色星环，冷调改为赤红与青玉对比。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。"
+  },
+  {
+    "id": "2026-09-27-mapo-tofu-recipe-infographic",
+    "title": "麻婆豆腐手绘食谱 Mapo Tofu Illustrated Recipe",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-mapo-tofu-recipe-infographic.png?v=ad44db55",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "食谱",
+      "水彩",
+      "信息图",
+      "美食"
+    ],
+    "source": "VibeShot 知识库《一些好玩儿的提示词》6.食谱",
+    "prompt": "创作一张9:16竖版的《麻婆豆腐》手绘风格教学食谱信息图。风格：专业厨师写给普通人的家常食谱，Z字形动线排版（左上→右上→左下），彩色水彩速写配细腻墨线轮廓，当代插画配色与笔触，淡青灰色纸张纹理，温暖亲切，让人看了就想做。顶部醒目标题《麻婆豆腐》。步骤区块（5步），每步含手绘插图、简短说明、厨师秘技、小心得：①备料：嫩豆腐、牛肉末、郫县豆瓣、花椒、蒜苗、豆豉；秘技：豆腐切块后用淡盐水焯一下更不易碎。②炒香：小火煸牛肉末至酥香；秘技：肉末炒到出油再下豆瓣。③炒酱：豆瓣、豆豉、姜蒜炒出红油；秘技：小火防糊。④烧制：加汤下豆腐，轻推不翻；秘技：分三次勾芡，汁更亮。⑤出锅：撒蒜苗与现磨花椒粉；心得：麻、辣、烫、香、酥、嫩、鲜。底部是一份红亮诱人、热气腾腾的麻婆豆腐成品插图，水彩油亮质感，碗边探出一只偷看的小猫。",
+    "tweet": "麻婆豆腐手绘食谱 ✨ Mapo Tofu Illustrated Recipe\n食谱 · 水彩 · 信息图 · 美食\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：番茄炒蛋填充为麻婆豆腐，米色纸改为淡青灰纸张，去掉原作署名，底部加入一只偷看的小猫。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 9:16。"
+  },
+  {
+    "id": "2026-09-27-mantis-shrimp-armored-warrior",
+    "title": "螳螂虾装甲战士 Mantis-Shrimp Armored Warrior",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-mantis-shrimp-armored-warrior.png?v=cffcc73a",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "机甲",
+      "仿生",
+      "写实",
+      "时尚"
+    ],
+    "source": "VibeShot 知识库《2026年3月》机械龙虾人 by 古一",
+    "prompt": "真人实拍的螳螂虾主题装甲战士，虹彩孔雀蓝与荧光橙相间的外骨骼战衣，光泽如甲壳的生物机械装甲，分节的甲片带有斑斓的金属虹彩，前臂有折叠式\"掠肢\"护甲，头部有复眼状的双目头盔与触须饰件。奢华未来机甲时装，真实可穿戴的服装质感，电影级布光，英雄姿态，模特实拍，真人cosplay时尚大片，真实皮肤纹理，实用盔甲结构，高级科幻美学，背景是珊瑚礁感的深海基地舷窗，腰部以上半身像，浅景深，非CG，非3D渲染，超细节，高清。",
+    "tweet": "螳螂虾装甲战士 ✨ Mantis-Shrimp Armored Warrior\n机甲 · 仿生 · 写实 · 时尚\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：龙虾改为螳螂虾，深红酒红配色改为孔雀蓝与荧光橙的虹彩配色，未来背景改为珊瑚礁感的深海基地。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-manga-panel-cat-eye-shock",
+    "title": "漫画格·猫眼惊变 Manga Panel: Cat Eye in Shock",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-manga-panel-cat-eye-shock.png?v=7cc059f5",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "漫画",
+      "网点",
+      "黑白",
+      "速度线"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 25: 漫画黑白页 (网点纸)",
+    "prompt": "漫画单页分格：一只猫的眼睛因震惊而瞳孔骤缩的极致特写，瞳孔中倒映出一个巨大的影子，大量网点纸，动态速度线，高对比墨线，热血少年漫画风格。",
+    "tweet": "漫画格·猫眼惊变 ✨ Manga Panel: Cat Eye in Shock\n漫画 · 网点 · 黑白 · 速度线\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：去掉作品名，人眼改为猫眼，并在瞳孔中映出巨大的影子。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-magnolia-park-candid",
+    "title": "玉兰树下的回眸 Candid Under Magnolias",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-magnolia-park-candid.png?v=ae79e57c",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "春日",
+      "公园",
+      "抓拍",
+      "日系"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》1.1 公园樱花",
+    "prompt": "一位约25岁的成年日本女子在安静公园的白玉兰树下的抓拍人像，微微侧身回眸浅笑，身穿浅蓝色衬衫式连衣裙外搭米色开衫，黑发扎成低马尾配空气刘海，淡粉腮红与细眼线，自然日光，浅景深，50mm，腰部以上。",
+    "tweet": "玉兰树下的回眸 ✨ Candid Under Magnolias\n春日 · 公园 · 抓拍 · 日系\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：樱花改为白玉兰，碎花裙改为浅蓝衬衫裙，长直黑发改为低马尾，镜头改为50mm。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-low-poly-whale-ocean",
+    "title": "低多边形鲸鱼入侵 Low-Poly Whale Glitch",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-low-poly-whale-ocean.png?v=c44115e0",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "超现实",
+      "低多边形",
+      "现实故障",
+      "自然摄影"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 3: 低模入侵 (The Low-Poly Glitch)",
+    "prompt": "自然纪录片风格的海洋水下摄影：画面中央一头座头鲸，但它以低多边形的老式游戏画风呈现，边缘锯齿分明、贴图平面。然而阳光穿过海面真实地照在它身上，身上投满写实的水下焦散光斑，并在海底沙地上投下柔和真实的影子。现实故障，强烈反差，超现实。",
+    "tweet": "低多边形鲸鱼入侵 ✨ Low-Poly Whale Glitch\n超现实 · 低多边形 · 现实故障 · 自然摄影\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：森林鹿改为海洋中的座头鲸，草地阴影改为水下的真实焦散光影。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。"
+  },
+  {
+    "id": "2026-09-27-lotus-dancer-moonlight",
+    "title": "莲台月下飞天舞 Moonlit Lotus-Platform Dancer",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-lotus-dancer-moonlight.png?v=fabadb9d",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "敦煌",
+      "舞蹈",
+      "飞天",
+      "电影感"
+    ],
+    "source": "VibeShot 知识库《2026年2月》古风敦煌石窟女性 by 迪丽热浪里个浪",
+    "prompt": "主体：一张电影感、情绪饱满的照片，一位约25岁的成年敦煌风原创舞者在漂浮于静水上的石莲台上保持柔美舞姿。镜头：低角度，展现深紫与金色飘带在宽幅画面中大幅舒展，突出她轻盈飘逸的姿态。情绪：宁静、温柔、深情的\"白月光\"美学，柔和而怀旧。面部：柔和鹅蛋脸，奶白通透肌肤带粉调，杏眼温柔含水，右眼下一颗红色泪痣。摄影风格：清冷月光从石窟顶口洒下，混合暖色烛光，水面倒影与微尘漂浮，空灵柔光，35mm胶片质感。避免：文字、logo、水印、硬朗棱角、愤怒表情、浓重阴影。",
+    "tweet": "莲台月下飞天舞 ✨ Moonlit Lotus-Platform Dancer\n敦煌 · 舞蹈 · 飞天 · 电影感\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：人物改为约25岁成年舞者，黄金时刻改为月光与烛光，莲台改为漂浮在水面上的石莲台，飘带改为深紫与金色。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。"
+  },
+  {
+    "id": "2026-09-27-lonely-laundromat-twilight",
+    "title": "暮色中的孤独洗衣店 Lonely Laundromat at Twilight",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-lonely-laundromat-twilight.png?v=83f0e217",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "电影感",
+      "孤独",
+      "布光",
+      "写实"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 10: 孤独的加油站 (Crewdson 风格)",
+    "prompt": "舞台化的电影感摄影：暮色中雪原小镇边一家孤零零亮着灯的24小时洗衣店，室内人工光与紫色暮光天空强烈对比，店里一个人静静站着，望向空无一物的前方，一只猫蹲在门外雪地里。神秘、超写实、静止的叙事感。",
+    "tweet": "暮色中的孤独洗衣店 ✨ Lonely Laundromat at Twilight\n电影感 · 孤独 · 布光 · 写实\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：去掉摄影师名字，沙漠加油站改为雪原小镇边的24小时洗衣店，深蓝天空改为紫色暮光。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。"
+  },
+  {
+    "id": "2026-09-27-lisbon-couple-camera-roll-grid",
+    "title": "里斯本情侣旅行相册4x4 Lisbon Couple Camera-Roll 4x4 Grid",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-lisbon-couple-camera-roll-grid.png?v=eeb8645e",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "情侣",
+      "旅行",
+      "手机随拍",
+      "拼贴"
+    ],
+    "source": "VibeShot 知识库《virtual-couple-travel-vlog/prompts》4x4 Memory Grid Prompt",
+    "prompt": "一张4x4网格拼贴，共16张怀旧感的手机随手旅行照，主角始终是同一对固定的夫妻：一对三十岁出头的中国夫妻，丈夫短发戴圆框眼镜、穿灰色卫衣，妻子齐肩黑发、穿米色风衣和条纹T恤，在葡萄牙里斯本度假。16格中两人的脸、五官比例、年龄、发型、体型、穿搭逻辑和相处氛围完全一致，像同一次旅行的私人相册。场景：黄色老电车前自拍、阿尔法玛区陡峭石阶、蛋挞店排队、观景台看日落、河边吃沙丁鱼、瓷砖墙前的背影、在书店翻书、有轨电车窗边打盹、贝伦塔远景、海边吹风、街头听法朵、夜晚小巷、手里的冰淇淋、酒店窗外的屋顶、被风吹乱的头发、机场告别前的最后一张。手机POV自拍风格，业余随拍，无刻意构图，轻微运动模糊，光线不均，偶有过曝，角度随意，横竖混排，地平线微斜，表情自然。初秋的暖黄斜阳与海雾，怀旧、写实、略带复古的手机色彩，低饱和，轻微噪点。禁止：人物身份漂移、换人换脸、发色年龄变化、棚拍光、时装大片感、奢华广告感、AI脸、文字、logo、水印。",
+    "tweet": "里斯本情侣旅行相册4x4 ✨ Lisbon Couple Camera-Roll 4x4 Grid\n情侣 · 旅行 · 手机随拍 · 拼贴\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：填充模板为一对原创的三十岁出头中国夫妻，目的地为葡萄牙里斯本，并设定16个具体场景与初秋光线。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 1:1。"
+  },
+  {
+    "id": "2026-09-27-liquid-silver-over-obsidian-cat",
+    "title": "流银浇铸黑曜石猫 Liquid Silver over an Obsidian Cat",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-liquid-silver-over-obsidian-cat.png?v=65e318b3",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "流体",
+      "金属",
+      "质感",
+      "棚拍"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 32: 融化的黄金 (流体质感)",
+    "prompt": "液态银缓缓浇在一尊哑光黑曜石猫雕像上，高粘度，写实流体模拟，镜面银色反射，棚拍光。",
+    "tweet": "流银浇铸黑曜石猫 ✨ Liquid Silver over an Obsidian Cat\n流体 · 金属 · 质感 · 棚拍\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：液态黄金改为液态银，哑光黑骷髅改为黑曜石猫雕像。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 1:1。"
+  },
+  {
+    "id": "2026-09-27-liquid-music-box",
+    "title": "液体八音盒 Liquid Music Box",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-liquid-music-box.png?v=7bd82f99",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "高速摄影",
+      "流体",
+      "材质",
+      "超现实"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 19: 液体引擎 (流体硬化)",
+    "prompt": "一个完全由流动的琥珀色液体构成的八音盒机芯，齿轮、音梳与滚筒由液体张力形成清晰形状但保持液态材质。高速摄影，冻结瞬间，深紫色背景下的棚拍光。",
+    "tweet": "液体八音盒 ✨ Liquid Music Box\n高速摄影 · 流体 · 材质 · 超现实\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：汽车引擎改为八音盒机芯，清水改为琥珀色蜂蜜质感液体，棚拍背景改为深紫色。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 4:3。"
+  },
+  {
+    "id": "2026-09-27-linen-and-velvet-split",
+    "title": "粗麻与丝绒 Rough Linen vs. Velvet",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-linen-and-velvet-split.png?v=759fbecb",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "材质",
+      "对比",
+      "微距",
+      "纹理"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 31: 编织与丝绸 (对比)",
+    "prompt": "对角线分割的材质对比镜头：左上是粗纺亚麻的粗糙纤维，右下是顺滑的深紫色丝绒，分界线锐利，丝线细节微距呈现。",
+    "tweet": "粗麻与丝绒 ✨ Rough Linen vs. Velvet\n材质 · 对比 · 微距 · 纹理\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：粗麻袋改为粗纺亚麻，深红丝绸改为深紫丝绒，左右分割改为对角线分割。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 4:3。"
+  },
+  {
+    "id": "2026-09-27-lighthouse-keeper-contact-sheet",
+    "title": "灯塔守夜人分镜接触片 Lighthouse Keeper Storyboard Contact Sheet",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-lighthouse-keeper-contact-sheet.png?v=42abcf7d",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "分镜",
+      "电影感",
+      "接触片",
+      "叙事"
+    ],
+    "source": "VibeShot 知识库《2026年3月》电影分镜图 by 小富",
+    "prompt": "一张无缝的6x8电影分镜接触片（共48帧，每帧16:9，帧与帧之间没有任何白线、边框或间隔，画面边缘直接相接），讲述一段180秒的原创故事。角色：一位白胡子、穿深蓝油布雨衣的老灯塔守夜人，和他形影不离的黑猫，所有帧中外貌、服装完全一致。风格：北欧冷调电影感，暴风雨夜，青灰与暖黄灯光对比，35mm胶片颗粒。情节：第1排 暮色中守夜人给灯塔上油、黑猫在窗台打盹；第2排 暴风雨来袭，远处出现遇险渔船的信号弹；第3排 灯塔主灯故障，守夜人攀爬螺旋楼梯；第4排 狂风中修理透镜，黑猫叼来掉落的扳手；第5排 灯光重新亮起，光束穿透雨幕；第6排 渔船循光转向，避开礁石；第7排 黎明前渔民上岸挥手致谢；第8排 晨光中守夜人与黑猫坐在台阶上喝热茶。高分辨率，接触片，电影级布光，连续的空间与光照逻辑。",
+    "tweet": "灯塔守夜人分镜接触片 ✨ Lighthouse Keeper Storyboard Contact Sheet\n分镜 · 电影感 · 接触片 · 叙事\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：把占位模板填充为原创故事：老灯塔守夜人与一只黑猫在暴风雨夜救起一艘渔船，网格统一为6x8共48帧。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。"
+  },
+  {
+    "id": "2026-09-27-library-archivist-film-portrait",
+    "title": "图书馆档案员胶片人像 Archivist Film Portrait",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-library-archivist-film-portrait.png?v=7c88d514",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "胶片",
+      "职业",
+      "人像",
+      "复古"
+    ],
+    "source": "VibeShot 知识库《2026年3月》复古胶片 by 古一",
+    "prompt": "一位气质清冷、五官立体的成年亚洲女性，约30岁，戴金丝眼镜，梳利落的高马尾，身穿剪裁合身的深酒红西装外套、白色衬衫与同色阔腿长裤，站在古籍档案馆的木质旋梯上，一手扶着黄铜栏杆，一手自信地抽出一张卡片目录，身后是满墙的橡木卡片抽屉与古书。低机位全身构图，突出她的从容气场与职业感。午后阳光透过高窗斜射，形成细微的光束与尘埃，复古胶片颗粒，高细节，冷静权威的氛围，专业知性。",
+    "tweet": "图书馆档案员胶片人像 ✨ Archivist Film Portrait\n胶片 · 职业 · 人像 · 复古\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：教师讲台改为古籍档案馆的旋梯，黑板公式改为满墙卡片目录，铅笔裙丝袜改为深酒红阔腿西裤套装，去掉原作的个性化参数。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-late-night-laundromat-snapshot",
+    "title": "深夜洗衣房随手拍 Late-Night Laundromat Snapshot",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-late-night-laundromat-snapshot.png?v=47502272",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "复古",
+      "胶片",
+      "随手拍",
+      "氛围"
+    ],
+    "source": "VibeShot 知识库《2026年3月》复古格调人像 by Duan",
+    "prompt": "具有INS风、复古格调的女性人像照片，以低像素、高噪点、胶片粗颗粒质感为视觉特点，融入动态美学与朦胧美学，写意而前卫。深夜的自助洗衣房里，一位约24岁、颜值很高的成年女子留着黑色齐耳短发，穿着宽大的毛衣，靠在滚筒洗衣机旁，双手捧着一杯热可可，脸上带着略带羞涩的甜美笑容，窗外玻璃上趴着一只好奇的橘猫。整体是暗色调的柔和朦胧氛围，荧光灯偏绿的光影细腻，带有古早味和网感，略微模糊，像用手机随手拍下的快照，刻意平凡，妆容自然，情绪氛围感强烈。",
+    "tweet": "深夜洗衣房随手拍 ✨ Late-Night Laundromat Snapshot\n复古 · 胶片 · 随手拍 · 氛围\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：美少女改为约24岁成年女性，冰箱边改为深夜自助洗衣房，饮料改为一杯热可可，长黑发改为短发并加入窗外的猫。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
   },
   {
     "id": "2026-09-27-lantern-festival-duo",
@@ -383,6 +2188,177 @@
     "notes": "- 防撞图改动：地标从东京晴空塔换成广州塔（小蛮腰），季节改为雨后傍晚的晚霞，冰棒口味做成荔枝玫瑰渐变色。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 9:16。"
   },
   {
+    "id": "2026-09-27-lacquer-skateboard-wuxia-backlot",
+    "title": "莳绘滑板·武侠片场 Maki-e Skateboard on a Wuxia Backlot",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-lacquer-skateboard-wuxia-backlot.png?v=c1d89bc7",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "产品",
+      "莳绘",
+      "武侠",
+      "风格融合"
+    ],
+    "source": "VibeShot 知识库《rare-style-explorer/style_library》E002 运动鞋",
+    "prompt": "一块滑板作为主角产品，70年代香港武侠片场外景的氛围（假山、布景牌楼、烟雾），滑板底面是黑漆莳绘金粉纹样的仙鹤与云纹，复古玩具吸塑卡背板构图，极少量的伪文字排版。",
+    "tweet": "莳绘滑板·武侠片场 ✨ Maki-e Skateboard on a Wuxia Backlot\n产品 · 莳绘 · 武侠 · 风格融合\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：运动鞋改为滑板，去掉电影公司名改为70年代香港武侠片场，玩具吸塑卡改为复古贴纸卡片构图。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-koi-sake-cup-shinhanga",
+    "title": "锦鲤酒盏·新版画雪夜 Koi Sake Cup in a Shin-Hanga Snow Night",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-koi-sake-cup-shinhanga.png?v=89a06a57",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "产品",
+      "新版画",
+      "冰裂釉",
+      "风格融合"
+    ],
+    "source": "VibeShot 知识库《rare-style-explorer/style_library》E006 金鱼茶杯",
+    "prompt": "锦鲤造型的清酒盏，新版画风格的雪夜街道氛围，冰裂纹釉陶瓷，蓝紫色调的胶片颗粒，产品居中。",
+    "tweet": "锦鲤酒盏·新版画雪夜 ✨ Koi Sake Cup in a Shin-Hanga Snow Night\n产品 · 新版画 · 冰裂釉 · 风格融合\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：金鱼茶杯改为锦鲤造型酒盏，雨夜改为雪夜，水下相机颗粒改为雪夜胶片的蓝紫颗粒。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 1:1。\n- 成图瑕疵：杯子更像普通鱼形杯，不太像锦鲤。"
+  },
+  {
+    "id": "2026-09-27-knight-kettle-model-kit-box",
+    "title": "骑士电水壶模型盒绘 Knight Kettle Model-Kit Box Art",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-knight-kettle-model-kit-box.png?v=fbd4daa1",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "产品",
+      "模型盒绘",
+      "喷枪",
+      "复古广告"
+    ],
+    "source": "VibeShot 知识库《rare-style-explorer/style_library》E016 武士电饭煲",
+    "prompt": "西洋骑士造型电水壶，1980年代机甲模型套件盒绘，阳极氧化铜色渐变机身，1980年代喷枪镀铬字体广告，戏剧性的英雄产品构图。",
+    "tweet": "骑士电水壶模型盒绘 ✨ Knight Kettle Model-Kit Box Art\n产品 · 模型盒绘 · 喷枪 · 复古广告\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：武士电饭煲改为西洋骑士造型电水壶，阳极氧化铝渐变改为铜色渐变。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 4:3。"
+  },
+  {
+    "id": "2026-09-27-kids-poster-pollinator-robot",
+    "title": "儿童科普海报·授粉机器人 Kids Science Poster: Pollinator Robot",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-kids-poster-pollinator-robot.png?v=a2916a2a",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "科普",
+      "海报",
+      "孔版印刷",
+      "儿童"
+    ],
+    "source": "VibeShot 知识库《rare-style-explorer/style_library》E011 儿童科学海报",
+    "prompt": "儿童科普海报，讲解一只授粉机器蜂如何工作，复古科学漫画图解，粉色与青色双色孔版印刷的套印错位，花粉颗粒纹理，标注清晰。",
+    "tweet": "儿童科普海报·授粉机器人 ✨ Kids Science Poster: Pollinator Robot\n科普 · 海报 · 孔版印刷 · 儿童\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：珊瑚机器人改为授粉机器蜂，珊瑚纹理改为花粉颗粒纹理，双色印刷改为粉与青。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-kawaii-villain-mecha-sheet",
+    "title": "萌系反派机甲设定图 Kawaii Villain Mecha Design Sheet",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-kawaii-villain-mecha-sheet.png?v=834cb1cf",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "机甲",
+      "角色设计",
+      "水彩",
+      "萌系"
+    ],
+    "source": "VibeShot 知识库《机甲穿戴视频制作流程》第一步：生成机甲概念图 by @0xInk_ (via X)",
+    "prompt": "原创反派小机甲的完整角色设计：一台圆滚滚的猫耳造型反派机甲，驾驶舱像一颗糖果泡泡，机身深紫配柠檬黄警示条纹，手臂是夸张的钳爪，背后一根可爱的机械尾巴，表情屏幕上是得意的坏笑。萌系插画，淡紫色纯底，平涂色块，简洁线条，绚丽光效，图像小说风格，2D绘画，墨线加水彩，附正面、侧面、背面三视图与几处小零件特写，极简。",
+    "tweet": "萌系反派机甲设定图 ✨ Kawaii Villain Mecha Design Sheet\n机甲 · 角色设计 · 水彩 · 萌系\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：补充为原创的\"猫耳反派小机甲\"，白底改为淡紫底，快乐情绪改为得意坏笑，并加入正侧背三视图。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-jade-clockwork-heart",
+    "title": "玉石发条之心 Jade Clockwork Heart",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-jade-clockwork-heart.png?v=5abc1d41",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "超现实",
+      "解剖",
+      "玉石",
+      "微距"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 6: 陶瓷解剖学 (Porcelain Anatomy)",
+    "prompt": "一颗写实心脏的剖面，内部不是血肉，而是精密的翡翠雕刻齿轮与金丝发条机构，外部是有机组织纹理，逐渐过渡到内部的玉石。深紫色天鹅绒背景，超现实解剖学，微距摄影，杰作。",
+    "tweet": "玉石发条之心 ✨ Jade Clockwork Heart\n超现实 · 解剖 · 玉石 · 微距\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：青花瓷齿轮改为翡翠与金丝的齿轮发条，并置于深紫色天鹅绒背景上。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 1:1。"
+  },
+  {
+    "id": "2026-09-27-invisible-cat-in-snow",
+    "title": "雪中隐形猫 Invisible Cat in the Snow",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-invisible-cat-in-snow.png?v=b2282350",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "超现实",
+      "隐形",
+      "高速摄影",
+      "创意"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 2: 隐形人的雨 (The Invisible Entity)",
+    "prompt": "大雪纷飞的公园长椅旁，看不到任何动物，但飘落的雪花在一只隐形猫的轮廓上堆积、弹开。它的形状完全由附着的雪粒与雪地上一串新鲜的爪印定义，尾巴的曲线清晰可辨。高速摄影，冻结瞬间，神秘可爱。",
+    "tweet": "雪中隐形猫 ✨ Invisible Cat in the Snow\n超现实 · 隐形 · 高速摄影 · 创意\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：暴雨改为大雪，隐形人改为隐形猫，空街改为公园长椅旁。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 4:3。\n- 成图瑕疵：猫的轮廓是实心雪团，不是“隐形猫”的空心效果。"
+  },
+  {
+    "id": "2026-09-27-ink-sword-rain-swordswoman",
+    "title": "墨雨剑阵 Ink-Rain Sword Formation",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-ink-sword-rain-swordswoman.png?v=9d380e71",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "仙侠",
+      "剑气",
+      "电影感",
+      "肖像"
+    ],
+    "source": "VibeShot 知识库《2026年1月》道教人物 by 迪丽热奔",
+    "prompt": "一张中国超现实电影中剑斗场景的人像摄影：一位约26岁的成年女剑修，白皙肌肤在剑光映照下泛着温润光泽，五官清冷如古画中人。脸部特写，她右手双指捏诀直指镜头，千万道细密的金色剑光从指尖迸发，如骤雨般划破空气，剑气残影形成强烈的动态线条。身穿深紫色金线道袍，发髻以木簪固定，几缕碎发被气流吹起。背景虚化为暮色中的赭红山谷战场，风沙与落叶飞舞。浅景深，强透视，电影级光影，9:16。",
+    "tweet": "墨雨剑阵 ✨ Ink-Rain Sword Formation\n仙侠 · 剑气 · 电影感 · 肖像\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：昆仑山冷蓝剑光改为金色剑光与暮色赭红山谷，剑指改为双指捏诀，服装加入深紫与金线道袍。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 9:16。"
+  },
+  {
+    "id": "2026-09-27-incense-burner-giallo-ad",
+    "title": "香炉广告·意式铅黄 Incense Burner Ad in Giallo Lighting",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-incense-burner-giallo-ad.png?v=f72e242f",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "产品",
+      "铅黄",
+      "光效",
+      "超现实"
+    ],
+    "source": "VibeShot 知识库《rare-style-explorer/style_library》E004 香水瓶",
+    "prompt": "奢华镂空黄铜香炉广告，意大利铅黄恐怖片的红青绿三色灯光，炉身嵌黑曜石，袅袅青烟在彩色光中勾出曲线，超现实产品主视觉，香炉轮廓清晰锐利。",
+    "tweet": "香炉广告·意式铅黄 ✨ Incense Burner Ad in Giallo Lighting\n产品 · 铅黄 · 光效 · 超现实\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：香水瓶改为黄铜镂空香炉，乳白虹彩玻璃改为黑曜石与金属，加入升腾的烟雾轨迹。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
     "id": "2026-09-27-heijin-wafu",
     "title": "黑金和风·雨夜京都 Black & Gold in Rainy Kyoto",
     "date": "2026-09-27",
@@ -401,6 +2377,82 @@
     "tweet": "雨夜京都，灯笼微光，黑缎金绣的和风短洋装配一把油纸伞 ☂️\n现代剪裁遇上传统纹样。\n\nA rainy night in Kyoto: black satin, gold embroidery, and an oil-paper umbrella under the lantern glow.\n#AIart #京都",
     "notes": "- 防撞图改动：原文只有服装描述，加入原创模特、雨夜京都场景与油纸伞，使画面独一无二。\n- 缺陷：脚部与鞋子被画面底部裁掉；输出为横图。",
     "story": "无"
+  },
+  {
+    "id": "2026-09-27-harbor-railing-utility",
+    "title": "港口栏杆工装风 Utility Look at the Harbor",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-harbor-railing-utility.png?v=2a57edda",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "工装",
+      "混搭",
+      "港口",
+      "日系"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》6.2 蕾丝工装",
+    "prompt": "一位约25岁的成年日本女子穿着蕾丝领白衬衫配工装长裤，外搭短款牛仔外套，单侧麻花辫，水润唇，随意倚在港口铁栏边，身后是彩色集装箱，傍晚暖光，35mm。",
+    "tweet": "港口栏杆工装风 ✨ Utility Look at the Harbor\n工装 · 混搭 · 港口 · 日系\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：蕾丝吊带改为蕾丝领白衬衫，双麻花辫改为单侧麻花辫，栏杆改为港口铁栏与集装箱背景。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-hanok-courtyard-winter",
+    "title": "韩屋雪院 Hanok Courtyard in Snow",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-hanok-courtyard-winter.png?v=aa4ddf94",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "韩服",
+      "韩屋",
+      "雪景",
+      "传统"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》1.6 韩屋村",
+    "prompt": "一位约26岁的成年韩国女子在北村韩屋的庭院里，身穿酒红上衣配墨绿长裙的现代改良韩服，外披白色毛绒披肩，低发髻插着银簪，柔和玫瑰妆容，肌肤透亮，神情平静地坐在檐廊下看雪，雪天柔和冷光，全身，35mm。",
+    "tweet": "韩屋雪院 ✨ Hanok Courtyard in Snow\n韩服 · 韩屋 · 雪景 · 传统\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：午后暖光改为雪天冷光，粉彩韩服改为酒红与墨绿配色的改良韩服，编发盘发改为低发髻配发簪，站姿改为坐在檐廊下。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-hands-tying-bowline-knot",
+    "title": "打单套结的手 Hands Tying a Bowline Knot",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-hands-tying-bowline-knot.png?v=c53ba0c6",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "微距",
+      "手部",
+      "绳结",
+      "写实"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 41: 打绳结",
+    "prompt": "微距特写：一双手用深紫色登山绳打一个单套结，手指真实地握持与穿绳，背景是虚化的岩壁与登山装备。",
+    "tweet": "打单套结的手 ✨ Hands Tying a Bowline Knot\n微距 · 手部 · 绳结 · 写实\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：八字结改为单套结，粗麻绳改为深紫色登山绳，背景改为岩壁。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 4:3。\n- 成图瑕疵：绳结不是标准的称人结，打法不准确。"
+  },
+  {
+    "id": "2026-09-27-hands-on-harp-strings",
+    "title": "拨动竖琴的手 Hands Plucking a Harp",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-hands-on-harp-strings.png?v=aded555f",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "手部",
+      "乐器",
+      "竖琴",
+      "细节"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 45: 弹钢琴",
+    "prompt": "竖琴演奏者的双手正在拨奏复杂的和弦，手指在琴弦上的位置准确，红色的C弦与黑色的F弦清晰可辨，金色琴柱上映出手的倒影，温暖的舞台光。",
+    "tweet": "拨动竖琴的手 ✨ Hands Plucking a Harp\n手部 · 乐器 · 竖琴 · 细节\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：钢琴改为竖琴，和弦改为拨弦，漆面倒影改为金色琴柱反光。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
   },
   {
     "id": "2026-09-27-hand-jade-tea-caddy",
@@ -422,6 +2474,367 @@
     "notes": "- 防撞图改动：填充产品为一只原创青瓷小茶叶罐，背景从浅灰渐变改为暖色宣纸与竹影，美甲改为淡豆沙色短甲。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
   },
   {
+    "id": "2026-09-27-grad-student-campus-steps",
+    "title": "研究生校园台阶 Grad Student on Campus Steps",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-grad-student-campus-steps.png?v=4031e27d",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "校园",
+      "学院风",
+      "知性",
+      "人像"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》2.1 校园长椅",
+    "prompt": "一位约26岁的成年韩国研究生坐在大学图书馆前的石阶上，身穿针织背心与白衬衫、直筒西裤与乐福鞋，膝上放着笔记本电脑，柔顺直发，极简自然妆，树影斑驳的阳光，50mm。",
+    "tweet": "研究生校园台阶 ✨ Grad Student on Campus Steps\n校园 · 学院风 · 知性 · 人像\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：人物明确为约26岁研究生，长椅改为图书馆石阶，百褶裙领结改为针织背心配直筒长裤，加入手中的笔记本电脑。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-gothic-greenhouse-reading",
+    "title": "哥特花房读诗 Gothic Greenhouse Reading",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-gothic-greenhouse-reading.png?v=49c6bdbd",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "哥特",
+      "浪漫",
+      "烛光",
+      "日系"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》9.1 哥特浪漫",
+    "prompt": "一位约27岁的成年日本女子身穿哥特浪漫风的高领黑色丝绒长裙，戴丝绒颈带，深梅色唇与柔和波浪发，坐在夜晚的维多利亚式玻璃花房里读一本诗集，身旁的烛台与一只黑猫，烛光氛围，神情宁静，85mm。",
+    "tweet": "哥特花房读诗 ✨ Gothic Greenhouse Reading\n哥特 · 浪漫 · 烛光 · 日系\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：复古咖啡馆改为夜晚的维多利亚花房，蕾丝裙改为高领丝绒长裙，加入手中的诗集与一只黑猫。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-glass-fox-clockwork-heart",
+    "title": "玻璃狐与发条心 Glass Fox with a Clockwork Heart",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-glass-fox-clockwork-heart.png?v=590d1e9d",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "超现实",
+      "玻璃",
+      "透视",
+      "奇幻"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 15: 薛定谔的玻璃猫 (透视与包裹)",
+    "prompt": "一只完全由透明吹制玻璃制成的狐狸走在覆雪的石墙上，玻璃身体内部，一枚发着暖光的精密黄铜发条机芯正在转动，充当它的心脏。阳光折射出彩色焦散，超现实主义。",
+    "tweet": "玻璃狐与发条心 ✨ Glass Fox with a Clockwork Heart\n超现实 · 玻璃 · 透视 · 奇幻\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：玻璃猫改为玻璃狐狸，仓鼠跑轮改为发光的黄铜发条机芯，围栏改为雪后的石墙。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 4:3。"
+  },
+  {
+    "id": "2026-09-27-garden-moon-gate-qipao",
+    "title": "园林月洞门 Garden Moon Gate Qipao",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-garden-moon-gate-qipao.png?v=70e3f204",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "旗袍",
+      "园林",
+      "长焦",
+      "中式"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》11.4 苏州园林",
+    "prompt": "一位约27岁的成年中国女子身穿藕荷色丝绸旗袍，衣身有水墨兰草刺绣，站在苏式古典园林的月洞门中，白墙黛瓦，竹影摇曳；双手轻握于身前，低发髻插玉簪；长焦压缩出层叠的门洞与花窗纵深，雨后柔和微光，石板地面有浅浅水光；精致的时尚大片感，中全身，135mm。",
+    "tweet": "园林月洞门 ✨ Garden Moon Gate Qipao\n旗袍 · 园林 · 长焦 · 中式\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：淡翡翠旗袍改为藕荷色旗袍，长廊改为月洞门与竹影，阴天改为雨后微光，镜头改为135mm。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 9:16。"
+  },
+  {
+    "id": "2026-09-27-garden-conservatory-tea",
+    "title": "玻璃花房下午茶 Conservatory Afternoon Tea",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-garden-conservatory-tea.png?v=4deb8a7c",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "下午茶",
+      "优雅",
+      "花房",
+      "人像"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》4.1 酒店下午茶",
+    "prompt": "一位约27岁的成年日本女子在玻璃花房里享用下午茶，身穿薄荷绿针织套装，戴珍珠耳环，柔和波浪发，豆沙色唇，姿态优雅，三层点心架与绿植环绕，柔和的金色漫射光，85mm。",
+    "tweet": "玻璃花房下午茶 ✨ Conservatory Afternoon Tea\n下午茶 · 优雅 · 花房 · 人像\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：酒店大堂改为玻璃花房，粗花呢连衣裙改为薄荷绿针织套装，红唇改为豆沙唇。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-frozen-teacup-explosion",
+    "title": "凝固的茶杯爆裂 Frozen Teacup Explosion",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-frozen-teacup-explosion.png?v=d6a06dda",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "高速摄影",
+      "爆裂",
+      "反射",
+      "焦散"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 7: 被冻结的爆炸 (The Frozen Explosion)",
+    "prompt": "时间静止的高速摄影：一只盛满红茶的白瓷茶杯在空中碎裂，成千上万的琥珀色茶滴与细小瓷片悬浮在空中，每一块碎片与液滴中都倒映着身后雨天茶室的窗户。焦散，折射，混乱而美丽，8K。",
+    "tweet": "凝固的茶杯爆裂 ✨ Frozen Teacup Explosion\n高速摄影 · 爆裂 · 反射 · 焦散\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：牛奶杯改为盛着红茶的白瓷茶杯，厨房窗户倒影改为雨天茶室的窗景。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。"
+  },
+  {
+    "id": "2026-09-27-frost-knight-path",
+    "title": "踏霜而行的骑士 Frost Knight Forging His Path",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-frost-knight-path.png?v=c6300a9e",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "骑士",
+      "史诗",
+      "电影海报",
+      "奇幻"
+    ],
+    "source": "VibeShot 知识库《2026年1月》骑士之士 by 🍌",
+    "prompt": "8K广角镜头，电影海报，照片级写实：一位身披冰霜的古代骑士手持凝结寒霜的长剑，踏出自己的命运之路，冰封荒原上的枯草在寒风中摇曳，古老经文在夜空中漂浮发光，背景是翻涌的绿紫极光。全身铠甲细节完整，刻有发光符文，披风在身后翻飞。电影级尺度，超现实梦幻云层，电影质感纹理，有趣的构图元素，哈苏中画幅85mm f/1.8质感。",
+    "tweet": "踏霜而行的骑士 ✨ Frost Knight Forging His Path\n骑士 · 史诗 · 电影海报 · 奇幻\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：火焰骑士改为冰霜骑士，绿草改为冰封荒原，雷暴改为极光，去掉原作的sref/个性化参数。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 9:16。"
+  },
+  {
+    "id": "2026-09-27-frog-band-album-cover",
+    "title": "青蛙乐队唱片封面 Frog Band Album Cover",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-frog-band-album-cover.png?v=8aa02681",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "唱片封面",
+      "城市流行",
+      "接触印样",
+      "街拍"
+    ],
+    "source": "VibeShot 知识库《rare-style-explorer/style_library》E014 猫咪唱片封面",
+    "prompt": "青蛙乐队专辑封面，1980年代城市流行黑胶封套，夏日海边的粉蓝配色，暗房接触印样小画格，1990年代原宿街拍式手写标注。",
+    "tweet": "青蛙乐队唱片封面 ✨ Frog Band Album Cover\n唱片封面 · 城市流行 · 接触印样 · 街拍\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：猫咪乐队改为青蛙乐队，城市流行改为夏日海边城市流行配色。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 1:1。"
+  },
+  {
+    "id": "2026-09-27-foggy-carousel-horror",
+    "title": "浓雾中的旋转木马 Carousel in Thick Fog",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-foggy-carousel-horror.png?v=32a1ede3",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "恐怖",
+      "体积雾",
+      "胶片",
+      "氛围"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 9: 寂静岭 (体积雾)",
+    "prompt": "氛围恐怖：一座废弃游乐园里被浓厚体积雾包围的旋转木马，一匹褪色的木马在无风中微微晃动，雾中远处飘着一只红气球，病态的黄绿低饱和色调，16mm胶片粗颗粒。",
+    "tweet": "浓雾中的旋转木马 ✨ Carousel in Thick Fog\n恐怖 · 体积雾 · 胶片 · 氛围\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：去掉游戏名，游乐场秋千改为废弃旋转木马，冷蓝改为病态的黄绿色调，远处人影改为一个红气球。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。"
+  },
+  {
+    "id": "2026-09-27-flower-shop-backroom",
+    "title": "花店后台 Flower Shop Backroom",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-flower-shop-backroom.png?v=4478a2d6",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "花店",
+      "生活感",
+      "逆光",
+      "韩系"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》14.2 温室花房",
+    "prompt": "一位约26岁的成年韩国女子在花店后台的木桌前包扎一束花，身穿围裙、棉质衬衫与长裙，低发髻，肌肤水润，桌上散落剪刀、牛皮纸与花材，窗边逆光透过花瓣，50mm。",
+    "tweet": "花店后台 ✨ Flower Shop Backroom\n花店 · 生活感 · 逆光 · 韩系\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：温室苗圃改为花店后台工作间，盆栽香草改为正在包扎的花束，逆光叶片改为窗边逆光与花材。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-flower-market-street",
+    "title": "花市街头 Flower Market Street",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-flower-market-street.png?v=05413938",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "街拍",
+      "花市",
+      "都市",
+      "韩系"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》4.2 精品店街区",
+    "prompt": "一位约26岁的成年韩国女子抱着一大束花走过清晨的花市街道，身穿白衬衫与卡其色长半裙，墨镜推在头顶，光洁马尾，裸色妆容，两侧摆满花桶，路面水渍反光，50mm。",
+    "tweet": "花市街头 ✨ Flower Market Street\n街拍 · 花市 · 都市 · 韩系\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：精品店街改为花市街，单色鞘裙改为白衬衫配卡其半身长裙，走出店门改为抱着一束花走过。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-flood-rescuer-portrait",
+    "title": "洪水救援者纪实 Flood Rescuer Portrait",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-flood-rescuer-portrait.png?v=b6109146",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "纪实",
+      "摄影",
+      "人物",
+      "情绪"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 12: 战地记者 (纪实感)",
+    "prompt": "获奖级新闻摄影：一名疲惫的洪水救援队员的面部特写，脸上沾满泥水与雨水，穿着橙色救生衣，正在喝水，眼神坚毅，背景是雨中被淹没的虚化街道与救生艇，原始、充满情感，焦点锐利地落在眼睛上。",
+    "tweet": "洪水救援者纪实 ✨ Flood Rescuer Portrait\n纪实 · 摄影 · 人物 · 情绪\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：消防员改为洪水救援队员，烟灰改为泥水，燃烧建筑改为雨中被淹的街道。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-floating-island-archipelago-map",
+    "title": "浮空群岛战术地图 Floating Archipelago Tactical Map",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-floating-island-archipelago-map.png?v=0801377d",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "地图",
+      "数据可视化",
+      "复古边框",
+      "科幻"
+    ],
+    "source": "VibeShot 知识库《rare-style-explorer/style_library》E005 城市地图",
+    "prompt": "浮空群岛地图，赛博战术数据可视化，声呐扫描般的绿色网格与波纹质感，古董探险地图边框（罗盘玫瑰、海怪插画），航线与节点清晰。",
+    "tweet": "浮空群岛战术地图 ✨ Floating Archipelago Tactical Map\n地图 · 数据可视化 · 复古边框 · 科幻\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：未来城市改为浮空群岛，航拍胶片质感改为声呐扫描质感，古董探险边框保留。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 4:3。"
+  },
+  {
+    "id": "2026-09-27-firework-festival-yukata",
+    "title": "花火大会浴衣 Fireworks Festival Yukata",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-firework-festival-yukata.png?v=dc33cdd9",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "浴衣",
+      "祭典",
+      "花火",
+      "日系"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》1.5 夏日祭典",
+    "prompt": "一位约25岁的成年日本女子在夏日花火大会上，手里拿着一串苹果糖，身穿藏青底白色朝颜花纹浴衣配芥末黄腰带，低盘发插着发簪，精致红唇与柔和眼线，夜空中绽放的烟花照亮她的侧脸，四分之三身，柔和焦外光斑。",
+    "tweet": "花火大会浴衣 ✨ Fireworks Festival Yukata\n浴衣 · 祭典 · 花火 · 日系\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：纸扇改为苹果糖，粉彩浴衣改为藏青底白朝颜花浴衣，灯笼光改为夜空烟花光。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-ferry-under-cumulonimbus",
+    "title": "积雨云下的渡轮 Ferry Under Towering Clouds",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-ferry-under-cumulonimbus.png?v=f6bc83c4",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "动画背景",
+      "云",
+      "夏日",
+      "通透"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 22: 新海诚的天空 (云层细节)",
+    "prompt": "日本动画电影背景风格：一艘渡轮驶过海湾，头顶是巨大高耸的积雨云，耀眼的镜头光晕，超精细的海边小镇风景，码头栏杆上坐着一只猫，鲜艳通透的蓝色调。",
+    "tweet": "积雨云下的渡轮 ✨ Ferry Under Towering Clouds\n动画背景 · 云 · 夏日 · 通透\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：去掉导演名，火车过桥改为渡轮驶过海湾，城市改为海边小镇，加入码头上的一只猫。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。"
+  },
+  {
+    "id": "2026-09-27-fencing-hall-focus",
+    "title": "击剑馆的专注 Focus in the Fencing Hall",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-fencing-hall-focus.png?v=4ef71c95",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "运动",
+      "击剑",
+      "专注",
+      "日系"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》8.3 拳击训练",
+    "prompt": "一位约26岁的成年日本女子在击剑馆训练间隙，身穿白色击剑服，面罩夹在腋下，手持花剑，高马尾，眼神专注，额头微汗，高窗侧光在木地板上投下长条光影，35mm。",
+    "tweet": "击剑馆的专注 ✨ Focus in the Fencing Hall\n运动 · 击剑 · 专注 · 日系\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：拳击改为击剑，运动内衣紧身裤改为白色击剑服，粗粝光改为高窗侧光。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-felt-moon-cat-toy",
+    "title": "羊毛毡月亮猫盲盒 Felt Moon-Cat Blind-Box Toy",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-felt-moon-cat-toy.png?v=0fb1ea76",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "潮玩",
+      "羊毛毡",
+      "3D",
+      "可爱"
+    ],
+    "source": "VibeShot 知识库《2026年1月》毛绒玩具 by 迪丽热狗",
+    "prompt": "C4D 3D杰作，羊毛毡质感的原创角色设计：一只深紫色的\"月亮猫\"，额头有一枚金色新月印记，怀里抱着一颗柔软的星星抱枕。潮玩盲盒风格，3D动画电影式造型。构图：正面坐姿中近景，大眼睛看向镜头，表情呆萌可爱。灯光与材质：体积光，柔和棚拍光，高品质3D渲染，超精细羊毛毡绒毛，真实景深将主体与背景分离。背景：纯色哑光奶油黄，高对比。",
+    "tweet": "羊毛毡月亮猫盲盒 ✨ Felt Moon-Cat Blind-Box Toy\n潮玩 · 羊毛毡 · 3D · 可爱\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：唐老鸭换成原创深紫色月亮猫角色，纯红背景改为奶油黄背景，构图改为正面坐姿抱着星星。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 1:1。"
+  },
+  {
+    "id": "2026-09-27-farmland-spells-dream",
+    "title": "稻田拼出DREAM Rice Terraces Spelling DREAM",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-farmland-spells-dream.png?v=ec3866b2",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "航拍",
+      "字体",
+      "大地艺术",
+      "黄金时刻"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 36: 字体建筑 (形意结合)",
+    "prompt": "无人机航拍：梯田、田埂与乡村小路排列拼出单词\"DREAM\"，写实的田野细节与农舍，清晨薄雾与柔和晨光。",
+    "tweet": "稻田拼出DREAM ✨ Rice Terraces Spelling DREAM\n航拍 · 字体 · 大地艺术 · 黄金时刻\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：城市摩天楼改为梯田与乡村道路，单词改为\"DREAM\"，黄金时刻改为清晨薄雾。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。"
+  },
+  {
+    "id": "2026-09-27-ethereal-watercolor-moon-knight",
+    "title": "幽玄水彩月之骑士 Ethereal Watercolor Moon Knight",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-ethereal-watercolor-moon-knight.png?v=69b03cc5",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "水彩",
+      "墨线",
+      "奇幻",
+      "幽玄"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 23: 黑暗水彩 (天野喜孝风)",
+    "prompt": "纤细空灵的水彩与墨线插画风格：一位手持细长佩剑的月之骑士，斗篷漩涡般翻卷，繁复的装饰纹样，一只白猫伏在他肩头，淡紫与银灰的褪色粉彩配色，幽玄梦幻。",
+    "tweet": "幽玄水彩月之骑士 ✨ Ethereal Watercolor Moon Knight\n水彩 · 墨线 · 奇幻 · 幽玄\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：去掉画家名，吸血鬼猎人改为月之骑士，淡彩改为淡紫与银灰，加入一只白猫。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
     "id": "2026-09-27-engraved-moon-reaper-card",
     "title": "铜版画月之收割者 Engraved Moon Reaper Card",
     "date": "2026-09-27",
@@ -441,6 +2854,82 @@
     "notes": "- 防撞图改动：人物改为约26岁成年女子，镰刀改为新月形长柄镰，枯萎玫瑰与铁门改为夜蛾、月相与藤蔓，并用深紫夜色做点缀色。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
   },
   {
+    "id": "2026-09-27-dynasty-timeline-scroll-chart",
+    "title": "古铜版中华历代年表 Copperplate Chinese Dynasty Timeline",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-dynasty-timeline-scroll-chart.png?v=7e5a912b",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "信息图",
+      "历史",
+      "铜版画",
+      "复古"
+    ],
+    "source": "VibeShot 知识库《一些好玩儿的提示词》2.中国历代年表",
+    "prompt": "18世纪复古信息图表，18世纪经典时间线图表风格，手工上色的铜版蚀刻，深靛蓝底色配泛白的纸边，博物馆档案级质感，带有岁月斑痕。横向时间轴可视化，顶部以经典字体书写标题\"中华历代年表 CHINESE HISTORY\"。图中水平色带从左到右依次代表从秦到清的主要朝代：秦汉为矿物朱砂红，唐为一条醒目的长长的泥金色带，宋为较细的石青色带，元、明、清以石绿与赭石色向右延伸。色带长度对应朝代持续时间，色带上以清晰的繁体书法标注\"秦\"\"汉\"\"唐\"\"宋\"\"元\"\"明\"\"清\"，细白网格线标记世纪。左下角是优雅的涡卷书法题献\"致所有读史的人\"，右下角盖着一枚小小的猫形朱文印章。",
+    "tweet": "古铜版中华历代年表 ✨ Copperplate Chinese Dynasty Timeline\n信息图 · 历史 · 铜版画 · 复古\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：泛黄羊皮纸改为深靛蓝底的藏书票风格，各朝色带改为金、朱、青、赭的矿物色，题献改为\"致所有读史的人\"，并在角落加入一只小猫印章。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。"
+  },
+  {
+    "id": "2026-09-27-dunhuang-triptych-teacup",
+    "title": "敦煌三联画·茶盏 Dunhuang Triptych with a Teacup",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-dunhuang-triptych-teacup.png?v=99329537",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "三联画",
+      "时尚",
+      "敦煌",
+      "棚拍"
+    ],
+    "source": "VibeShot 知识库《2026年2月》三屏人物特写 by 迪丽热浪",
+    "prompt": "主体：一张高级时尚写实三联画（三格竖幅并排），三格中是同一位原创角色：约26岁成年女性，敦煌风气质，瓷肌，右眼下一颗红色泪痣。【左格·瞄准】极致前缩微距：双手叠在镜头前，下方手掌平托，上方手比出\"手枪\"直指镜头中心，一只眼睛透过指缝锐利注视，聚焦手部肌肤纹理。【中格·平衡】全身时尚剪影：她站姿自然，一只手臂屈肘举过头顶，将一只青瓷茶盏贴在太阳穴旁，另一手平伸托住，自信微笑。【右格·王座】低机位：她端坐在石座上，双手扶膝，下巴微抬，以高傲的女王目光俯视观者。三格光线统一（现代棚拍光），深紫抽象虚空背景，高对比，锐利对焦，8K。避免：人物不一致、面板杂乱、边框、文字、水印、多余手指、手部畸形。",
+    "tweet": "敦煌三联画·茶盏 ✨ Dunhuang Triptych with a Teacup\n三联画 · 时尚 · 敦煌 · 棚拍\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：去掉--cref参考与真人DNA，人物改为约26岁原创角色；饮料罐改为青瓷茶盏；第三格的腿部巨透视改为坐姿俯视的王者目光，背景改为深紫抽象虚空。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。\n- 成图瑕疵：三联画中间一格的茶杯换成了两只，和提示词略有出入。"
+  },
+  {
+    "id": "2026-09-27-donut-planet-from-orbit",
+    "title": "甜甜圈星球 Donut-Shaped Planet from Orbit",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-donut-planet-from-orbit.png?v=879306e3",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "脑洞",
+      "星球",
+      "科幻",
+      "写实"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 34: 香蕉地球 (脑洞)",
+    "prompt": "太空卫星视角：一颗形状像巨大甜甜圈（环面）的类地星球，蓝色海洋与云层环绕着环面，一颗月亮正从中央的孔洞中穿过，背景是深紫色星云，写实科幻。",
+    "tweet": "甜甜圈星球 ✨ Donut-Shaped Planet from Orbit\n脑洞 · 星球 · 科幻 · 写实\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：香蕉形地球改为甜甜圈形（环面）星球，加入穿过中心孔的月亮与深紫星云背景。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。"
+  },
+  {
+    "id": "2026-09-27-design-studio-smirk",
+    "title": "设计工作室的微笑 Design Studio Smirk",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-design-studio-smirk.png?v=78383933",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "职场",
+      "抓拍",
+      "工作室",
+      "人像"
+    ],
+    "source": "VibeShot 知识库《前女友系列》前女友系列 #11",
+    "prompt": "一张快速抓拍：一位约28岁的成年女子在设计工作室里，黑色半扎发，大眼睛，自然睫毛，带着一丝俏皮的微笑，身穿宽松条纹衬衫外搭针织背心，倚靠在堆满色卡、布料样板和模型的工作台边。午后自然光从大窗洒入，周围环境柔焦，氛围轻松专业。",
+    "tweet": "设计工作室的微笑 ✨ Design Studio Smirk\n职场 · 抓拍 · 工作室 · 人像\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：办公室荧光灯改为设计工作室的午后自然光，贴身衬衫改为宽松条纹衬衫与针织背心，加入桌上的样板与色卡。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
     "id": "2026-09-27-deep-sea-diver-hud",
     "title": "深海机甲潜水盔HUD Deep-Sea Mech Diver HUD",
     "date": "2026-09-27",
@@ -457,7 +2946,26 @@
     "source": "VibeShot 知识库《2025》马克13号 by 迪丽热奔",
     "prompt": "原创深海机甲潜水员头盔的第一人称面罩HUD视角：冰蓝色单色荧光显示与警示橙点缀，厚重的机械面罩框架，中央瞄准十字与锁定框，声呐波纹向外扩散标记远处发光的深海巨兽轮廓，深度计、氧气与压力读数，外骨骼关节状态监测，威胁评估条，静电干扰扫描线与CRT闪烁，放射状层级战术数据。面罩玻璃上有划痕与细小水珠，外面是漆黑的深海、漂浮的海雪与微弱的生物荧光。超清细节，电影级冷光，轻微视差，写实电影渲染，2:1宽幅沉浸感。",
     "tweet": "深海机甲潜水盔HUD ✨ Deep-Sea Mech Diver HUD\nHUD · 第一人称 · 科幻 · 界面\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
-    "notes": "- 防撞图改动：去掉战锤40K版权元素，改为原创深海机甲潜水盔视角，绿色磷光改为冰蓝+警示橙，敌人目标改为发光的深海巨兽。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。"
+    "notes": "- 防撞图改动：去掉战锤40K版权元素，改为原创深海机甲潜水盔视角，绿色磷光改为冰蓝+警示橙，敌人目标改为发光的深海巨兽。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。\n- 成图瑕疵：HUD 上的文字由模型自动生成，个别编号是随机的。"
+  },
+  {
+    "id": "2026-09-27-cyber-opera-performer-impasto",
+    "title": "赛博戏曲花旦厚涂 Cyber Opera Performer Impasto",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-cyber-opera-performer-impasto.png?v=fb02214f",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "厚涂",
+      "赛博",
+      "戏曲",
+      "原画"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 21: 赛博艺伎 (厚涂原画)",
+    "prompt": "动漫厚涂原画：一位成年赛博戏曲花旦的肖像，瓷白的面妆裂开露出内部的机械结构，头戴点翠头面，戏服水袖与机甲装甲融合，史诗级卡牌原画般的动态光效，紫金配色。",
+    "tweet": "赛博戏曲花旦厚涂 ✨ Cyber Opera Performer Impasto\n厚涂 · 赛博 · 戏曲 · 原画\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：艺伎改为中国戏曲花旦，和服改为戏服与机甲结合，去掉游戏名改为史诗级原画光效。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
   },
   {
     "id": "2026-09-27-cyber-cultivator-mars",
@@ -479,6 +2987,44 @@
     "notes": "- 防撞图改动：月球城市改为火星峡谷中的古风城市，天机阁换成悬空的琉璃塔，加入深紫星空与一只机械猫随行。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
   },
   {
+    "id": "2026-09-27-crushed-bottle-thinker",
+    "title": "塑料瓶沉思者 Crushed-Bottle Thinker",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-crushed-bottle-thinker.png?v=8bfeabc7",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "装置艺术",
+      "错觉",
+      "极简",
+      "环保"
+    ],
+    "source": "VibeShot 知识库《2026年2月》塑料瓶口人 by 迪丽热奔",
+    "prompt": "单个完整的琥珀色PET塑料瓶，瓶身被强烈扭曲挤压成一位蜷坐沉思者的姿态：瓶底压扁形成\"盘坐的下肢\"，瓶身中段弯折前倾形成\"弓背托腮\"的错觉，瓶颈低垂如\"低头沉思的头部\"。所有姿态与情绪只来自塑料的深褶皱、光影对比与焦散，没有任何雕刻出的手脚。极简当代生态艺术装置，深紫到黑的渐变背景，强烈侧光突出褶皱体积，琥珀色透光，8K超清，空想性错视（pareidolia）效果，9:16。",
+    "tweet": "塑料瓶沉思者 ✨ Crushed-Bottle Thinker\n装置艺术 · 错觉 · 极简 · 环保\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：垂死的奴隶姿态改为原创的蜷坐沉思姿态，浅蓝PET瓶改为琥珀色瓶，纯白背景改为深紫渐变背景。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 9:16。"
+  },
+  {
+    "id": "2026-09-27-crow-shadow-ninja",
+    "title": "鸦影忍者 Crow-Shadow Ninja",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-crow-shadow-ninja.png?v=a6796063",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "忍者",
+      "3D",
+      "动态模糊",
+      "速度感"
+    ],
+    "source": "VibeShot 知识库《2026年3月》狐影忍者 by 古一",
+    "prompt": "视觉冲击，故事感，高级感，动态感，高对比，3D大师级作品，极致细节，超高清：一位妖异俊美的成年鸦天狗剑客，银灰色短发，背后半展黑色羽翼，身着夜行衣身体前倾冲刺，仿佛突破音障。持剑的左手被动态模糊完全覆盖，寒光长剑拉出长长的黑羽与深紫色残影，形成羽毛旋风，从远景延伸到近景特写，无数残影、径向模糊、速度线紧贴动作，斩开纷飞的黑羽，一剑划开屏幕，明显分界线。背景是巨大的银色满月。超广角强透视动态构图，张力十足，光影交织的梦幻感，明暗对比强烈，电影级构图，弥散粒子，宿命感拉满，层次丰富。",
+    "tweet": "鸦影忍者 ✨ Crow-Shadow Ninja\n忍者 · 3D · 动态模糊 · 速度感\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：白粉长发狐妖改为银灰短发鸦天狗，粉色花瓣残影改为黑羽与深紫残影，并加入满月背景。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 9:16。"
+  },
+  {
     "id": "2026-09-27-crimson-arm-android",
     "title": "多臂机甲少女战士 Multi-Arm Android Warrior",
     "date": "2026-09-27",
@@ -496,6 +3042,25 @@
     "prompt": "动感十足的动漫风成年女性仿生战士，全身像，空中攻击姿势，多条机械臂同时向前出拳，机械护手与装甲四肢，未来战斗外骨骼，深紫、霓虹青与白色配色，流线机甲设计。黑紫渐变短发，金色瞳孔，神情专注呐喊，锐利眼神。极限动作场面，高速运动，冲击线，爆裂力量，碎片飞溅，破碎的轨道空间站背景，漫画速度线，戏剧性透视与前缩，动态机位。超精细，高对比光，干净线稿，锐利边缘，现代动漫机甲插画，4K，电影构图。避免：低质量、模糊、写实脸、肢体错误、多余手指、平淡姿势、灰暗配色、文字水印、暴露内容。",
     "tweet": "多臂机甲少女战士 ✨ Multi-Arm Android Warrior\n动漫 · 机甲 · 动作 · 速度线\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
     "notes": "- 防撞图改动：人物明确为成年女性战士，配色由黑白红改为深紫+霓虹青+白，银发红眼改为黑紫渐变短发金色瞳孔，背景加入破碎的空间站。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-cream-tone-kitchen",
+    "title": "奶油色厨房 Cream-Tone Kitchen",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-cream-tone-kitchen.png?v=2a6345e9",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "奶油色",
+      "居家",
+      "极简",
+      "韩系"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》7.1 奶油色居家",
+    "prompt": "一位约26岁的成年韩国女子身穿奶油色系极简穿搭，白色针织开衫与米色长裤，在明亮的奶油色厨房里搅拌一碗面糊，柔顺直发，水光底妆与透明唇釉，窗台上坐着一只白猫，通透日光，50mm。",
+    "tweet": "奶油色厨房 ✨ Cream-Tone Kitchen\n奶油色 · 居家 · 极简 · 韩系\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：客厅改为奶油色厨房，米色毛衣改为白色针织开衫，加入手中搅拌的碗与窗台上的猫。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
   },
   {
     "id": "2026-09-27-couture-board",
@@ -518,6 +3083,63 @@
     "story": "无"
   },
   {
+    "id": "2026-09-27-cosmic-tea-shop-labels",
+    "title": "宇宙茶铺标签系统 Cosmic Tea Shop Label System",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-cosmic-tea-shop-labels.png?v=53eb7cf8",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "包装",
+      "雕版",
+      "手抄本",
+      "神秘"
+    ],
+    "source": "VibeShot 知识库《rare-style-explorer/style_library》E022 宇宙药房",
+    "prompt": "宇宙茶铺标签系统，雕版印刷风标签，中式缠枝花卉装饰边框，演示场景着色器般的发光背景，神秘的商业设计。",
+    "tweet": "宇宙茶铺标签系统 ✨ Cosmic Tea Shop Label System\n包装 · 雕版 · 手抄本 · 神秘\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：药房改为茶铺，岛屿风手抄本边框改为中式缠枝纹边框。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 4:3。"
+  },
+  {
+    "id": "2026-09-27-coral-reef-dive-app",
+    "title": "珊瑚潜水导航App Coral Reef Dive Navigation App",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-coral-reef-dive-app.png?v=ff517bcb",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "UI",
+      "概念",
+      "水感",
+      "机器视觉"
+    ],
+    "source": "VibeShot 知识库《rare-style-explorer/style_library》E017 森林导航App",
+    "prompt": "珊瑚礁潜水导航App概念界面，Frutiger Aero水感UI风格，水下珊瑚礁背景，机器视觉分割叠加标注鱼群与珊瑚，清新的蓝绿配色。",
+    "tweet": "珊瑚潜水导航App ✨ Coral Reef Dive Navigation App\nUI · 概念 · 水感 · 机器视觉\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：森林导航改为珊瑚礁潜水导航，温室背景改为水下珊瑚礁背景。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 9:16。"
+  },
+  {
+    "id": "2026-09-27-coral-leviathan-deity",
+    "title": "珊瑚巨神 Coral Leviathan Deity",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-coral-leviathan-deity.png?v=d4d68c6e",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "超现实",
+      "神祇",
+      "生物机械",
+      "电影感"
+    ],
+    "source": "VibeShot 知识库《2026年3月》电影杰作 by VOXCAT",
+    "prompt": "杰作，最佳画质，超细节，8K壁纸，电影级光效，超现实：一尊巨大而崩解的生物机械海神漂浮在沉没的海底城市上空，精密的机械缆线与珊瑚交织，裸露的发光神经纤维，半透明的皮肤，眼中滴落发光的珍珠泪，头顶光环由漂浮的贝壳与芯片组成。幽暗深海氛围，气泡如雨上升，海底废墟积水般的反光，体积光束穿透海水，深紫与生物荧光青的强烈点缀，景深，锐利对焦，超写实。下方是提灯祈祷的潜水朝圣者，远处一个玻璃球中困着一团星云，高对比，戏剧性阴影。",
+    "tweet": "珊瑚巨神 ✨ Coral Leviathan Deity\n超现实 · 神祇 · 生物机械 · 电影感\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：去掉艺术家名字，霓虹贫民窟改为沉没的海底城市，青琥珀霓虹改为深紫与生物荧光青，金色液体改为发光珍珠泪。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。"
+  },
+  {
     "id": "2026-09-27-convex-mirror-selfie",
     "title": "凸面镜里的雪夜自拍 Snowy Convex-Mirror Selfie",
     "date": "2026-09-27",
@@ -537,6 +3159,595 @@
     "notes": "- 防撞图改动：夜晚十字路口改为雪夜的老城区石板街角，兔耳发箍换成毛线猫耳帽，名牌手链改为无品牌的银色小月亮手链。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
   },
   {
+    "id": "2026-09-27-cloisonne-phoenix",
+    "title": "景泰蓝凤凰 Cloisonné Phoenix",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-cloisonne-phoenix.png?v=ed4a8b9f",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "景泰蓝",
+      "国风",
+      "装饰艺术",
+      "插画"
+    ],
+    "source": "VibeShot 知识库《2026年2月》中国掐丝珐琅 by 古一",
+    "prompt": "一幅恢弘的景象，以中国掐丝珐琅（景泰蓝）与新艺术风格插画呈现。一只巨大的凤凰展翅占据画面，羽翼由粗而优雅的金色掐丝线勾勒，羽片填充宝石般的珐琅色——绯红、孔雀蓝、翠绿与明黄。凤凰从翻涌的云海中腾起，云纹参照传统如意云与海水江崖纹样，每一朵云头都以凸起金丝勾边、内填光滑白色珐琅。凤凰环绕着一株高大的梧桐与盛放的牡丹，花叶呈半透明宝石般的珐琅光泽。远处是深紫色星空中一轮巨大的鎏金日轮。整幅作品呈现为奢华精雕的皇家掐丝珐琅艺术品，抛光金属线条、宝石珐琅光泽与华丽对称装饰。",
+    "tweet": "景泰蓝凤凰 ✨ Cloisonné Phoenix\n景泰蓝 · 国风 · 装饰艺术 · 插画\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：巨龙改为凤凰，海浪改为云海，梅花山崖改为牡丹与梧桐，满月改为深紫星空中的金色日轮。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-clockwork-hummingbird-macro",
+    "title": "发条蜂鸟微距 Clockwork Hummingbird Macro",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-clockwork-hummingbird-macro.png?v=67248632",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "蒸汽朋克",
+      "微距",
+      "机械",
+      "花卉"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 29: 机械蜜蜂 (蒸汽朋克微距)",
+    "prompt": "微距摄影：一只蒸汽朋克机械蜂鸟悬停在紫色铁线莲花前，黄铜齿轮身躯，玻璃羽翼，雨后的水珠放大了花瓣纹理，柔和焦外光斑。",
+    "tweet": "发条蜂鸟微距 ✨ Clockwork Hummingbird Macro\n蒸汽朋克 · 微距 · 机械 · 花卉\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：机械蜜蜂改为机械蜂鸟，粉玫瑰改为紫色铁线莲，晨露改为雨后水珠。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 4:3。"
+  },
+  {
+    "id": "2026-09-27-climbing-gym-determination",
+    "title": "攀岩馆里的专注 Focus at the Climbing Gym",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-climbing-gym-determination.png?v=6d88cffa",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "运动",
+      "攀岩",
+      "抓拍",
+      "力量感"
+    ],
+    "source": "VibeShot 知识库《前女友系列》前女友系列 #9",
+    "prompt": "一张即兴抓拍：一位约27岁的成年女子在室内攀岩馆训练，高马尾配齐刘海，额头有细细的汗珠，身穿短袖速干运动T恤与运动长裤，手上沾满镁粉，正专注地伸手够向上方的岩点。彩色岩点与暖色射灯在背景中柔和虚化，画面充满决心与力量感。",
+    "tweet": "攀岩馆里的专注 ✨ Focus at the Climbing Gym\n运动 · 攀岩 · 抓拍 · 力量感\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：健身房举铁改为室内攀岩，露脐运动背心改为短袖运动T恤与运动长裤，荧光灯改为彩色岩点与暖色射灯。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。\n- 成图瑕疵：运动T恤胸口出现了一个类似运动品牌的小标志，发布前可考虑修掉。"
+  },
+  {
+    "id": "2026-09-27-cliff-inscription-waterfall",
+    "title": "瀑布旁的摩崖石刻 Cliff Inscription by a Waterfall",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-cliff-inscription-waterfall.png?v=91c936f1",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "石刻",
+      "书法",
+      "自然",
+      "写实"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 6: 刻在碑上的历史 (石刻风化与阴刻)",
+    "prompt": "瀑布旁一面古老、风化并覆满青苔的摩崖石壁，石面上深深阴刻着四个大字\"守拙归园\"，笔画内部有阴影，展现雕刻深度，部分笔画描有褪色的朱漆。写实岩石纹理，水雾弥漫，清晨侧光穿过薄雾照亮石刻。",
+    "tweet": "瀑布旁的摩崖石刻 ✨ Cliff Inscription by a Waterfall\n石刻 · 书法 · 自然 · 写实\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：竹林石碑改为瀑布旁的摩崖石壁，文字改为\"守拙归园\"，阳光改为薄雾中的清晨侧光。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-cliff-guardian-dawn",
+    "title": "晨雾中的崖刻神将 Cliff-Carved Guardian at Dawn",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-cliff-guardian-dawn.png?v=a3a01c27",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "写实",
+      "巨像",
+      "废墟",
+      "电影感"
+    ],
+    "source": "VibeShot 知识库《2026年2月》黑神话佛像 by 古一",
+    "prompt": "照片级写实电影感：一尊巨大的崖刻持剑神将半身像高耸在荒废的中式祭坛之上，花岗岩表面龟裂，苔藓与藤蔓纵横，残破的仪门与石阶，旁边一道瀑布倾泻入竹林。晨曦金色薄雾横过断裂的中轴台阶，鸟瞰广角全景，层次纵深丰富，几位极小的行脚僧（占画面不到8%）作为尺度参照。超精细风化细节，大气纵深，体积雾。无文字、无logo、无水印，避免结构扭曲、塑料CG感、虚假HDR。",
+    "tweet": "晨雾中的崖刻神将 ✨ Cliff-Carved Guardian at Dawn\n写实 · 巨像 · 废墟 · 电影感\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：佛像改为原创崖刻持剑神将，月夜蓝雾改为晨曦金雾，积水倒影改为瀑布与竹林，保留小人比例参照。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。"
+  },
+  {
+    "id": "2026-09-27-claymation-lighthouse-penguin",
+    "title": "粘土灯塔企鹅 Claymation Lighthouse Penguin",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-claymation-lighthouse-penguin.png?v=9ddef17d",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "粘土",
+      "定格动画",
+      "移轴",
+      "可爱"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 26: 粘土定格 (材质模拟)",
+    "prompt": "定格粘土动画风格：一只粘土企鹅站在海边小岛的灯塔前，粘土表面可见指纹，橡皮泥质感，移轴景深，温暖的手工动画氛围。",
+    "tweet": "粘土灯塔企鹅 ✨ Claymation Lighthouse Penguin\n粘土 · 定格动画 · 移轴 · 可爱\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：去掉工作室名，绵羊改为企鹅，山坡改为海边灯塔小岛。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 4:3。"
+  },
+  {
+    "id": "2026-09-27-chrome-sphere-impossible-library",
+    "title": "铬球里的不可能图书馆 Chrome Sphere in an Impossible Library",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-chrome-sphere-impossible-library.png?v=97a11f6a",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "超现实",
+      "反射",
+      "非欧几何",
+      "第一人称"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 16: 埃舍尔的自拍 (球面反射)",
+    "prompt": "第一人称视角，手中托着一颗铬金属球，球面倒影显示拍摄者其实是一只戴着小礼帽的黑猫。背景是一座非欧几何的无限图书馆，楼梯倒悬、书架向各个方向延伸，穹顶是深紫色星空天窗，超写实。",
+    "tweet": "铬球里的不可能图书馆 ✨ Chrome Sphere in an Impossible Library\n超现实 · 反射 · 非欧几何 · 第一人称\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：去掉艺术家名，燕尾服骷髅改为戴礼帽的黑猫，背景加入深紫星空天窗。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 1:1。"
+  },
+  {
+    "id": "2026-09-27-chopsticks-holding-dumpling",
+    "title": "筷子夹水晶饺 Chopsticks Lifting a Crystal Dumpling",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-chopsticks-holding-dumpling.png?v=d6909f8e",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "微距",
+      "手部",
+      "美食",
+      "张力"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 42: 筷子夹玻璃球",
+    "prompt": "微距镜头：一双黑漆筷子夹起一只湿滑的半透明水晶虾饺，手部有张力，虾饺即将滑落，透过饺皮可见粉色虾仁，身后是蒸笼升腾的蒸汽。",
+    "tweet": "筷子夹水晶饺 ✨ Chopsticks Lifting a Crystal Dumpling\n微距 · 手部 · 美食 · 张力\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：玻璃弹珠改为半透明水晶虾饺，木筷改为黑漆筷，蒸汽背景保留。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 4:3。"
+  },
+  {
+    "id": "2026-09-27-ceramics-studio-artist",
+    "title": "陶艺工作室 Ceramics Studio Artist",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-ceramics-studio-artist.png?v=b05645fb",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "文艺",
+      "陶艺",
+      "窗光",
+      "日系"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》10.1 画室文艺",
+    "prompt": "一位约26岁的成年日本女子在陶艺工作室里拉坯，身穿亚麻背带裤与白色长袖T恤，发夹别起刘海，极简妆容，手上沾满陶泥，专注地看着转盘上的陶碗，窗光，50mm。",
+    "tweet": "陶艺工作室 ✨ Ceramics Studio Artist\n文艺 · 陶艺 · 窗光 · 日系\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：画室改为陶艺工作室，亚麻背带裤配吊带改为亚麻背带裤配长袖T恤，看画布改为拉坯。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-celestial-forge-weavers",
+    "title": "星界织坊 Celestial Loom of the Star Weavers",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-celestial-forge-weavers.png?v=6a18694c",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "宇宙",
+      "神话",
+      "史诗",
+      "科幻"
+    ],
+    "source": "VibeShot 知识库《2026年2月》星界熔炉 by 孔",
+    "prompt": "史诗级星界织坊传说：一群神话织工神祇在环绕星云摇篮的空灵织机前，把垂死恒星抽成的光丝织成神圣织物——光之长袍、虚空帷幕，宇宙尘埃化作飞梭的轨迹，火花孕育出新的星座。织物上有分形图案与超写实金属丝光泽，星云天文细节准确，融合古老纺织神话，神祇周身光晕，星际气体形成体积雾，金色与深紫的极致对比。叙事构图：前景是一位织工抬手牵引星丝，一只由星光织成的猫在织机上嬉戏；远景是巨大星系旋臂。宏大尺度，8K。",
+    "tweet": "星界织坊 ✨ Celestial Loom of the Star Weavers\n宇宙 · 神话 · 史诗 · 科幻\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：铁匠神族改为织星的神族，锻打恒星改为用星丝织布，火与冰对比改为金与深紫，加入一只星光织成的猫。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。"
+  },
+  {
+    "id": "2026-09-27-celadon-meiping-poem-wrap",
+    "title": "青瓷梅瓶上的诗 Poem Wrapped on a Celadon Vase",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-celadon-meiping-poem-wrap.png?v=10ca5123",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "瓷器",
+      "书法",
+      "微距",
+      "曲面文字"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 2: 青花瓷上的史诗 (曲面文字包裹)",
+    "prompt": "极致微距特写：一只宋代风格的青瓷梅瓶，釉面温润如玉，带细密开片。褐色釉下手写书法环绕瓶身曲面书写，文字为\"青山不语云自闲\"，文字完美贴合瓶身三维曲面与透视。柔和棚拍光，浅景深，深灰背景。",
+    "tweet": "青瓷梅瓶上的诗 ✨ Poem Wrapped on a Celadon Vase\n瓷器 · 书法 · 微距 · 曲面文字\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：明代青花瓷改为宋代风格青瓷梅瓶，蓝字改为褐色釉下书法，诗句改为原创\"青山不语云自闲\"。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-cat-detective-comic-poster",
+    "title": "猫咪侦探漫画海报 Cat Detective Comic Poster",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-cat-detective-comic-poster.png?v=cc6b2b96",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "漫画",
+      "清线",
+      "黑色电影",
+      "监控"
+    ],
+    "source": "VibeShot 知识库《rare-style-explorer/style_library》E023 狗狗侦探",
+    "prompt": "猫咪侦探漫画海报，欧洲清线派黑色漫画风，模拟赛博侦探的黑色电影氛围，深紫色夜景，监控摄像头时间码叠加，表情清晰。",
+    "tweet": "猫咪侦探漫画海报 ✨ Cat Detective Comic Poster\n漫画 · 清线 · 黑色电影 · 监控\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：狗狗侦探改为猫咪侦探，CCTV时间码保留，并加入深紫色夜景。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。\n- 成图瑕疵：海报文字是法语，偏离原提示的中文受众，可接受但需知悉。"
+  },
+  {
+    "id": "2026-09-27-bw-silver-pixie-goth",
+    "title": "银色短发哥特黑白人像 Silver Pixie Goth Portrait",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-bw-silver-pixie-goth.png?v=47070845",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "黑白",
+      "哥特",
+      "人像",
+      "电影光"
+    ],
+    "source": "VibeShot 知识库《黑白风格系列》3.chroma fade",
+    "prompt": "一位约27岁的成年女子，神情冷静自信，嘴角带一丝笑意，银色精灵短发，黑色唇膏，锐利眼线，耳廓上多枚耳钉，颈间系着黑色丝绒项圈，手指戴着叠戴的银戒。身穿长袖立领黑色皮夹克，哥特优雅风格。暗色棚拍背景，电影感轮廓光，高对比光影，薄烟氛围，黑白摄影，专业半身像，柔和漫射光，情绪化基调，超细节写实，8K。",
+    "tweet": "银色短发哥特黑白人像 ✨ Silver Pixie Goth Portrait\n黑白 · 哥特 · 人像 · 电影光\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：白色波波头改为银色精灵短发，纹身改为手部的银戒指与颈间丝带项圈，无袖高领改为长袖立领皮夹克。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-bw-ronin-in-pampas",
+    "title": "芒草中的女浪人 Ronin Woman in the Pampas",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-bw-ronin-in-pampas.png?v=ff0df9ee",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "黑白",
+      "武士",
+      "电影感",
+      "胶片"
+    ],
+    "source": "VibeShot 知识库《黑白风格系列》4.花と刃",
+    "prompt": "一位约28岁的成年日本女浪人静立在风中的芒草原上，身穿宽袖和服与袴，腰间系着写有汉字的破旧纸符。她一手按在腰间单刀的刀柄上，背负一张长弓，姿态从容戒备。头戴斗笠，阴影半遮面容，侧脸上斜挂一张狐面具，神情凶厉又平静。头发松散地挽成发髻，几缕碎发垂落。周围芒草随风起伏，背景是远处的丘陵与黄昏的逆光天空。柔和漫射光，温和阴影，宁静氛围。电影感黑白摄影，高对比，细腻胶片颗粒，浅景深，衣物与面具质感细致，35mm人像构图，薄雾，历史日本美学，戏剧而极简。",
+    "tweet": "芒草中的女浪人 ✨ Ronin Woman in the Pampas\n黑白 · 武士 · 电影感 · 胶片\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：白花山野改为风中的芒草原，鬼面具改为狐面具，双刀改为单刀加长弓，晨空改为黄昏逆光。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。\n- 成图瑕疵：腰间符纸上的汉字是模型随机生成的，不是真实词语。"
+  },
+  {
+    "id": "2026-09-27-bw-lace-veil-silence",
+    "title": "蕾丝面纱·静默 Lace Veil Silence",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-bw-lace-veil-silence.png?v=f69675c3",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "黑白",
+      "时尚",
+      "极简",
+      "神秘"
+    ],
+    "source": "VibeShot 知识库《黑白风格系列》4.Blind Sense",
+    "prompt": "一张黑白时尚照片：一位约28岁的优雅成年女子，双眼被垂落的黑色蕾丝面纱遮住，手持一枝白色马蹄莲轻抵在唇前，传达静默的意味。身穿黑色立领长袖上衣。硬朗的顶光在面纱下投出细密的蕾丝花纹阴影，神秘氛围，高级时装极简美学，超写实细节。",
+    "tweet": "蕾丝面纱·静默 ✨ Lace Veil Silence\n黑白 · 时尚 · 极简 · 神秘\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：眼罩改为黑色蕾丝面纱，竖指噤声改为手持一枝白色马蹄莲抵在唇前，柔光改为硬朗顶光。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-bw-ember-profile",
+    "title": "烬·黑白侧光肖像 Ember B&W Profile Portrait",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-bw-ember-profile.png?v=415c146c",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "黑白",
+      "人像",
+      "电影光",
+      "写实"
+    ],
+    "source": "VibeShot 知识库《黑白风格系列》7.Ember/烬 (MJ)",
+    "prompt": "一张约27岁成年女性的黑白肖像，侧脸半逆光，眼神锐利细致，真实皮肤纹理，身旁飘散着细小的余烬光点与薄烟，电影感光效，写实摄影，神情坚定自信，高细节，高对比，超写实，8K。",
+    "tweet": "烬·黑白侧光肖像 ✨ Ember B&W Profile Portrait\n黑白 · 人像 · 电影光 · 写实\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：正面肖像改为侧面半逆光，加入飘散的余烬光点与烟雾，人物明确为约27岁成年女性。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-bw-ember-eyes-macro",
+    "title": "烬·眼部极致特写 Ember Eyes Extreme Close-up",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-bw-ember-eyes-macro.png?v=445eca96",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "黑白",
+      "特写",
+      "美妆",
+      "写实"
+    ],
+    "source": "VibeShot 知识库《黑白风格系列》7.Ember/烬 (Banana JSON)",
+    "prompt": "超精细黑白极致特写肖像，聚焦双眼与鼻梁。环境：极简棚拍，背景沉入深暗。情绪：强烈、亲密、带一丝野性的平静。风格：艺术黑白美妆肖像，丰富中间调，高微反差，清晰的皮肤纹理与雀斑，阴影过渡顺滑，完全无色彩。布光：左侧一条窄长条形柔光箱作主光，在鼻尖与颧骨形成高光，右侧补光低1.5–2档，负补光加深边缘，眼神光呈清晰的长条形，无轮廓光。主体：约25岁成年女性，浅色细卷发散落在额前与脸颊，天然毛孔与细绒毛，鼻梁与脸颊散布雀斑，几乎素颜。姿态：正面，双眼直视镜头，眉头微蹙，嘴唇大部分出画；画面右下方一只戴细银戒的手指轻扶脸侧，柔焦。技术：100mm微距质感，f/5.6，双眼虹膜清晰，睫毛与毛孔可辨，发丝纤细不糊；眼睛置于画面上方，轻微不对称；保留毛孔雀斑，无磨皮，颗粒极轻。避免：着色、过度HDR、眼睛变形、眼神光不一致、死黑、锐化光晕、文字水印。",
+    "tweet": "烬·眼部极致特写 ✨ Ember Eyes Extreme Close-up\n黑白 · 特写 · 美妆 · 写实\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：深色湿发改为浅色细卷发，针织袖口改为扶在脸侧的手指与银戒，右侧主光改为左侧条形光，比例改为16:9。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。"
+  },
+  {
+    "id": "2026-09-27-bw-bob-turtleneck-portrait",
+    "title": "黑白波波头光影肖像 B&W Bob Chiaroscuro Portrait",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-bw-bob-turtleneck-portrait.png?v=c2345b9c",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "黑白",
+      "人像",
+      "明暗对照",
+      "胶片"
+    ],
+    "source": "VibeShot 知识库《黑白风格系列》1.bobo",
+    "prompt": "一张动人的黑白特写肖像：一位约26岁的成年亚洲女子，肌肤细腻，齐刘海短波波头，双眼轻闭，睫毛纤长，嘴唇自然放松，神情宁静内省。她身穿黑色高领粗针织毛衣，耳垂上一枚小小的猫形耳钉。戏剧性的侧光从右侧窗户射入，在脸颊与颈部投下窗格阴影，高对比明暗对照风格，极简棚拍背景由亮到暗柔和渐变，照片级写实，复古胶片颗粒，高细节，情绪化而神秘。",
+    "tweet": "黑白波波头光影肖像 ✨ B&W Bob Chiaroscuro Portrait\n黑白 · 人像 · 明暗对照 · 胶片\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：深V紧身毛衣改为高领粗针织毛衣，项链改为一枚小小的猫形耳钉，左侧光改为右侧窗格光并投下窗框阴影。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-butterfly-wing-scales-sem",
+    "title": "蝴蝶翅鳞电镜扫描 Butterfly Wing Scales Micrograph",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-butterfly-wing-scales-sem.png?v=24f7f3a5",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "电镜",
+      "微观",
+      "科学",
+      "虹彩"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 33: 昆虫复眼 (几何细节)",
+    "prompt": "电子显微镜风格扫描：蝴蝶翅膀鳞片的极致特写，瓦片状层叠排列的鳞片与表面细密的脊线结构清晰可见，虹彩结构色，科学成像。",
+    "tweet": "蝴蝶翅鳞电镜扫描 ✨ Butterfly Wing Scales Micrograph\n电镜 · 微观 · 科学 · 虹彩\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：苍蝇复眼改为蝴蝶翅膀鳞片，六边形改为瓦片状排列的鳞片结构。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 4:3。"
+  },
+  {
+    "id": "2026-09-27-bo-beast-snowfield-bronze",
+    "title": "山海经·驳（雪原青铜） Bo of the Shanhaijing on a Snowfield",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-bo-beast-snowfield-bronze.png?v=01ce3b4a",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "山海经",
+      "神兽",
+      "青铜",
+      "史诗"
+    ],
+    "source": "VibeShot 知识库《山海经系列》1.驳",
+    "prompt": "山海经神兽\"驳\"：一头银白色、身带淡淡深紫云纹斑的马形异兽，额生一根笔直独角，黑色长尾，虎一般的獠牙，以带利爪的兽足代替马蹄，胸肌健硕，鬃毛飘扬。它在暴风雪中的雪原上侧身奔袭，每一步踏碎冰雪如鼓点炸开，身上佩戴青铜错金的图腾饰件与护甲。广角全景，低机位，雪粒飞溅，冷蓝天光与青铜的暖金光泽对比，史诗感写实插画。",
+    "tweet": "山海经·驳（雪原青铜） ✨ Bo of the Shanhaijing on a Snowfield\n山海经 · 神兽 · 青铜 · 史诗\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：场景改为暴风雪中的雪原，白马身改为银白带深紫斑纹，扬尘改为踏碎冰雪，构图改为侧面奔袭的广角全景。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。"
+  },
+  {
+    "id": "2026-09-27-bioluminescent-moss-terrarium-lamp",
+    "title": "发光苔藓生态灯 Bioluminescent Moss Terrarium Lamp",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-bioluminescent-moss-terrarium-lamp.png?v=745be1f6",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "产品",
+      "生态科技",
+      "大理石纹",
+      "柔光"
+    ],
+    "source": "VibeShot 知识库《rare-style-explorer/style_library》E008 蘑菇灯",
+    "prompt": "生物荧光苔藓生态瓶台灯，低保真的屋顶太阳能小菜园背景，灯座上是土耳其水拓画的大理石漩涡纹，柔和生态科技氛围。",
+    "tweet": "发光苔藓生态灯 ✨ Bioluminescent Moss Terrarium Lamp\n产品 · 生态科技 · 大理石纹 · 柔光\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：蘑菇灯改为苔藓生态瓶灯，温室改为屋顶小菜园，水拓画纹改到灯座上。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 1:1。"
+  },
+  {
+    "id": "2026-09-27-bicycle-cobblestone-lane",
+    "title": "石板巷里的单车 Bicycle on a Cobblestone Lane",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-bicycle-cobblestone-lane.png?v=4ca37b89",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "法式",
+      "单车",
+      "街拍",
+      "日系"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》12.2 法式女孩",
+    "prompt": "一位约25岁的成年日本女子法式风格，推着一辆车篮里装满鲜花的复古单车走在石板小巷，身穿长袖碎花衬衫裙，精致金饰，蓬松波浪发配八字刘海，红润脸颊与润唇膏，晴天树影斑驳的光，85mm。",
+    "tweet": "石板巷里的单车 ✨ Bicycle on a Cobblestone Lane\n法式 · 单车 · 街拍 · 日系\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：泡泡袖方领裙改为碎花长袖衬衫裙，加入一辆载着花篮的单车，阴天改为晴天斑驳光。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-bakery-terrace-french-chic",
+    "title": "面包店露台法式风 French Chic on a Bakery Terrace",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-bakery-terrace-french-chic.png?v=6203c4d2",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "法式",
+      "露台",
+      "街拍",
+      "韩系"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》12.1 巴黎咖啡馆",
+    "prompt": "一位约27岁的成年韩国女子法式风穿搭，坐在首尔一家面包店露台的藤椅上，白色亚麻衬衫扎进高腰西裤，米色风衣披在肩上，头戴黑色贝雷帽，松散低发髻，柔和眼线配经典红唇，桌上放着法棍与咖啡，午后柔光，50mm。",
+    "tweet": "面包店露台法式风 ✨ French Chic on a Bakery Terrace\n法式 · 露台 · 街拍 · 韩系\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：咖啡馆露台改为面包店露台，条纹T恤改为白色亚麻衬衫，丝巾改为贝雷帽，晨光改为午后。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-badminton-court-action",
+    "title": "羽毛球馆的扣杀 Badminton Smash",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-badminton-court-action.png?v=6700767f",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "运动",
+      "羽毛球",
+      "动作",
+      "韩系"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》8.2 网球场",
+    "prompt": "一位约25岁的成年韩国女子在室内羽毛球馆跃起扣杀，身穿运动短袖与运动长裤，发带配法式编发，清新自然妆，羽毛球悬在拍前，球馆明亮顶光，85mm。",
+    "tweet": "羽毛球馆的扣杀 ✨ Badminton Smash\n运动 · 羽毛球 · 动作 · 韩系\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：网球改为羽毛球，网球裙改为运动短袖与运动长裤，户外晨光改为室内球馆顶光。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。\n- 成图瑕疵：T恤胸口出现了类似 Nike 的勾形标志，发布前可考虑修掉。"
+  },
+  {
+    "id": "2026-09-27-autumn-ridge-hiker-candid",
+    "title": "秋日山脊徒步抓拍 Autumn Ridge Hiker Candid",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-autumn-ridge-hiker-candid.png?v=d7d1d59c",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "抓拍",
+      "户外",
+      "徒步",
+      "生活感"
+    ],
+    "source": "VibeShot 知识库《前女友系列》前女友系列 #4",
+    "prompt": "一张自然的户外纪实抓拍：一位约27岁的成年女子在秋日山脊上徒步，高马尾配空气刘海，脸颊因运动微微泛红，身穿深紫色冲锋衣、卡其色徒步长裤与登山靴，背着小背包，停下脚步回望身后连绵的金色山脊与红叶林。午后斜阳侧逆光，远处薄雾层叠，行走中的瞬间，画面有轻微动态感，真实、健康、充满活力。",
+    "tweet": "秋日山脊徒步抓拍 ✨ Autumn Ridge Hiker Candid\n抓拍 · 户外 · 徒步 · 生活感\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：去掉\"前女友\"偷拍式框架改为户外品牌感纪实抓拍，运动内衣紧身裤改为冲锋衣与徒步长裤，雾山改为秋日金色山脊。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-autumn-ootd-collage",
+    "title": "秋日通勤OOTD拼贴 Autumn Commute OOTD Collage",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-autumn-ootd-collage.png?v=bb50b47f",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "OOTD",
+      "穿搭",
+      "拼贴",
+      "时尚"
+    ],
+    "source": "VibeShot 知识库《一些好玩儿的提示词》8.一键OOTD",
+    "prompt": "创作一张OOTD穿搭拼贴图。构图：左侧是一位约27岁、时髦有气质的成年女性在秋日梧桐街头的全身街拍；右侧白底排版列出所有单品，每件单品是一个独立小模块，包含电商风白底商品图、原创虚构品牌名、中文品名和人民币价格。穿搭：驼色羊毛大衣（品牌 MOONLOOM，¥1299）、深紫色细针织高领衫（品牌 NOVA KNIT，¥399）、燕麦色阔腿西裤（品牌 LINEN & LAKE，¥459）、焦糖色皮质托特包（品牌 OAKWREN，¥899）、黑色乐福鞋（品牌 STEPPE，¥699）、银色猫咪耳钉（品牌 KITTO，¥159）。视觉：明亮自然的街拍光线，衣物材质真实清晰，干净现代的无衬线字体，布局整洁有呼吸感，时尚杂志风格，色调统一，年轻日常实用。",
+    "tweet": "秋日通勤OOTD拼贴 ✨ Autumn Commute OOTD Collage\nOOTD · 穿搭 · 拼贴 · 时尚\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：灰针织条纹衬衫套装改为驼色大衣配深紫针织与阔腿裤，并使用原创虚构品牌名，背景街景改为秋日梧桐街。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-autumn-lake-light-leak",
+    "title": "秋湖漏光回忆 Autumn Lake Light-Leak Memory",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-autumn-lake-light-leak.png?v=83809253",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "胶片",
+      "漏光",
+      "回忆",
+      "梦幻"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 13: 胶片漏光 (意外美学)",
+    "prompt": "一张怀旧的秋日湖边旅行照片：浓重的胶片漏光（烧片）以红色与青色覆盖半个画面，褪色的色彩，一群朋友穿着毛衣在木栈桥上奔跑，模糊，如梦的回忆。",
+    "tweet": "秋湖漏光回忆 ✨ Autumn Lake Light-Leak Memory\n胶片 · 漏光 · 回忆 · 梦幻\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：夏日海滩改为秋日湖边，冲向大海改为在栈桥上奔跑，漏光颜色改为红与青。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-autumn-ginkgo-park-chat",
+    "title": "银杏公园闲谈抓拍 Ginkgo Park Conversation Candid",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-autumn-ginkgo-park-chat.png?v=3b1bd3bc",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "抓拍",
+      "公园",
+      "秋天",
+      "人像"
+    ],
+    "source": "VibeShot 知识库《前女友系列》前女友系列 #5",
+    "prompt": "一张即兴抓拍：一位约26岁的成年女子在银杏落叶季的公园里，深棕色长卷发，杏眼，神情温柔，身穿米色风衣配格纹长裙和短靴，正与身旁的朋友聊天笑着。飘落的金黄银杏叶在前景形成柔美的焦外光斑，阴天的散射光柔和均匀，氛围宁静温暖。",
+    "tweet": "银杏公园闲谈抓拍 ✨ Ginkgo Park Conversation Candid\n抓拍 · 公园 · 秋天 · 人像\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：樱花季改为银杏落叶季，金色长发改为深棕长卷发，吊带波点装改为米色风衣配格纹长裙。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-art-deco-hotel-lobby-qipao",
+    "title": "装饰艺术酒店大堂 Art Deco Hotel Lobby Qipao",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-art-deco-hotel-lobby-qipao.png?v=9db00ff6",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "旗袍",
+      "装饰艺术",
+      "复古",
+      "电影感"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》11.2 装饰艺术楼梯",
+    "prompt": "一位约28岁的成年中国女子身穿香槟金丝绸旗袍，手绣孔雀羽纹，立领长袖，站在装饰艺术风酒店大堂的黄铜旋转门前，一手拿着珍珠手包，复古手推波纹发，经典红唇与柔和翼形眼线；电影感时尚布光，暖色主光与冷色轮廓光，窗光形成体积光束，抛光大理石地面倒影，强引导线构图，中全身，50mm。",
+    "tweet": "装饰艺术酒店大堂 ✨ Art Deco Hotel Lobby Qipao\n旗袍 · 装饰艺术 · 复古 · 电影感\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：祖母绿牡丹旗袍改为香槟金孔雀纹旗袍，大理石楼梯改为装饰艺术风旋转门大堂，团扇改为珍珠手包。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 9:16。"
+  },
+  {
+    "id": "2026-09-27-archive-window-researcher",
+    "title": "档案馆窗边的研究员 Researcher at the Archive Window",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-archive-window-researcher.png?v=d5c386d1",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "图书馆",
+      "知性",
+      "窗光",
+      "人像"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》2.2 图书馆窗边",
+    "prompt": "一位约27岁的成年日本女研究员坐在老档案馆的窗边座位，身穿深绿色针织开衫与阔腿裤，戴圆框眼镜，低马尾，柔和眼线与淡粉唇，桌上摊开泛黄的地图，雨天清冷窗光，50mm。",
+    "tweet": "档案馆窗边的研究员 ✨ Researcher at the Archive Window\n图书馆 · 知性 · 窗光 · 人像\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：校园图书馆改为老档案馆，格纹西装半裙改为深绿针织开衫配阔腿裤，暖光改为雨天冷窗光。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-architect-model-presentation",
+    "title": "建筑师模型讲解 Architect Presenting a Model",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-architect-model-presentation.png?v=c0f1d7ca",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "职场",
+      "建筑",
+      "自信",
+      "人像"
+    ],
+    "source": "VibeShot 知识库《120个中日韩美女提示词》3.1 会议室演示",
+    "prompt": "一位约29岁的成年韩国女建筑师在明亮的工作室里向团队讲解桌上的白色建筑模型，身穿燕麦色西装套装，低盘发，细眼线与裸色唇，自信的姿态指向模型，大窗自然光，50mm。",
+    "tweet": "建筑师模型讲解 ✨ Architect Presenting a Model\n职场 · 建筑 · 自信 · 人像\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：会议室屏幕改为建筑模型桌，冷光改为大窗自然光，西装改为燕麦色西装套装。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
     "id": "2026-09-27-anime-heroes-zen-garden",
     "title": "写实禅园里的动漫群像 Anime Heroes in a Real Zen Garden",
     "date": "2026-09-27",
@@ -554,6 +3765,82 @@
     "prompt": "一张超宽全景图：写实摄影风格的京都式禅宗寺院庭园作为完全真实的背景——枯山水白砂纹、苔藓石组、木回廊、石灯笼与层层秋日红叶，黄昏暖光。庭园中自然散布着一群原创动漫角色，保持纯二维动漫画风（清晰黑色描边、赛璐珞平涂、经典动漫比例、鲜明配色）：戴狐面的红发剑士、手持符纸的银发少年术士、背大剑的高个武者、打伞的黑衣剑客、在回廊上泡茶的温柔女剑士，以及一只蹲在石灯笼上的动漫风黑猫。角色之间轻松互动，不破坏庭园。风格严格分离：庭园100%写实，角色100%动漫，无任何风格融合。超广角高位回廊视角，极深景深，极致细节。",
     "tweet": "写实禅园里的动漫群像 ✨ Anime Heroes in a Real Zen Garden\n跨次元 · 动漫 · 写实背景 · 群像\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
     "notes": "- 防撞图改动：去掉鬼灭之刃/咒术回战角色，换成一群原创动漫剑士与术士，清晨日出改为秋日红叶与黄昏，并加入一只动漫风黑猫。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。"
+  },
+  {
+    "id": "2026-09-27-anime-cat-steps-out-of-poster",
+    "title": "海报猫跃入现实 Anime Cat Leaping out of a Poster",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-anime-cat-steps-out-of-poster.png?v=473be9cd",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "维度打破",
+      "2D转3D",
+      "雨夜",
+      "创意"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 20: 维度入侵 (2D 变 3D)",
+    "prompt": "一只原创二次元风格的黑猫从雨夜街头墙上的电影海报里跃出，落在真实的3D湿漉漉的街道上。它的前爪在接触路面的地方从平涂赛璐珞画风转变为真实的3D毛发质感，溅起水花。霓虹倒影，电影感。",
+    "tweet": "海报猫跃入现实 ✨ Anime Cat Leaping out of a Poster\n维度打破 · 2D转3D · 雨夜 · 创意\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：动漫少女改为原创动漫风黑猫，广告牌改为墙上的电影海报，腿部转化改为爪子落地处从平涂变为真实毛发。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。\n- 成图瑕疵：海报猫和跳出的猫都偏写实，平面动画到立体毛发的过渡不明显。"
+  },
+  {
+    "id": "2026-09-27-amber-eye-city-reflection",
+    "title": "琥珀之眼里的城市 City Reflected in an Amber Eye",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-amber-eye-city-reflection.png?v=8dbe3ee2",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "微距",
+      "眼睛",
+      "反射",
+      "细节"
+    ],
+    "source": "VibeShot 知识库《Nano-Banan-Pro测试case》Case 28: 眼睛里的摄影师 (反射)",
+    "prompt": "人类琥珀色眼睛的极致微距，瞳孔中倒映出夜晚城市天际线与窗台上一只猫的剪影，虹膜纹理细腻，湿润的睫毛，8K分辨率。",
+    "tweet": "琥珀之眼里的城市 ✨ City Reflected in an Amber Eye\n微距 · 眼睛 · 反射 · 细节\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：蓝眼改为琥珀色眼睛，摄影师剪影改为夜晚城市天际线与一只猫的剪影。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。"
+  },
+  {
+    "id": "2026-09-27-amber-camellia-classical-portrait",
+    "title": "琥珀山茶古典肖像 Amber Camellia Classical Portrait",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-amber-camellia-classical-portrait.png?v=e1c54862",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "古典",
+      "肖像",
+      "花卉",
+      "复古"
+    ],
+    "source": "VibeShot 知识库《2026年3月》和服女子 by 迪丽热霉",
+    "prompt": "超古典美学：一位清冷疏离的约25岁成年女子。主色为柔和的琥珀棕与深酒红，点缀少量金色，超写实风格，细腻颗粒与温润顺滑质感。背景为暖米色宣纸肌理，平视侧脸构图。她梳着繁复的发髻，几缕深棕长发垂落、略显凌乱地遮住半边脸，发间点缀金箔与白山茶花苞。发丝轻轻飘动，她将一片白山茶花瓣轻抵唇边，静止的姿态中双眸低垂，梦幻而复古。服饰繁复典雅，琥珀棕底色上是深酒红暗纹并镶金边，肩头与腕间点缀白山茶。质感光与自然柔光交融，清晰的笔触刻画花瓣与发丝，流动的笔触营造柔和朦胧氛围。色彩丰富有层次，构图饱满，细节精致，沉静复古并富有叙事感。",
+    "tweet": "琥珀山茶古典肖像 ✨ Amber Camellia Classical Portrait\n古典 · 肖像 · 花卉 · 复古\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
+    "notes": "- 防撞图改动：蓝绿配金改为琥珀棕配深酒红，茶玫瑰改为白山茶，纯白背景改为暖米色宣纸肌理，视角由高角度改为平视侧脸。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-alien-noodle-stall-shelf",
+    "title": "外星面馆货架 Alien Noodle Shop Shelf",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-alien-noodle-stall-shelf.png?v=501f9b14",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "场景",
+      "早期互联网",
+      "霓虹",
+      "目录"
+    ],
+    "source": "VibeShot 知识库《rare-style-explorer/style_library》E007 外星便利店",
+    "prompt": "外星人面馆的泡面货架，老式夜市大排档的霓虹室内，浓重JPEG压缩的早期互联网质感，邮购目录扫描网格排版，热闹但清晰可读。",
+    "tweet": "外星面馆货架 ✨ Alien Noodle Shop Shelf\n场景 · 早期互联网 · 霓虹 · 目录\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
+    "notes": "- 防撞图改动：外星便利店改为外星泡面货架，茶餐厅改为夜市大排档，邮购目录网格保留。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 4:3。"
   },
   {
     "id": "2026-09-27-abyss-sword-duel-storm",
