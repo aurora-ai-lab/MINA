@@ -1,0 +1,21 @@
+[
+  {
+    "id": "2026-09-27-zhulong",
+    "title": "烛龙 Zhulong（Candle Dragon）",
+    "date": "2026-09-27",
+    "image": "images/general/2026-09-27-zhulong.png",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Grok Bot 生图",
+    "tags": [
+      "山海经",
+      "神话",
+      "宇宙"
+    ],
+    "source": "VibeShot 社区知识库「山海经系列」",
+    "prompt": "Zhulong (Candle Dragon), a colossal red serpent with a human face, eyes whose opening makes day and closing makes night, breath shaping the seasons; body coiling across shadowed mountains, mouth aglow like a torch illuminating the north; Chinese cosmic myth, vast scale, cinnabar and obsidian palette, celestial atmosphere, volumetric fog and stardust, ultra-detailed",
+    "tweet": "《山海经·大荒北经》里的烛龙：睁眼为昼，闭眼为夜，不食不寝不息，风雨是谒。\n用 AI 把它从文字里请了出来 🐉\n提示词来自 VibeShot 社区「山海经系列」\n\nZhulong, the Candle Dragon: when it opens its eyes, it is day; when it closes them, night falls.\n#AIart #山海经",
+    "notes": "- 成图把脸画成了龙脸，没有体现原典的「人面蛇身」。下次可在提示词中强调 `a serene human face on a serpent body, not a dragon head`。\n- 输出为横图，想要竖图需另外指定比例。",
+    "story": "《山海经·大荒北经》：西北海之外，赤水之北，有章尾山。有神，人面蛇身而赤，直目正乘，其瞑乃晦，其视乃明，不食不寝不息，风雨是谒。是烛九阴，是谓烛龙。"
+  }
+]
