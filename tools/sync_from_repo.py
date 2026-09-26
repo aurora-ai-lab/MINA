@@ -11,7 +11,7 @@ there, and regenerates ./data/works.json (newest first).
 
 Usage:  python3 tools/sync_from_repo.py [--repo owner/name] [--ref branch]
 """
-import argparse, json, os, posixpath, re, subprocess, sys
+import argparse, hashlib, json, os, posixpath, re, subprocess, sys
 from urllib.parse import quote
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
@@ -169,7 +169,7 @@ def main():
                 with open(os.path.join(IMG_DIR, cat, name), "wb") as f:
                     f.write(data)
                 keep[cat].add(name)
-                work["image"] = f"images/{cat}/{name}"
+                work["image"] = f"images/{cat}/{name}?v={hashlib.md5(data).hexdigest()[:8]}"
                 if os.path.splitext(name)[1].lower() in VIDEO_EXT:
                     work["mediaType"] = "video"
                 print(f"  image  {repo_path} -> {work['image']} ({len(data)} bytes)")
