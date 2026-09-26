@@ -3860,5 +3860,549 @@
     "prompt": "超写实电影剧照：中国仙侠修士在雷暴中的深渊石桥上激烈斗法，铁灰色主调与熔岩橙光点缀，深邃阴影，神秘氛围。真人修士面部、皮肤、发丝纹理细腻，飞剑交击，巨大的法术爆炸与灵力冲击波。原创神兽现身：骨翼鲲鹏在雷云中展翅，熔岩麒麟从深渊裂缝中跃出，鳞片与鬃毛真实细腻并带微光。修士身着繁复古风长袍动态飘舞，神情专注，动态模糊捕捉战斗瞬间，多重曝光法术轨迹，超广角强透视，浅景深大光圈散景，16:9。",
     "tweet": "雷暴深渊剑斗 ✨ Thunderstorm Abyss Sword Duel\n仙侠 · 暗黑 · 神兽 · 电影剧照\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIイラスト",
     "notes": "- 防撞图改动：四象神兽改为原创骨翼鲲鹏与熔岩麒麟，场景改为雷暴中的深渊石桥，黑色主调改为铁灰+熔岩橙。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。"
+  },
+  {
+    "id": "2026-09-27-safe-01",
+    "title": "《2025》日服美女·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-01-japanese-street-fashion.png",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "日系",
+      "街拍",
+      "成年角色"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "成年日系街头时装肖像：海军蓝西装、奶油色高领上衣、百褶中长裙，东京街头金色时刻；完整着装、非性化。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
+  },
+  {
+    "id": "2026-09-27-safe-02",
+    "title": "《2025》3D美女·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-02-3d-mannequin.png",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "3D",
+      "设计",
+      "未来"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "未来感瓷质时装人偶：银色几何夹克、阔腿裤与短靴，明亮设计工作室；完整着装、非性化。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
+  },
+  {
+    "id": "2026-09-27-safe-03",
+    "title": "《2025》日系女生·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-03-japanese-illustrator.png",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "日系",
+      "书店",
+      "成年角色"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "成年日本插画师穿奶油色开衫与高领上衣，在阳光书店里画画；温暖、自然、完整着装。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
+  },
+  {
+    "id": "2026-09-27-safe-04",
+    "title": "《2025》青涩女生·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-04-adult-gardener.png",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "植物",
+      "雨后",
+      "成年角色"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "成年植物学家穿长款田园夹克与长裤，走在雨后的温室中；清新纪录感、完整着装。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
+  },
+  {
+    "id": "2026-09-27-safe-05",
+    "title": "《2026年1月》铁路制服·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-05-railway-engineer.png",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "铁路",
+      "职业",
+      "制服"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "成年铁路工程师穿完整深蓝制服站在清晨站台；职业肖像、非性化。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
+  },
+  {
+    "id": "2026-09-27-safe-06",
+    "title": "《2026年1月》韩国制服·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-06-korean-office-style.png",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "首尔",
+      "职场",
+      "时装"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "成年首尔职场女性穿炭灰西装、高领针织与中长裙；现代办公室、完整着装。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
+  },
+  {
+    "id": "2026-09-27-safe-07",
+    "title": "《2026年1月》古风沐浴三人·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-07-hot-spring-robes.png",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "温泉",
+      "古风",
+      "旅行"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "三位成年女性穿不透明刺绣浴袍，坐在温泉庭院木廊；全部遮盖、宁静旅行摄影。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
+  },
+  {
+    "id": "2026-09-27-safe-08",
+    "title": "《2026年1月》健身房美女·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-08-gym-athlete.png",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "运动",
+      "健身",
+      "成年角色"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "成年运动员穿宽松拉链运动外套、长运动裤与球鞋，在明亮健身房拉伸；完整着装。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
+  },
+  {
+    "id": "2026-09-27-safe-09",
+    "title": "《2026年1月》狐狸精·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-09-fox-spirit.png",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "狐妖",
+      "幻想",
+      "汉服"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "成年狐灵守护者穿靛青与朱红叠层汉服，站在月光竹林；神话感、完整遮盖。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
+  },
+  {
+    "id": "2026-09-27-safe-10",
+    "title": "《2026年1月》水中少女·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-10-wetsuit-diver.png",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "潜水",
+      "海洋",
+      "冒险"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "成年专业潜水员穿完整青绿色潜水服，在清澈海水与珊瑚之间；纪录片式冒险。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
+  },
+  {
+    "id": "2026-09-27-safe-11",
+    "title": "《2026年1月》古风武侠美女·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-11-wuxia-heroine.png",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "武侠",
+      "古风",
+      "英雄"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "成年武侠女侠穿高领叠层武服、长袖与靴子，背负长剑站在山桥；英气、非性化。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
+  },
+  {
+    "id": "2026-09-27-safe-12",
+    "title": "《2026年1月》唐朝贵女·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-12-tang-noblewoman.png",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "唐风",
+      "历史",
+      "礼服"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "成年唐代贵女穿高领长袖织锦礼服，坐在梅园亭中；端庄历史肖像。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
+  },
+  {
+    "id": "2026-09-27-safe-13",
+    "title": "《2026年1月》古风盛装美女·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-13-tang-couture.png",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "唐风",
+      "礼服",
+      "宫廷"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "成年模特穿全包覆红金唐风长裙走过宫殿灯廊；宏大礼服摄影。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
+  },
+  {
+    "id": "2026-09-27-safe-14",
+    "title": "《2026年1月》午后室内美女与宠物·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-14-pet-afternoon.png",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "室内",
+      "宠物",
+      "生活"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "成年女性穿不透明开衫与长裤，在窗边阅读，猫咪在旁打盹；温馨生活摄影。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
+  },
+  {
+    "id": "2026-09-27-safe-15",
+    "title": "《2026年2月》古风人物照·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-15-ancient-scholar.png",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "古风",
+      "书卷",
+      "博物馆"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "成年古代学者穿深青宽袖长袍站在古籍室；安静端庄、完整着装。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
+  },
+  {
+    "id": "2026-09-27-safe-16",
+    "title": "《2026年3月》古风顶级cos·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-16-ancient-cosplay.png",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "COS",
+      "古风",
+      "铠甲"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "成年COSER扮演原创古代守卫，穿完整层叠铠甲、披风与护腕；英雄姿态。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
+  },
+  {
+    "id": "2026-09-27-safe-17",
+    "title": "《2026年3月》录像带专辑封面·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-17-vhs-album.png",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "VHS",
+      "专辑封面",
+      "复古"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "80年代录像带音乐封面：霓虹城市、两位匿名完整着装剪影、磁带颗粒；不使用真人肖像。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
+  },
+  {
+    "id": "2026-09-27-safe-18",
+    "title": "《2026年3月》韩国女网红 #1·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-18-korean-creator-1.png",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "韩国",
+      "创作者",
+      "棚拍"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "成年韩国视频创作者穿燕麦色毛衣，在桌前使用麦克风；友好专业、完整着装。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
+  },
+  {
+    "id": "2026-09-27-safe-19",
+    "title": "《2026年3月》韩国女网红 #2·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-19-korean-creator-2.png",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "韩国",
+      "摄影",
+      "工作室"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "成年韩国摄影师穿高领深蓝针织与长裤，在明亮工作室查看照片；现代编辑感。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
+  },
+  {
+    "id": "2026-09-27-safe-20",
+    "title": "《2026年3月》亚洲气质御姐·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-20-asian-professional.png",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "亚洲",
+      "职场",
+      "肖像"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "成年亚洲职业女性穿炭灰套装与高领衬衣，在现代画廊中；沉稳自信、非性化。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
+  },
+  {
+    "id": "2026-09-27-safe-21",
+    "title": "《前女友系列》前女友系列 #1·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-21-memory-postcard-1.png",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "记忆明信片",
+      "秋日",
+      "同意拍摄"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "经同意拍摄的成年女性记忆明信片：穿芥末色外套围巾，在秋日河畔市集微笑；平视、无窥视。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
+  },
+  {
+    "id": "2026-09-27-safe-22",
+    "title": "《前女友系列》前女友系列 #2·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-22-memory-postcard-2.png",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "记忆明信片",
+      "咖啡馆",
+      "同意拍摄"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "经同意拍摄的成年女性穿牛仔夹克与针织衫，在咖啡馆露台挥手；温暖怀旧胶片感。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
+  },
+  {
+    "id": "2026-09-27-safe-23",
+    "title": "《前女友系列》前女友系列 #7·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-23-memory-postcard-7.png",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "记忆明信片",
+      "城市",
+      "同意拍摄"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "经同意拍摄的成年女性穿长风衣走上城市台阶，回头对朋友微笑；平视纪录感。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
+  },
+  {
+    "id": "2026-09-27-safe-24",
+    "title": "《前女友系列》前女友系列 #8·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-24-memory-postcard-8.png",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "记忆明信片",
+      "书摊",
+      "同意拍摄"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "经同意拍摄的成年女性穿绿色毛衣与中长裙，在户外书摊挑书；自然生活感。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
+  },
+  {
+    "id": "2026-09-27-safe-25",
+    "title": "《前女友系列》前女友系列 #10·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-25-memory-postcard-10.png",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "记忆明信片",
+      "雨天",
+      "同意拍摄"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "经同意拍摄的成年女性穿羊毛外套与围巾，在雨棚下捧热饮；怀旧街头电影感。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
+  },
+  {
+    "id": "2026-09-27-safe-26",
+    "title": "《karin复刻系列》5.复古少女·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-26-retro-adult-fashion.png",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "复古",
+      "时装",
+      "成年角色"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "成年女性穿1960年代灵感长外套、贝雷帽、不透明连裤袜与短靴，站在粉彩小车旁；俏皮复古。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
+  },
+  {
+    "id": "2026-09-27-safe-27",
+    "title": "《karin复刻系列》6.梦泡·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-27-dream-bubble.png",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "梦境",
+      "泡泡",
+      "艺术肖像"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "成年女性穿高领长裙与开衫，漂浮在粉彩气泡画廊；梦幻、完整遮盖。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
+  },
+  {
+    "id": "2026-09-27-safe-28",
+    "title": "《karin复刻系列》7.兔女郎·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-28-stage-rabbit-performer.png",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "舞台",
+      "兔耳",
+      "表演"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "成年舞台魔术师穿完整黑色燕尾服与兔耳头饰，在剧场表演；俏皮优雅、非性化。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
+  },
+  {
+    "id": "2026-09-27-safe-29",
+    "title": "《一些好玩儿的提示词》5.角色设定图·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-29-character-design-sheet.png",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "角色设定",
+      "概念设计",
+      "全身"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "五位成年幻想角色的完整服装设定表：外套、长裤、靴子与配饰；无内衣展示。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
+  },
+  {
+    "id": "2026-09-27-safe-30",
+    "title": "《黑白风格系列》5.Dark Bloom·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-30-dark-bloom.png",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "黑白",
+      "哥特",
+      "礼服"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "成年模特穿高领长袖不透明黑礼服与披风，站在月光温室；戏剧化黑白时装、非性化。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
+  },
+  {
+    "id": "2026-09-27-safe-31",
+    "title": "《2025》古墓丽影·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-31-archaeology-explorer.png",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "考古",
+      "冒险",
+      "遗迹"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "成年考古学家穿完整野外装备、工装裤、靴子与头灯，站在火把照亮的遗迹；原创角色。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
+  },
+  {
+    "id": "2026-09-27-safe-32",
+    "title": "《2026年1月》汗如雨下·安全重构",
+    "date": "2026-09-27",
+    "image": "images/safe-rewrites/2026-09-27-32-rainy-runner.png",
+    "mediaType": "image",
+    "category": "general",
+    "model": "Codex 内置图像生成器（安全重构）",
+    "tags": [
+      "跑步",
+      "雨天",
+      "运动"
+    ],
+    "source": "skipped-explicit-index.md（仅有标题，未提供原始提示词）",
+    "prompt": "成年马拉松跑者穿不透明长袖运动服，在夏雨中的城市跑道奔跑；积极运动摄影。",
+    "notes": "根据原标题做的公开画廊安全重构：成年角色、完整着装、无露骨内容；原附件只含标题与跳过原因，不含原始提示词。"
   }
 ]
