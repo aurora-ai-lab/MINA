@@ -1128,24 +1128,6 @@
     "notes": "- 防撞图改动：夏日碎花裙改为秋季针织连衣裙，丝带半扎发改为贝雷帽配低马尾，加入野餐篮旁的一只小猫。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
   },
   {
-    "id": "2026-09-27-retro-internet-web-ui",
-    "title": "像素互联网 1999 Retro Web",
-    "date": "2026-09-27",
-    "image": "images/web-ui/2026-09-27-retro-internet-web-ui.png",
-    "mediaType": "image",
-    "category": "web-ui",
-    "model": "Codex Image",
-    "tags": [
-      "复古互联网",
-      "Y2K",
-      "像素",
-      "网页怀旧"
-    ],
-    "source": "视觉系网页 UI 提示词整理",
-    "prompt": "nostalgic 1990s personal website interface as a polished visual concept, deep cobalt blue tiled web background, beveled buttons, pixel icons, tiny badges, retro desktop windows, colorful navigation labels, playful collage of old web elements, Y2K internet culture, pixel art mixed with clean art direction, cobalt blue electric yellow magenta mint green white, scanlines, pixel dithering, low-resolution bitmap texture, no modern corporate dashboard, no browser chrome, no watermark",
-    "notes": "重点：像素图标、斜面按钮、CRT 扫描线和早期个人主页的密集拼贴。"
-  },
-  {
     "id": "2026-09-27-retro-diner-milk-tea",
     "title": "复古冰室奶茶 Retro Diner Milk Tea",
     "date": "2026-09-27",
@@ -1545,24 +1527,6 @@
     "notes": "- 防撞图改动：东京霓虹小巷改为大阪运河边的步道，黑皮夹克改为深紫色短款风衣，高马尾改为半扎发。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
   },
   {
-    "id": "2026-09-27-oriental-minimal-web-ui",
-    "title": "宣纸档案 Oriental Minimal",
-    "date": "2026-09-27",
-    "image": "images/web-ui/2026-09-27-oriental-minimal-web-ui.png",
-    "mediaType": "image",
-    "category": "web-ui",
-    "model": "Codex Image",
-    "tags": [
-      "东方极简",
-      "宣纸",
-      "文化档案",
-      "留白"
-    ],
-    "source": "视觉系网页 UI 提示词整理",
-    "prompt": "minimal oriental cultural archive website as an art-directed visual page, warm rice-paper background with soft natural shadow, ink-black vertical typography, cinnabar seal marks, delicate ruled lines, sparse archival image blocks, quiet navigation, Chinese and Japanese editorial design, museum archive, poetic minimalism, wide desktop page, asymmetric grid, generous negative space, rice white ink black muted cinnabar faded indigo, handmade paper grain, dry brush ink, subtle fibers, no browser chrome, no device frame, no watermark",
-    "notes": "重点：宣纸纤维、朱砂印记、竖排文字和博物馆档案般的安静气质。"
-  },
-  {
     "id": "2026-09-27-old-photo-overlay-temple",
     "title": "老照片叠影：古寺今昔 Then-and-Now Photo Overlay",
     "date": "2026-09-27",
@@ -1618,6 +1582,29 @@
     "prompt": "一位约27岁的成年韩国女子坐在夜晚电车的车窗边，身穿驼色长款大衣与黑色高领毛衣，直发配空气刘海，淡淡猫眼眼线与玫瑰色唇，戴着耳机若有所思，车窗外流动的城市灯光在脸上掠过，腰部以上，50mm。",
     "tweet": "夜班电车 ✨ Night Train Commute\n通勤 · 电车 · 情绪 · 人像\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
     "notes": "- 防撞图改动：白天地铁改为夜晚电车，西装半裙改为长款大衣配高领毛衣，柔和窗光改为车窗外流动的城市灯带。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
+  },
+  {
+    "id": "2026-09-27-night-office-low-angle",
+    "title": "深夜办公室 · 低机位高跟丝袜视线引导",
+    "date": "2026-09-27",
+    "image": "images/women/2026-09-27-night-office-low-angle.png?v=78de017b",
+    "mediaType": "image",
+    "category": "women",
+    "model": "Grok Bot 图像生成",
+    "tags": [
+      "超写实",
+      "iPhone 抓拍",
+      "低机位",
+      "丝袜",
+      "高跟鞋",
+      "办公室",
+      "OL",
+      "眼镜"
+    ],
+    "source": "用户提供的提示词（原文收录）",
+    "prompt": "9:16竖版，超写实真人 iPhone 手机摄影，明确24岁成年东亚女性，真实人物抓拍质感，非视频画面、非电影剧照、非CG、非动漫。\n\n【构图核心】\n单张照片同时完成\"高跟鞋 → 丝袜双腿 → 腰部 → 胸部轮廓 → 锁骨 → 脸\"的视觉引导。\n\n摄影机位于人物正前方偏低的位置，约膝盖以下高度，使用约28–35mm手机主摄等效视角，轻微低机位仰拍。\n\n画面最下方近景首先出现黑色尖头细高跟鞋，其中一只鞋距离镜头最近，形成真实的近大远小透视。\n\n视线自然沿着：\n黑色细高跟鞋\n→ 脚踝\n→ 半透明黑色丝袜\n→ 修长小腿\n→ 膝盖与大腿\n→ 黑色高腰短裙\n→ 纤细腰部\n→ 白色修身衬衫包裹下自然丰满的成年女性胸部曲线\n→ 锁骨与肩颈\n→ 桃粉色微张嘴唇\n→ 最终落在她直接注视镜头的眼睛。\n\n人物全身基本完整进入画面，鞋子不能被裁掉，脸部必须清晰。\n\n【人物】\n24岁成年东亚女性，真实自然的年轻女性面孔，深棕色眼睛，长发略微凌乱，真实皮肤纹理。\n\n163cm左右，纤细腰部，自然丰满胸部，明显但符合真实人体结构的成年女性曲线，修长双腿。\n\n她靠在深夜办公室的办公桌边缘，一条腿自然伸向镜头，另一条腿略微弯曲，形成自然腿部层次。\n\n上半身轻微前倾。\n\n她已经察觉摄影者的视线从高跟鞋一路向上。\n\n因此直接低头看向镜头。\n\n细框眼镜略微滑低，她用一根手指轻轻扶住镜框。\n\n嘴唇自然微张，嘴角只有一点若有若无的笑意。\n\n持续直接眼神接触。\n\n表情带有：\n\"我知道你刚才在看哪里。\"\n\n不要文字。\n\n【服装】\n白色修身秘书衬衫，领口自然微松但保持完整覆盖，真实布料受到身体曲线产生自然张力与褶皱。\n\n黑色高腰短裙。\n\n半透明黑色丝袜，必须能够看到真实细密织物纹理和自然透肤效果。\n\n黑色尖头细高跟鞋，真实皮革材质和室内灯光反射。\n\n整体性感来自低机位透视、丝袜、高跟鞋、成熟身体曲线和被发现后的眼神，而不是裸露。\n\n【环境】\n真实深夜办公室，下班后空无一人。\n\n普通办公桌、电脑显示器、键盘、文件、咖啡杯、办公椅自然留在背景。\n\n使用真实办公室顶灯和桌灯。\n\n不要红蓝电影灯。\n\n不要摄影棚布光。\n\n【真人感最高优先级】\nreal 24-year-old adult East Asian woman, genuine iPhone photo, real human actress, casual smartphone snapshot, low-angle full-body portrait, 28-35mm equivalent smartphone lens, strong but realistic perspective, foreground high heels, sheer black stockings, realistic adult feminine curves, naturally full bust under clothing, slim waist, long legs, direct eye contact, subtle teasing expression, visible skin pores, peach fuzz, subtle uneven skin tone, natural facial asymmetry, individual hair strands, realistic stocking weave, real leather reflections, realistic fabric compression and wrinkles, natural gravity, ordinary office lighting, realistic white balance, slight smartphone lens distortion, subtle sensor noise, slight JPEG compression, imperfect candid framing, background details remain visible, no beauty filter, indistinguishable from a real iPhone photograph.\n\n【Negative】\nanime, manga, illustration, cartoon, CGI, 3D render, digital painting, doll face, AI glamour portrait, porcelain skin, wax skin, plastic skin, excessive skin smoothing, beauty filter, giant eyes, perfect facial symmetry, fantasy lighting, red-blue cinematic lighting, excessive rim light, dreamy glow, excessive bokeh, studio glamour photography, impossible anatomy, exaggerated breasts, gravity-defying breasts, impossible waist, distorted legs, extra legs, deformed feet, broken high heels, fake stockings, floating clothing, deformed hands, extra fingers, nudity, exposed nipples, exposed genitals, explicit sexual activity, underage appearance",
+    "tweet": "",
+    "notes": ""
   },
   {
     "id": "2026-09-27-night-market-stairwell-glance",
@@ -1770,24 +1757,6 @@
     "prompt": "一位约26岁的成年韩国女子在复古街机厅里，身穿银色亮片阔腿连体裤与短靴，高卷马尾，水润唇与大胆眼线，俏皮地倚靠在一台街机旁，彩色霓虹与屏幕光映在脸上，35mm。",
     "tweet": "霓虹游戏厅 ✨ Neon Arcade\n霓虹 · 派对 · 街机 · 人像\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
     "notes": "- 防撞图改动：派对走廊改为复古街机厅，亮片短裙长靴改为亮片阔腿连体裤与短靴，撩发改为倚靠街机。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。\n- 成图瑕疵：街机屏幕上自动出现了真实游戏名「SPACE INVADERS」，发布前可考虑修掉。"
-  },
-  {
-    "id": "2026-09-27-neo-brutalist-web-ui",
-    "title": "复印机红色新粗野主义 Neo-Brutalist",
-    "date": "2026-09-27",
-    "image": "images/web-ui/2026-09-27-neo-brutalist-web-ui.png",
-    "mediaType": "image",
-    "category": "web-ui",
-    "model": "Codex Image",
-    "tags": [
-      "新粗野主义",
-      "平面设计",
-      "高对比",
-      "视觉概念"
-    ],
-    "source": "视觉系网页 UI 提示词整理",
-    "prompt": "neo-brutalist website interface as an art-directed full-page visual, raw off-white paper background, oversized black typography, bold red blocks, thick black borders, hard offset shadows, asymmetric editorial grid, sticker-like controls, contemporary graphic design, photocopy texture, experimental web art direction, full desktop page, flat print-like lighting, off-white black vermilion red cobalt blue, recycled paper, ink bleed, rough photocopy grain, no browser chrome, no device frame, no watermark",
-    "notes": "重点：硬边框、偏移阴影、纸张颗粒和故意不对称的视觉张力。"
   },
   {
     "id": "2026-09-27-negative-space-owl-logo",
@@ -2685,24 +2654,6 @@
     "notes": "- 防撞图改动：复古咖啡馆改为夜晚的维多利亚花房，蕾丝裙改为高领丝绒长裙，加入手中的诗集与一只黑猫。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
   },
   {
-    "id": "2026-09-27-glassmorphism-web-ui",
-    "title": "午夜玻璃拟态 Midnight Glass UI",
-    "date": "2026-09-27",
-    "image": "images/web-ui/2026-09-27-glassmorphism-web-ui.png",
-    "mediaType": "image",
-    "category": "web-ui",
-    "model": "Codex Image",
-    "tags": [
-      "玻璃拟态",
-      "未来感",
-      "暗色 UI",
-      "视觉概念"
-    ],
-    "source": "视觉系网页 UI 提示词整理",
-    "prompt": "high-end futuristic web UI visual concept, dark midnight background, translucent glass panels, soft cyan and violet glow, layered frosted glass, thin luminous borders, floating cards, subtle depth and blur, large editorial typography, generous negative space, refined grid system, premium creative technology aesthetic, cinematic ambient lighting, no device frame, no browser chrome, no watermark",
-    "notes": "重点：半透明材质、冷色发光、层叠空间与高级科技感。"
-  },
-  {
     "id": "2026-09-27-glass-fox-clockwork-heart",
     "title": "玻璃狐与发条心 Glass Fox with a Clockwork Heart",
     "date": "2026-09-27",
@@ -3140,24 +3091,6 @@
     "notes": "- 防撞图改动：去掉战锤40K版权元素，改为原创深海机甲潜水盔视角，绿色磷光改为冰蓝+警示橙，敌人目标改为发光的深海巨兽。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 16:9。\n- 成图瑕疵：HUD 上的文字由模型自动生成，个别编号是随机的。"
   },
   {
-    "id": "2026-09-27-cyberpunk-web-ui",
-    "title": "霓虹夜行 Cyberpunk Interface",
-    "date": "2026-09-27",
-    "image": "images/web-ui/2026-09-27-cyberpunk-web-ui.png",
-    "mediaType": "image",
-    "category": "web-ui",
-    "model": "Codex Image",
-    "tags": [
-      "赛博朋克",
-      "霓虹",
-      "HUD",
-      "科幻"
-    ],
-    "source": "视觉系网页 UI 提示词整理",
-    "prompt": "cyberpunk nightlife web interface as a high-impact visual art direction, black and deep indigo interface canvas, holographic panels, thin HUD lines, neon cyan and magenta labels, glowing data fragments, angular navigation, luminous status chips, cinematic sci-fi web design, futuristic digital art, full desktop page, asymmetrical composition, ink black cyan hot magenta acid green ultraviolet, scanlines, chromatic bloom, glass reflections, clear visual hierarchy, no browser chrome, no device frame, no watermark",
-    "notes": "重点：HUD 线条、霓虹边缘光、扫描线和有控制的赛博层次。"
-  },
-  {
     "id": "2026-09-27-cyber-opera-performer-impasto",
     "title": "赛博戏曲花旦厚涂 Cyber Opera Performer Impasto",
     "date": "2026-09-27",
@@ -3251,24 +3184,6 @@
     "prompt": "动感十足的动漫风成年女性仿生战士，全身像，空中攻击姿势，多条机械臂同时向前出拳，机械护手与装甲四肢，未来战斗外骨骼，深紫、霓虹青与白色配色，流线机甲设计。黑紫渐变短发，金色瞳孔，神情专注呐喊，锐利眼神。极限动作场面，高速运动，冲击线，爆裂力量，碎片飞溅，破碎的轨道空间站背景，漫画速度线，戏剧性透视与前缩，动态机位。超精细，高对比光，干净线稿，锐利边缘，现代动漫机甲插画，4K，电影构图。避免：低质量、模糊、写实脸、肢体错误、多余手指、平淡姿势、灰暗配色、文字水印、暴露内容。",
     "tweet": "多臂机甲少女战士 ✨ Multi-Arm Android Warrior\n动漫 · 机甲 · 动作 · 速度线\n\n今日新作，完整提示词已收录。New piece today, full prompt in my collection.\nPrompt inspired by VibeShot community\n#AIart #AIPortrait",
     "notes": "- 防撞图改动：人物明确为成年女性战士，配色由黑白红改为深紫+霓虹青+白，银发红眼改为黑紫渐变短发金色瞳孔，背景加入破碎的空间站。\n- 成图由 Grok Bot 生成，输出为横图（1280×720），目标比例 3:4。"
-  },
-  {
-    "id": "2026-09-27-creative-studio-web-ui",
-    "title": "极光创作工作台 Aurora Studio",
-    "date": "2026-09-27",
-    "image": "images/web-ui/2026-09-27-creative-studio-web-ui.png",
-    "mediaType": "image",
-    "category": "web-ui",
-    "model": "Codex Image",
-    "tags": [
-      "创作工具",
-      "极光渐变",
-      "暗色 UI",
-      "视觉概念"
-    ],
-    "source": "视觉系网页 UI 提示词整理",
-    "prompt": "cinematic visual AI creative studio web interface, near-black indigo workspace, aurora gradient, luminous prompt composer, image tiles, translucent settings panels, cobalt blue ultraviolet and mint accent, soft bloom, refined dark mode, elegant creative software art direction, high-fidelity desktop interface artwork, no browser chrome, no watermark",
-    "notes": "重点：把创作软件做成一张有氛围的视觉海报，使用极光渐变和发光面板建立焦点。"
   },
   {
     "id": "2026-09-27-cream-tone-kitchen",
