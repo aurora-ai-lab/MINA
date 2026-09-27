@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1100" role="img" aria-label="Black lace evening portrait prompt entry placeholder">
+  <defs>
+    <radialGradient id="bg" cx="50%" cy="35%" r="75%"><stop offset="0" stop-color="#44303a"/><stop offset="0.55" stop-color="#171116"/><stop offset="1" stop-color="#08070a"/></radialGradient>
+    <pattern id="lace" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="7" cy="7" r="5" fill="none" stroke="#caa9b7" stroke-opacity=".22"/><path d="M0 14L14 0M14 28L28 14" stroke="#caa9b7" stroke-opacity=".16"/></pattern>
+  </defs>
+  <rect width="800" height="1100" fill="url(#bg)"/>
+  <rect x="95" y="70" width="610" height="960" rx="8" fill="url(#lace)" opacity=".9"/>
+  <path d="M260 360c18-118 262-118 280 0l55 440H205z" fill="#0b090d" stroke="#d1b1c1" stroke-opacity=".3" stroke-width="3"/>
+  <circle cx="400" cy="255" r="86" fill="#1a1218" stroke="#d1b1c1" stroke-opacity=".35" stroke-width="3"/>
+  <path d="M290 470c70 45 150 45 220 0M260 800c95 42 185 42 280 0" fill="none" stroke="#d1b1c1" stroke-opacity=".24" stroke-width="6"/>
+  <text x="400" y="980" fill="#eadce4" fill-opacity=".78" font-family="Georgia,serif" font-size="30" text-anchor="middle">BLACK LACE · PROMPT ENTRY</text>
+</svg>
