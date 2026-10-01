@@ -8,7 +8,6 @@
   const CATS = { general: "综合作品", women: "女性人像", "web-ui": "视觉系 UI" };
   const DEFAULT_CAT = "general";
   const state = { works: [], filtered: [], query: "", tags: [], cat: DEFAULT_CAT, current: -1, lastFocus: null };
-  const directionGrid = $("#direction-grid");
   const catWorks = () => state.works.filter((w) => w.category === state.cat);
   const el = {
     grid: $("#grid"), selectedTags: $("#selected-tags"), tagGroups: $("#tag-groups"), tagSearch: $("#tag-search"),
@@ -19,30 +18,6 @@
     share: $("#share"), prev: $("#prev"), next: $("#next"), toast: $("#toast"),
   };
   $("#year").textContent = new Date().getFullYear();
-
-  function renderDirections(types) {
-    if (!directionGrid || !Array.isArray(types)) return;
-    directionGrid.replaceChildren(...types.map((type) => h("article", { class: "direction-card", role: "listitem" },
-      h("div", { class: "direction-icon", "aria-hidden": "true", text: type.icon }),
-      h("div", { class: "direction-card-body" },
-        h("h2", { text: type.title }),
-        h("p", { text: type.description }),
-        h("span", { class: "direction-resources", text: type.resources })
-      ),
-      h("button", { class: "direction-action", type: "button", "aria-label": `查看${type.title}方案`, onclick: () => {
-        const detail = $("#direction-detail");
-        detail.replaceChildren(h("h3", { text: type.title }), h("p", { text: type.description }),
-          h("p", { text: `开发资源参考：${type.resources}` }),
-          h("p", { text: "先查看现有 UI 视觉参考；对应的互动网站演示将分阶段补充。" }),
-          h("button", { class: "ghost-btn", type: "button", onclick: () => {
-            el.search.value = ""; state.query = ""; state.tags = []; setCat("web-ui", true);
-            el.status.scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block: "center" });
-          } }, "查看 UI 视觉参考"));
-        detail.hidden = false;
-      } }, "查看方案 →")
-    )));
-  }
-
 
   /* ---------- helpers ---------- */
   function h(tag, attrs, ...kids) {
@@ -410,7 +385,6 @@
 
   /* ---------- boot ---------- */
   stars();
-  fetch("data/site-types.json", { cache: "no-cache" }).then((r) => r.ok ? r.json() : []).then(renderDirections).catch(() => {});
   fetch("data/works.json", { cache: "no-cache" })
     .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then((works) => {
