@@ -8,7 +8,6 @@
   const CATS = { general: "综合作品", women: "女性人像", "web-ui": "视觉系 UI" };
   const DEFAULT_CAT = "general";
   const state = { works: [], filtered: [], query: "", tags: [], cat: DEFAULT_CAT, current: -1, lastFocus: null };
-  const directionGrid = $("#direction-grid");
   const catWorks = () => state.works.filter((w) => w.category === state.cat);
   const el = {
     grid: $("#grid"), selectedTags: $("#selected-tags"), tagGroups: $("#tag-groups"), tagSearch: $("#tag-search"),
@@ -19,79 +18,6 @@
     share: $("#share"), prev: $("#prev"), next: $("#next"), toast: $("#toast"),
   };
   $("#year").textContent = new Date().getFullYear();
-
-  function renderDirections(types) {
-    if (!directionGrid || !Array.isArray(types)) return;
-    directionGrid.replaceChildren(...types.map((type) => h("article", { class: "direction-card", role: "listitem" },
-      h("div", { class: "direction-icon", "aria-hidden": "true", text: type.icon }),
-      h("div", { class: "direction-card-body" },
-        h("h2", { text: type.title }),
-        h("p", { text: type.description }),
-        h("span", { class: "direction-resources", text: type.resources })
-      ),
-      h("button", { class: "direction-action", type: "button", "aria-label": `打开${type.title}虚拟网站`, onclick: () => openVirtualSite(type) }, "打开虚拟网站 →")
-    )));
-  }
-
-  function virtualVisual(type) {
-    const p = type.preview || {};
-    if (p.variant === "terminal") return h("div", { class: "site-visual visual-terminal" },
-      h("div", { class: "visual-window" }, h("div", { class: "visual-window-bar" }, h("i"), h("i"), h("i")),
-        h("div", { class: "terminal-code", text: "> nova.run --brief\n  understanding intent...\n  generating workflow..." }),
-        h("div", { class: "terminal-result" }, h("span", { text: "✦" }), h("b", { text: "ready" }), h("small", { text: "3 actions generated" }))));
-    if (p.variant === "gallery") return h("div", { class: "site-visual visual-gallery" },
-      h("div", { class: "gallery-stage" }, h("div", { class: "gallery-orb" }), h("span", { class: "gallery-chip", text: "DRAG TO EXPLORE" }), h("span", { class: "gallery-index", text: "03 / 12" })),
-      h("div", { class: "gallery-caption" }, h("b", { text: "Synthetic Bloom" }), h("small", { text: "Light study · 2026" })));
-    if (p.variant === "luxury") return h("div", { class: "site-visual visual-luxury" },
-      h("div", { class: "luxury-halo" }), h("div", { class: "luxury-object" }, h("span", { text: "L" })),
-      h("div", { class: "luxury-caption" }, h("small", { text: "LUNE ATELIER" }), h("b", { text: "No. 06 / Eau de lumière" })));
-    if (p.variant === "story") return h("div", { class: "site-visual visual-story" },
-      h("div", { class: "story-sky" }, h("span", { class: "story-moon" }), h("i"), h("i"), h("i")),
-      h("div", { class: "story-copy" }, h("small", { text: "CHAPTER 01" }), h("b", { text: "夜幕降临" }), h("span", { text: "scroll to continue ↓" })));
-    if (p.variant === "product") return h("div", { class: "site-visual visual-product" },
-      h("div", { class: "product-light" }), h("div", { class: "product-lamp" }, h("span", { text: "FORM" })),
-      h("div", { class: "product-buy" }, h("small", { text: "FORM / 01" }), h("b", { text: "¥ 699" }), h("span", { text: "- 28%" })));
-    if (p.variant === "game") return h("div", { class: "site-visual visual-game" },
-      h("div", { class: "game-scan" }), h("div", { class: "game-character" }, h("span", { text: "R" })),
-      h("div", { class: "game-hud" }, h("small", { text: "RIN / LIGHTBLADE" }), h("b", { text: "LV. 27" }), h("span", { text: "READY TO DEPLOY" })));
-    if (p.variant === "portfolio") return h("div", { class: "site-visual visual-portfolio" },
-      h("div", { class: "portfolio-tile tile-a", text: "01" }), h("div", { class: "portfolio-tile tile-b", text: "02" }), h("div", { class: "portfolio-tile tile-c", text: "03" }),
-      h("span", { class: "portfolio-cursor", text: "VIEW" }));
-    return h("div", { class: "site-visual visual-dashboard" },
-      h("div", { class: "dash-chart" }, ...[35, 54, 45, 72, 63, 84, 76, 96].map((height, i) => h("i", { style: `height:${height}%`, "data-index": i }))),
-      h("div", { class: "dash-kpi" }, h("small", { text: "TODAY'S VOLUME" }), h("b", { text: "¥2.48m" }), h("span", { text: "↑ 12.4%" })));
-  }
-
-  function openVirtualSite(type) {
-    const p = type.preview || {};
-    let modal = $("#site-preview-modal");
-    let closeModal = () => {};
-    if (!modal) {
-      modal = h("div", { id: "site-preview-modal", class: "site-preview-modal", hidden: true },
-        h("div", { class: "site-preview-backdrop", onclick: () => closeModal() }),
-        h("div", { class: "site-preview-dialog", role: "dialog", "aria-modal": "true", "aria-label": "虚拟网站预览" }));
-      document.body.append(modal);
-    }
-    closeModal = () => { modal.hidden = true; document.body.classList.remove("site-preview-open"); };
-    const dialog = modal.querySelector(".site-preview-dialog");
-    const viewReference = () => {
-      closeModal(); el.search.value = ""; state.query = ""; state.tags = []; setCat("web-ui", true);
-      el.status.scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block: "center" });
-    };
-    const site = h("div", { class: "virtual-site", style: `--site-accent:${p.accent || "#a78bfa"};--site-accent-2:${p.accent2 || "#22d3ee"};` },
-      h("nav", { class: "virtual-nav" }, h("strong", { text: p.brand || type.title }), h("div", { class: "virtual-nav-links" }, h("span", { text: "WORK" }), h("span", { text: "ABOUT" }), h("span", { text: "CONTACT" })), h("span", { class: "virtual-menu", text: "☰" })),
-      h("section", { class: "virtual-hero" }, h("div", { class: "virtual-hero-copy" }, h("small", { class: "virtual-kicker", text: p.kicker }), h("h2", { text: p.headline }), h("p", { text: p.intro }), h("div", { class: "virtual-actions" }, h("button", { class: "virtual-primary", onclick: () => toast(`${p.primary} · 虚拟演示`) }, p.primary), h("button", { class: "virtual-secondary", onclick: () => toast(`${p.secondary} · 虚拟演示`) }, p.secondary))), virtualVisual(type)),
-      h("div", { class: "virtual-stats" }, ...(p.stats || []).map(([value, label]) => h("div", {}, h("b", { text: value }), h("span", { text: label })))),
-      h("section", { class: "virtual-features" }, h("div", { class: "virtual-section-label", text: "SELECTED SYSTEMS / 03" }), h("div", { class: "virtual-feature-grid" }, ...(p.cards || []).map((card, i) => h("article", {}, h("span", { text: `0${i + 1}` }), h("h3", { text: card }), h("p", { text: "Explore the detail →" }))))),
-      h("section", { class: "virtual-prompt" }, h("small", { text: "BUILD DIRECTION" }), h("p", { text: p.prompt || type.description }), h("button", { class: "virtual-reference", onclick: viewReference }, "查看对应作品参考 →")),
-      h("footer", { class: "virtual-footer" }, h("span", { text: `${p.brand || type.title} / VIRTUAL SITE` }), h("span", { text: "Designed in MINA" }))
-    );
-    dialog.replaceChildren(h("div", { class: "site-preview-toolbar" }, h("span", { class: "site-preview-lights", text: "● ● ●" }), h("span", { class: "site-preview-url", text: `mina.local/${type.id}` }), h("button", { class: "site-preview-close", type: "button", onclick: closeModal, "aria-label": "关闭预览" }, "×")), site);
-    modal.hidden = false;
-    document.body.classList.add("site-preview-open");
-    dialog.querySelector(".site-preview-close").focus({ preventScroll: true });
-  }
-
 
   /* ---------- helpers ---------- */
   function h(tag, attrs, ...kids) {
@@ -459,7 +385,6 @@
 
   /* ---------- boot ---------- */
   stars();
-  fetch("data/site-types.json", { cache: "no-cache" }).then((r) => r.ok ? r.json() : []).then(renderDirections).catch(() => {});
   fetch("data/works.json", { cache: "no-cache" })
     .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then((works) => {
