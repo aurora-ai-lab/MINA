@@ -1,4 +1,4 @@
-// Dependency-free WebGL hero. Content and CSS fallback remain usable without it.
+// Dependency-free canvas planet. The CSS planet remains visible if canvas is unavailable.
 const stage = document.querySelector('#hero-stage');
 const canvas = document.querySelector('#hero-canvas');
 const control = document.querySelector('#hero-motion');
@@ -8,6 +8,8 @@ let visible = true;
 let frame = 0;
 let elapsed = 0;
 let previous = 0;
+let pointerX = 0;
+let pointerY = 0;
 let render = () => {};
 
 function updateControl() {
@@ -29,6 +31,7 @@ function refresh() {
   previous = 0;
   frame = requestAnimationFrame(tick);
 }
+
 control.addEventListener('click', () => { paused = !paused; updateControl(); refresh(); });
 reduced.addEventListener('change', () => { paused = reduced.matches; updateControl(); refresh(); });
 document.addEventListener('visibilitychange', () => {
@@ -43,112 +46,113 @@ if ('IntersectionObserver' in window) new IntersectionObserver(([entry]) => {
 updateControl();
 
 try {
-  const gl = canvas.getContext('webgl', { alpha: true, antialias: true, powerPreference: 'low-power' });
-  if (!gl) throw new Error('WebGL unavailable');
-  function compile(type, source) {
-    const shader = gl.createShader(type);
-    gl.shaderSource(shader, source);
-    gl.compileShader(shader);
-    if (!gl.getShaderParameter(shader, gl.COMPILE_STATUS)) throw new Error('Hero shader compilation failed');
-    return shader;
+  const ctx = canvas.getContext('2d', { alpha: true });
+  if (!ctx) throw new Error('Canvas unavailable');
+
+  function resize() {
+    const dpr = Math.min(devicePixelRatio || 1, matchMedia('(max-width: 700px)').matches ? 1.5 : 2);
+    const width = Math.max(1, Math.round(canvas.clientWidth * dpr));
+    const height = Math.max(1, Math.round(canvas.clientHeight * dpr));
+    if (canvas.width !== width || canvas.height !== height) {
+      canvas.width = width;
+      canvas.height = height;
+    }
+    ctx.setTransform(dpr, 0, 0, dpr, 0, 0);
   }
-  const vertex = compile(gl.VERTEX_SHADER, `
-    attribute vec3 position;
-    uniform float time, aspect;
-    uniform vec2 pointer;
-    varying float depth;
-    void main() {
-      float a = time * .13 + pointer.x * .28;
-      float b = .32 + pointer.y * .18;
-      vec3 p = position;
-      p.xz = mat2(cos(a), -sin(a), sin(a), cos(a)) * p.xz;
-      p.yz = mat2(cos(b), -sin(b), sin(b), cos(b)) * p.yz;
-      float distance = 3.6 - p.z;
-      depth = clamp((p.z + 1.6) / 3.2, 0., 1.);
-      gl_Position = vec4(p.x * 2.3 / (distance * aspect), p.y * 2.3 / distance, 0., 1.);
-      gl_PointSize = 1.2 + depth * 2.;
-    }`);
-  const fragment = compile(gl.FRAGMENT_SHADER, `
-    precision mediump float;
-    varying float depth;
-    uniform float particles;
-    void main() {
-      float alpha = .17 + depth * .55;
-      if (particles > .5) {
-        float r = length(gl_PointCoord - vec2(.5));
-        alpha *= 1. - smoothstep(.15, .5, r);
-      }
-      vec3 color = mix(vec3(.61, .42, 1.), vec3(1., .72, .9), depth);
-      gl_FragColor = vec4(color, alpha);
-    }`);
-  const program = gl.createProgram();
-  gl.attachShader(program, vertex); gl.attachShader(program, fragment); gl.linkProgram(program);
-  if (!gl.getProgramParameter(program, gl.LINK_STATUS)) throw new Error('Hero shader link failed');
-  gl.useProgram(program);
-  const lines = [];
-  const segments = 160;
-  function point(angle, tilt, twist, radius) {
-    const x = Math.cos(angle) * radius;
-    const y = Math.sin(angle) * radius * Math.cos(tilt);
-    const z = Math.sin(angle) * radius * Math.sin(tilt);
-    return [x * Math.cos(twist) - y * Math.sin(twist), x * Math.sin(twist) + y * Math.cos(twist), z];
+
+  function blob(cx, cy, rx, ry, seed, fill, phase) {
+    ctx.beginPath();
+    for (let i = 0; i <= 20; i++) {
+      const angle = (i / 20) * Math.PI * 2;
+      const wave = 0.82 + 0.12 * Math.sin(angle * 3 + seed) + 0.07 * Math.sin(angle * 5 - seed * 1.7 + phase);
+      const x = cx + Math.cos(angle) * rx * wave;
+      const y = cy + Math.sin(angle) * ry * wave;
+      if (i === 0) ctx.moveTo(x, y); else ctx.lineTo(x, y);
+    }
+    ctx.closePath();
+    ctx.fillStyle = fill;
+    ctx.fill();
   }
-  for (let ring = 0; ring < 7; ring++) for (let i = 0; i < segments; i++) {
-    lines.push(...point(i / segments * Math.PI * 2, .35 + ring * .23, ring * .7, 1.05 + ring * .075));
-    lines.push(...point((i + 1) / segments * Math.PI * 2, .35 + ring * .23, ring * .7, 1.05 + ring * .075));
+
+  function render(time) {
+    resize();
+    const width = canvas.clientWidth;
+    const height = canvas.clientHeight;
+    ctx.clearRect(0, 0, width, height);
+    const size = Math.min(width, height);
+    const radius = size * 0.36;
+    const cx = width * 0.59 + pointerX * 11;
+    const cy = height * 0.5 + pointerY * 8;
+    const spin = time * 0.055;
+
+    const glow = ctx.createRadialGradient(cx, cy, radius * 0.55, cx, cy, radius * 1.5);
+    glow.addColorStop(0, 'rgba(166, 120, 255, .32)');
+    glow.addColorStop(.48, 'rgba(100, 69, 210, .13)');
+    glow.addColorStop(1, 'rgba(100, 69, 210, 0)');
+    ctx.fillStyle = glow;
+    ctx.beginPath(); ctx.arc(cx, cy, radius * 1.5, 0, Math.PI * 2); ctx.fill();
+
+    ctx.save();
+    ctx.beginPath(); ctx.arc(cx, cy, radius, 0, Math.PI * 2); ctx.clip();
+    const planet = ctx.createRadialGradient(cx - radius * .38, cy - radius * .42, radius * .05, cx, cy, radius * 1.18);
+    planet.addColorStop(0, '#f4c9ff');
+    planet.addColorStop(.18, '#ba8fe9');
+    planet.addColorStop(.52, '#6745b0');
+    planet.addColorStop(.83, '#30205f');
+    planet.addColorStop(1, '#100c2d');
+    ctx.fillStyle = planet;
+    ctx.fillRect(cx - radius, cy - radius, radius * 2, radius * 2);
+
+    // Slow, soft bands keep the surface visibly full while suggesting rotation.
+    ctx.globalAlpha = .22;
+    for (let i = 0; i < 7; i++) {
+      const y = cy - radius * .8 + i * radius * .27;
+      ctx.fillStyle = i % 2 ? '#f6d8ff' : '#2d1b64';
+      ctx.beginPath();
+      ctx.ellipse(cx + Math.sin(spin + i) * radius * .13, y, radius * .92, radius * (.08 + (i % 3) * .025), 0, 0, Math.PI * 2);
+      ctx.fill();
+    }
+
+    const drift = Math.sin(spin) * radius * .2;
+    ctx.globalAlpha = .38;
+    ctx.filter = 'blur(3px)';
+    blob(cx - radius * .33 + drift, cy - radius * .05, radius * .27, radius * .17, 1.1, '#d99cf2', spin);
+    blob(cx + radius * .29 + drift, cy + radius * .23, radius * .22, radius * .14, 2.8, '#34206f', spin);
+    blob(cx - radius * .08 + drift, cy + radius * .5, radius * .3, radius * .1, 4.3, '#8f69d0', spin);
+    ctx.filter = 'none';
+
+    ctx.globalAlpha = .24;
+    ctx.strokeStyle = '#fff1ff';
+    ctx.lineWidth = Math.max(2, radius * .025);
+    for (let i = 0; i < 5; i++) {
+      const y = cy - radius * .45 + i * radius * .2;
+      ctx.beginPath();
+      ctx.moveTo(cx - radius * .95, y);
+      ctx.bezierCurveTo(cx - radius * .35, y - radius * .13, cx + radius * .35, y + radius * .13, cx + radius * .95, y - radius * .02);
+      ctx.stroke();
+    }
+    ctx.restore();
+
+    const edge = ctx.createRadialGradient(cx - radius * .35, cy - radius * .4, radius * .68, cx, cy, radius * 1.05);
+    edge.addColorStop(0, 'rgba(255,255,255,0)');
+    edge.addColorStop(.82, 'rgba(255,255,255,0)');
+    edge.addColorStop(1, 'rgba(208,173,255,.8)');
+    ctx.fillStyle = edge;
+    ctx.beginPath(); ctx.arc(cx, cy, radius * 1.015, 0, Math.PI * 2); ctx.fill();
   }
-  const points = [];
-  const particleCount = matchMedia('(max-width: 700px)').matches ? 250 : 700;
-  for (let i = 0; i < particleCount; i++) {
-    const azimuth = Math.random() * Math.PI * 2;
-    const height = Math.random() * 2 - 1;
-    const radius = 1.25 + Math.random() * .42;
-    const width = Math.sqrt(1 - height * height);
-    points.push(Math.cos(azimuth) * width * radius, height * radius, Math.sin(azimuth) * width * radius);
-  }
-  function buffer(data) {
-    const result = gl.createBuffer(); gl.bindBuffer(gl.ARRAY_BUFFER, result);
-    gl.bufferData(gl.ARRAY_BUFFER, new Float32Array(data), gl.STATIC_DRAW); return result;
-  }
-  const lineBuffer = buffer(lines), pointBuffer = buffer(points);
-  const position = gl.getAttribLocation(program, 'position');
-  const uniforms = Object.fromEntries(['time','aspect','pointer','particles'].map(name => [name, gl.getUniformLocation(program, name)]));
-  const pointer = [0, 0];
+
   stage.addEventListener('pointermove', event => {
     if (paused || reduced.matches || event.pointerType !== 'mouse') return;
     const bounds = stage.getBoundingClientRect();
-    pointer[0] = (event.clientX - bounds.left) / bounds.width * 2 - 1;
-    pointer[1] = (event.clientY - bounds.top) / bounds.height * 2 - 1;
+    pointerX = (event.clientX - bounds.left) / bounds.width * 2 - 1;
+    pointerY = (event.clientY - bounds.top) / bounds.height * 2 - 1;
   }, { passive: true });
-  stage.addEventListener('pointerleave', () => { pointer[0] = pointer[1] = 0; });
-  gl.enable(gl.BLEND); gl.blendFunc(gl.SRC_ALPHA, gl.ONE);
-  gl.enableVertexAttribArray(position);
-  function resize() {
-    const dpr = Math.min(devicePixelRatio || 1, matchMedia('(max-width: 700px)').matches ? 1.25 : 1.5);
-    const width = Math.max(1, Math.round(canvas.clientWidth * dpr));
-    const height = Math.max(1, Math.round(canvas.clientHeight * dpr));
-    if (canvas.width !== width || canvas.height !== height) { canvas.width = width; canvas.height = height; }
-    gl.viewport(0, 0, width, height);
-    gl.uniform1f(uniforms.aspect, width / height);
-  }
-  render = time => {
-    resize(); gl.clear(gl.COLOR_BUFFER_BIT);
-    gl.uniform1f(uniforms.time, time); gl.uniform2fv(uniforms.pointer, pointer);
-    gl.uniform1f(uniforms.particles, 0);
-    gl.bindBuffer(gl.ARRAY_BUFFER, lineBuffer); gl.vertexAttribPointer(position, 3, gl.FLOAT, false, 0, 0);
-    gl.drawArrays(gl.LINES, 0, lines.length / 3);
-    gl.uniform1f(uniforms.particles, 1);
-    gl.bindBuffer(gl.ARRAY_BUFFER, pointBuffer); gl.vertexAttribPointer(position, 3, gl.FLOAT, false, 0, 0);
-    gl.drawArrays(gl.POINTS, 0, points.length / 3);
-  };
-  canvas.addEventListener('webglcontextlost', event => {
-    event.preventDefault(); cancelAnimationFrame(frame); render = () => {};
-    stage.classList.remove('hero-webgl');
-  });
+  stage.addEventListener('pointerleave', () => { pointerX = pointerY = 0; });
   addEventListener('resize', refresh, { passive: true });
-  render(0); stage.classList.add('hero-webgl'); refresh();
+  render(0);
+  stage.classList.add('hero-planet-ready');
+  refresh();
 } catch (error) {
-  // The CSS scene and DOM copy stay visible if graphics setup fails.
-  stage.classList.remove('hero-webgl');
-  console.info('Coolcat hero: CSS fallback', error.message);
+  // The CSS planet and DOM copy stay visible if canvas setup fails.
+  console.info('Coolcat hero: CSS planet fallback', error.message);
 }
