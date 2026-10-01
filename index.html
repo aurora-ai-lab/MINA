@@ -1,139 +1,31 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="zh-CN">
 <head>
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
-  <title>Coolcat · AI 艺术作品与提示词</title>
-  <meta name="description" content="Coolcat（@minaoneday）的 AI 艺术作品集：每一张图都附带完整提示词。AI art & prompts.">
+  <title>AI 绘画作品集与完整提示词 · Coolcat</title>
+  <meta name="description" content="Coolcat by @minaoneday：219 件 AI 绘画作品，每一张都附完整提示词。浏览综合作品、人像和视觉系 UI。">
   <meta name="theme-color" content="#07050d">
-  <meta property="og:title" content="Coolcat · AI 艺术作品与提示词">
-  <meta property="og:description" content="AI art & prompts by @minaoneday">
+  <meta property="og:title" content="AI 绘画作品集与完整提示词 · Coolcat">
+  <meta property="og:description" content="219 件 AI 作品，每一张都附完整提示词。">
   <meta property="og:type" content="website">
+  <link rel="canonical" href="https://aurora-ai-lab.github.io/MINA/">
   <link rel="icon" href="assets/favicon.svg" type="image/svg+xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=JetBrains+Mono:wght@400;500&family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600&family=Noto+Sans+SC:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/style.css">
 </head>
-  <body class="retro-ui">
-  <canvas id="stars" aria-hidden="true"></canvas>
-  <div class="nebula" aria-hidden="true"></div>
-
-  <header class="site-header">
-    <div class="header-inner">
-      <a class="brand" href="./" aria-label="Coolcat 首页">
-        <span class="wordmark">Coolcat</span>
-        <span class="brand-sub">
-          <span class="tagline">AI 艺术作品与提示词</span>
-          <span class="tagline-en">ONLINE SINCE 1999</span>
-        </span>
-      </a>
-      <nav class="retro-nav" aria-label="复古站点导航">
-        <a href="#grid">HOME</a>
-        <a href="#grid">GALLERY</a>
-        <a href="#search">PROMPTS</a>
-        <a href="#grid">LINKS</a>
-      </nav>
-      <a class="x-link" href="https://x.com/minaoneday" target="_blank" rel="noopener">
-        <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
-        <span>@minaoneday</span>
-      </a>
-    </div>
-  </header>
-
-  <section class="hero-stage" id="hero-stage" aria-labelledby="hero-title">
-    <canvas id="hero-canvas" aria-hidden="true"></canvas>
-    <div class="hero-planet" aria-hidden="true"></div>
-    <div class="retro-collage" aria-hidden="true">
-      <div class="retro-window retro-window-main">
-        <div class="retro-titlebar"><span>COOLCAT.EXE</span><b>_ □ ×</b></div>
-        <div class="retro-window-body">
-          <div class="retro-pixel-globe">✦</div>
-          <div class="retro-readout"><strong>NOW ONLINE</strong><span>VISITOR 000042</span><span>MOOD: ELECTRIC</span></div>
-        </div>
-        <div class="retro-status">loading imagination... <span>███████░░░</span></div>
-      </div>
-      <div class="retro-window retro-window-mini">
-        <div class="retro-titlebar"><span>LINKS.TXT</span><b>×</b></div>
-        <div class="retro-mini-list"><span>★ AI ART</span><span>★ PIXEL DREAMS</span><span>★ COOL LINKS</span></div>
-      </div>
-      <span class="retro-sticker retro-sticker-y2k">Y2K!</span>
-      <span class="retro-sticker retro-sticker-hot">HOT!!</span>
-      <span class="retro-badge">BEST VIEWED<br>IN FULL COLOR</span>
-    </div>
-    <div class="hero-copy">
-      <span class="eyebrow">COOLCAT WEB RING / 1999</span>
-      <h1 id="hero-title">欢迎来到<br><em>Coolcat 网络世界</em></h1>
-      <p>AI 艺术、提示词和一些正在发光的互联网碎片。</p>
-      <div class="hero-actions">
-        <a class="hero-primary" href="#grid">进入画廊 <span>↓</span></a>
-        <a class="hero-secondary" href="#grid">随机浏览</a>
-      </div>
-    </div>
-    <button class="hero-motion" id="hero-motion" type="button" aria-pressed="false">暂停动效</button>
-  </section>
-
-  <section class="toolbar" aria-label="分类、搜索与筛选">
-    <nav id="cats" class="cats" role="tablist" aria-label="作品分类">
-      <button class="cat" role="tab" data-cat="general" aria-selected="true">综合作品<small></small></button>
-      <button class="cat" role="tab" data-cat="women" aria-selected="false">女性人像<small></small></button>
-      <button class="cat" role="tab" data-cat="web-ui" aria-selected="false">视觉系 UI<small></small></button>
-    </nav>
-    <div class="search-wrap">
-      <svg class="search-icon" viewBox="0 0 24 24" width="18" height="18" aria-hidden="true"><path fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" d="M11 19a8 8 0 1 1 0-16 8 8 0 0 1 0 16zm10 2-4.35-4.35"/></svg>
-      <input id="search" type="search" placeholder="搜索标题、提示词或标签…" autocomplete="off" aria-label="搜索作品">
-    </div>
-    <button id="filter-toggle" class="filter-toggle" type="button" aria-expanded="false" aria-controls="filter-panel">
-      <span class="filter-glyph" aria-hidden="true">☷</span>筛选<span id="filter-count" class="filter-count" hidden>0</span>
-    </button>
-    <div id="selected-tags" class="selected-tags" role="toolbar" aria-label="已选标签"></div>
-    <div id="filter-panel" class="filter-panel" hidden>
-      <div class="filter-panel-head">
-        <div><strong>筛选作品</strong><span>同组标签为「或」，不同组之间为「且」</span></div>
-        <button id="filter-close" class="filter-close" type="button" aria-label="关闭筛选">✕</button>
-      </div>
-      <label class="filter-search"><span aria-hidden="true">⌕</span><input id="tag-search" type="search" placeholder="搜索标签…" autocomplete="off" aria-label="搜索标签"></label>
-      <div id="tag-groups" class="tag-groups"></div>
-    </div>
-  </section>
-
+<body>
+  <header class="site-header"><div class="header-inner"><a class="brand" href="./" aria-label="Coolcat 首页"><span class="wordmark">Coolcat</span><span class="brand-note">AI ART / PROMPTS</span></a><nav class="site-nav" aria-label="主要导航"><a href="gallery/">作品</a><a href="gallery/portrait/">人像</a><a href="gallery/ui/">UI</a><a href="about/">关于</a></nav><a class="x-link" href="https://x.com/minaoneday" target="_blank" rel="noopener">@minaoneday <span aria-hidden="true">↗</span></a></div></header>
   <main>
-    <p id="status" class="status" aria-live="polite"></p>
-    <div id="grid" class="grid"></div>
+    <section class="hero" aria-labelledby="hero-title"><div class="hero-copy"><p class="eyebrow">COOLCAT / AI ART ARCHIVE</p><h1 id="hero-title">每一张 AI 作品，<br><em>都附完整提示词</em></h1><p class="hero-lede">219 件作品 · 持续更新 · by @minaoneday</p><div class="hero-actions"><a class="button button-primary" href="#grid">浏览全部作品 <span>↓</span></a><button class="button button-secondary" id="random-work" type="button">随机看一张</button></div></div><div id="featured-collage" class="featured-collage" aria-label="精选作品"></div></section>
+    <section class="gallery-section" id="grid-section" aria-labelledby="gallery-title"><div class="section-heading"><div><p class="eyebrow">01 / GALLERY</p><h2 id="gallery-title">浏览作品</h2></div><p class="section-note">打开任意作品查看提示词、标签和生成信息。</p></div>
+      <section class="toolbar" aria-label="分类、搜索与筛选"><nav id="cats" class="cats" role="tablist" aria-label="作品分类"><button class="cat" role="tab" data-cat="all" aria-selected="true">全部作品<small></small></button><button class="cat" role="tab" data-cat="general" aria-selected="false">综合作品<small></small></button><button class="cat" role="tab" data-cat="portrait" aria-selected="false">人像<small></small></button><button class="cat" role="tab" data-cat="web-ui" aria-selected="false">视觉系 UI<small></small></button></nav><label class="sort-wrap">排序<select id="sort" aria-label="作品排序"><option value="latest">最新</option><option value="random">随机</option></select></label><label class="search-wrap"><span class="search-icon" aria-hidden="true">⌕</span><input id="search" type="search" placeholder="搜索标题、提示词或标签…" autocomplete="off" aria-label="搜索作品"></label><button id="filter-toggle" class="filter-toggle" type="button" aria-expanded="false" aria-controls="filter-panel">筛选 <span id="filter-count" class="filter-count" hidden>0</span></button><div id="selected-tags" class="selected-tags" role="toolbar" aria-label="已选标签"></div><div id="filter-panel" class="filter-panel" hidden><div class="filter-panel-head"><div><strong>筛选作品</strong><span>同组标签为“或”，不同组之间为“且”</span></div><button id="filter-close" class="filter-close" type="button" aria-label="关闭筛选">×</button></div><label class="filter-search"><span aria-hidden="true">⌕</span><input id="tag-search" type="search" placeholder="搜索标签…" autocomplete="off" aria-label="搜索标签"></label><div id="tag-groups" class="tag-groups"></div></div></section>
+      <p id="status" class="status" aria-live="polite"></p><div id="grid" class="grid"></div><div id="load-more-wrap" class="load-more-wrap" hidden><button id="load-more" class="button button-secondary" type="button">加载更多作品</button></div>
+    </section>
   </main>
-
-  <footer class="site-footer">
-    <p>© <span id="year"></span> Coolcat · 作品与提示词仅供学习交流 · <a href="https://x.com/minaoneday" target="_blank" rel="noopener">关注 @minaoneday</a></p>
-  </footer>
-
-  <div id="modal" class="modal" role="dialog" aria-modal="true" aria-labelledby="m-title" hidden>
-    <div class="modal-backdrop" data-close></div>
-    <div class="modal-panel">
-      <button class="icon-btn modal-close" data-close aria-label="关闭 (Esc)">✕</button>
-      <button class="icon-btn nav-btn nav-prev" id="prev" aria-label="上一张 (←)">‹</button>
-      <button class="icon-btn nav-btn nav-next" id="next" aria-label="下一张 (→)">›</button>
-      <div class="modal-media" id="m-media"></div>
-      <aside class="modal-info">
-        <h2 id="m-title"></h2>
-        <div class="meta" id="m-meta"></div>
-        <div class="m-tags" id="m-tags"></div>
-        <div class="prompt-block">
-          <div class="prompt-head">
-            <span>提示词 Prompt</span>
-            <button class="copy-btn" id="copy">复制提示词</button>
-          </div>
-          <pre id="m-prompt"></pre>
-        </div>
-        <div id="m-extra"></div>
-        <div class="modal-actions">
-          <button class="ghost-btn" id="share">复制作品链接</button>
-        </div>
-      </aside>
-    </div>
-  </div>
-
-  <div id="toast" class="toast" role="status" aria-live="polite"></div>
-  <script src="assets/app.js"></script>
-  <script type="module" src="assets/hero/scene.js"></script>
-</body>
-</html>
+  <footer class="site-footer"><div><strong>Coolcat</strong><span>AI art archive by <a href="https://x.com/minaoneday" target="_blank" rel="noopener">@minaoneday</a></span></div><nav aria-label="页脚导航"><a href="gallery/">作品</a><a href="about/">说明</a><a href="https://x.com/minaoneday" target="_blank" rel="noopener">X ↗</a></nav><p>© <span id="year"></span> Coolcat · 每一张都附完整提示词</p></footer>
+  <div id="modal" class="modal" role="dialog" aria-modal="true" aria-labelledby="m-title" hidden><div class="modal-backdrop" data-close></div><div class="modal-panel"><button class="icon-btn modal-close" data-close aria-label="关闭 (Esc)">×</button><button class="icon-btn nav-btn nav-prev" id="prev" aria-label="上一张 (←)">‹</button><button class="icon-btn nav-btn nav-next" id="next" aria-label="下一张 (→)">›</button><div class="modal-media" id="m-media"></div><aside class="modal-info"><p class="eyebrow">WORK / PROMPT DECODE</p><h2 id="m-title"></h2><div class="meta" id="m-meta"></div><div class="m-tags" id="m-tags"></div><div class="prompt-block"><div class="prompt-head"><span>提示词 Prompt</span><button class="copy-btn" id="copy">复制提示词</button></div><div id="m-sections" class="prompt-sections"></div><pre id="m-prompt"></pre></div><div id="m-extra"></div><div class="modal-actions"><a class="ghost-btn" id="detail-link" href="#">打开独立详情页</a><button class="ghost-btn" id="share">复制作品链接</button></div></aside></div></div>
+  <div id="toast" class="toast" role="status" aria-live="polite"></div><script src="assets/app.js"></script>
+</body></html>
