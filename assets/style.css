@@ -75,8 +75,8 @@ button { font: inherit; color: inherit; cursor: pointer; }
 .hero-planet { position: absolute; z-index: 1; left: 77%; top: 50%; width: clamp(250px, 32vw, 410px); aspect-ratio: 1; pointer-events: none; transform: translate3d(calc(-50% + var(--mx)), calc(-50% + var(--my)), 0); border-radius: 50%; background: radial-gradient(circle at 32% 27%, #f4c9ff 0%, #b98ce9 18%, #6745b0 53%, #2b1b58 82%, #100c2d 100%); box-shadow: 0 0 22px rgba(181, 137, 255, .55), 0 0 85px rgba(100, 69, 210, .35), inset -28px -24px 48px rgba(7, 4, 24, .58), inset 16px 10px 28px rgba(255, 225, 255, .28); transition: opacity .35s ease; }
 .hero-planet::before { content: ""; position: absolute; inset: 7% 9% 13% 8%; border-radius: 50%; background: repeating-linear-gradient(166deg, transparent 0 19px, rgba(255, 230, 255, .12) 20px 27px, transparent 28px 48px); filter: blur(4px); mix-blend-mode: screen; opacity: .72; }
 .hero-planet::after { content: ""; position: absolute; inset: -7%; border-radius: 50%; border: 1px solid rgba(225, 194, 255, .5); box-shadow: 0 0 16px rgba(213, 176, 255, .35); opacity: .68; }
-.hero-planet-ready .hero-planet { opacity: 0; }
-#hero-canvas { position: absolute; z-index: 2; width: 50%; height: 100%; right: 0; top: 0; pointer-events: none; }
+.hero-planet-ready .hero-planet { opacity: .2; }
+#hero-canvas { position: absolute; z-index: 2; width: 50%; height: 100%; right: 0; top: 0; pointer-events: auto; touch-action: pan-y; }
 .hero-motion { position: absolute; bottom: 20px; right: 24px; z-index: 4; border: 1px solid var(--line); background: var(--bg-2); color: var(--muted); border-radius: 999px; font-size: 12px; padding: 7px 13px; }
 .hero-actions a:focus-visible, .hero-motion:focus-visible, .direction-action:focus-visible { outline: 2px solid var(--pink); outline-offset: 4px; }
 @media (max-width: 700px) { .hero-stage { min-height: 630px; padding: 305px 20px 70px; } .hero-copy { width: 100%; text-align: center; } .hero-copy h1 { font-size: 43px; } .hero-copy p { font-size: 13px; margin: 0 auto; } .hero-actions { justify-content: center; } #hero-canvas { width: 100%; height: 300px; } .hero-planet { left: 50%; top: 150px; width: 235px; } }
