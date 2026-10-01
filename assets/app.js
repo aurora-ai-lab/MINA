@@ -8,6 +8,7 @@
   const CATS = { general: "综合作品", women: "女性人像", "web-ui": "视觉系 UI" };
   const DEFAULT_CAT = "general";
   const state = { works: [], filtered: [], query: "", tags: [], cat: DEFAULT_CAT, current: -1, lastFocus: null };
+  const directionGrid = $("#direction-grid");
   const catWorks = () => state.works.filter((w) => w.category === state.cat);
   const el = {
     grid: $("#grid"), selectedTags: $("#selected-tags"), tagGroups: $("#tag-groups"), tagSearch: $("#tag-search"),
@@ -18,6 +19,30 @@
     share: $("#share"), prev: $("#prev"), next: $("#next"), toast: $("#toast"),
   };
   $("#year").textContent = new Date().getFullYear();
+
+  function renderDirections(types) {
+    if (!directionGrid || !Array.isArray(types)) return;
+    directionGrid.replaceChildren(...types.map((type) => h("article", { class: "direction-card", role: "listitem" },
+      h("div", { class: "direction-icon", "aria-hidden": "true", text: type.icon }),
+      h("div", { class: "direction-card-body" },
+        h("h2", { text: type.title }),
+        h("p", { text: type.description }),
+        h("span", { class: "direction-resources", text: type.resources })
+      ),
+      h("button", { class: "direction-action", type: "button", "aria-label": `查看${type.title}方案`, onclick: () => {
+        const detail = $("#direction-detail");
+        detail.replaceChildren(h("h3", { text: type.title }), h("p", { text: type.description }),
+          h("p", { text: `开发资源参考：${type.resources}` }),
+          h("p", { text: "先查看现有 UI 视觉参考；对应的互动网站演示将分阶段补充。" }),
+          h("button", { class: "ghost-btn", type: "button", onclick: () => {
+            el.search.value = ""; state.query = ""; state.tags = []; setCat("web-ui", true);
+            el.status.scrollIntoView({ behavior: matchMedia("(prefers-reduced-motion: reduce)").matches ? "auto" : "smooth", block: "center" });
+          } }, "查看 UI 视觉参考"));
+        detail.hidden = false;
+      } }, "查看方案 →")
+    )));
+  }
+
 
   /* ---------- helpers ---------- */
   function h(tag, attrs, ...kids) {
@@ -65,6 +90,7 @@
   function stars() {
     const c = $("#stars"), ctx = c.getContext("2d");
     const reduce = matchMedia("(prefers-reduced-motion: reduce)").matches;
+    let paused = reduce, frame = 0;
     let pts = [], w, hgt, dpr;
     function setup() {
       dpr = Math.min(window.devicePixelRatio || 1, 2);
@@ -80,15 +106,21 @@
     function draw(t) {
       ctx.clearRect(0, 0, w, hgt);
       for (const s of pts) {
-        const tw = reduce ? 1 : 0.6 + 0.4 * Math.sin(s.p + t * s.s * 0.06);
+        const tw = paused ? 1 : 0.6 + 0.4 * Math.sin(s.p + t * s.s * 0.06);
         ctx.globalAlpha = s.a * tw;
         ctx.fillStyle = s.pink ? "#ffc8ee" : "#ece4ff";
         ctx.beginPath(); ctx.arc(s.x, s.y, s.r, 0, 6.283); ctx.fill();
       }
-      if (!reduce) requestAnimationFrame(draw);
+      if (!paused && !document.hidden) frame = requestAnimationFrame(draw);
     }
-    setup(); requestAnimationFrame(draw);
-    let rt; addEventListener("resize", () => { clearTimeout(rt); rt = setTimeout(() => { setup(); if (reduce) draw(0); }, 150); });
+    setup(); frame = requestAnimationFrame(draw);
+    document.addEventListener("coolcat-motion", (event) => {
+      paused = event.detail.paused; cancelAnimationFrame(frame); frame = requestAnimationFrame(draw);
+    });
+    document.addEventListener("visibilitychange", () => {
+      cancelAnimationFrame(frame); if (!document.hidden) frame = requestAnimationFrame(draw);
+    });
+    let rt; addEventListener("resize", () => { clearTimeout(rt); rt = setTimeout(() => { setup(); if (paused) draw(0); }, 150); });
   }
 
   /* ---------- filtering ---------- */
@@ -378,6 +410,7 @@
 
   /* ---------- boot ---------- */
   stars();
+  fetch("data/site-types.json", { cache: "no-cache" }).then((r) => r.ok ? r.json() : []).then(renderDirections).catch(() => {});
   fetch("data/works.json", { cache: "no-cache" })
     .then((r) => { if (!r.ok) throw new Error(r.status); return r.json(); })
     .then((works) => {

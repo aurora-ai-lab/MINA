@@ -1,0 +1,10 @@
+[
+  {"id":"ai-tech","icon":"✦","title":"AI / 科技产品","description":"AI 工具、SaaS、智能硬件与未来科技品牌。","resources":"Aceternity UI · React Bits"},
+  {"id":"3d-creative","icon":"◈","title":"3D 创意展示","description":"数字艺术、空间计算、视觉实验与沉浸式作品。","resources":"Motion Sites · Anime.js"},
+  {"id":"brand-luxury","icon":"◇","title":"品牌与高端官网","description":"美妆、时装、珠宝与生活方式品牌。","resources":"Aceternity UI · Motion Sites"},
+  {"id":"interactive-story","icon":"✧","title":"互动故事体验","description":"叙事网页、艺术实验与滚动交互体验。","resources":"Anime.js · Motion Sites"},
+  {"id":"ecommerce","icon":"▱","title":"电商与产品页","description":"产品发布、商品展示和营销落地页。","resources":"Uiverse · React Bits"},
+  {"id":"game-entertainment","icon":"⚡","title":"游戏与娱乐","description":"游戏官网、角色展示和活动体验页。","resources":"Anime.js · React Bits"},
+  {"id":"portfolio","icon":"◎","title":"作品集与创作者","description":"摄影师、设计师、AI 创作者和个人品牌。","resources":"Motion Sites · Uiverse"},
+  {"id":"dashboard","icon":"▦","title":"Dashboard / SaaS","description":"数据后台、管理系统与量化终端。","resources":"React Bits · Uiverse"}
+]
