@@ -1,6 +1,6 @@
 # Coolcat · AI 艺术作品与提示词
 
-Coolcat（X：[@aicoolcat](https://x.com/aicoolcat)）的 AI 作品画廊。纯静态网站（HTML + CSS + 原生 JS，无需构建），点击任意作品即可查看完整提示词并一键复制。
+Coolcat（X：[@minaoneday](https://x.com/minaoneday)）的 AI 作品画廊。纯静态网站（HTML + CSS + 原生 JS，无需构建），点击任意作品即可查看完整提示词并一键复制。
 
 ## 目录结构
 

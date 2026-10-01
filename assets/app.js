@@ -232,7 +232,7 @@
             h("h3", { text: `「${label}」更多作品即将上线` }),
             h("p", { text: "这个分类的作品正在创作中，敬请期待。" }),
             h("p", { text: "Coming soon — stay tuned." }),
-            h("a", { href: "https://x.com/aicoolcat", target: "_blank", rel: "noopener" }, "在 X 上关注 @aicoolcat →")));
+            h("a", { href: "https://x.com/minaoneday", target: "_blank", rel: "noopener" }, "在 X 上关注 @minaoneday →")));
       el.grid.style.columns = "auto";
       return;
     }
@@ -244,7 +244,7 @@
         h("h3", { text: "更多作品即将上线" }),
         h("p", { text: "新的 AI 作品与提示词会持续更新到这里。" }),
         h("p", { text: "More AI art & prompts coming soon." }),
-        h("a", { href: "https://x.com/aicoolcat", target: "_blank", rel: "noopener" }, "在 X 上关注 @aicoolcat →")));
+        h("a", { href: "https://x.com/minaoneday", target: "_blank", rel: "noopener" }, "在 X 上关注 @minaoneday →")));
     }
     el.grid.replaceChildren(...nodes);
   }
@@ -287,7 +287,7 @@
       row("模型 / 工具", w.model || "未注明"),
       row("分类", CATS[w.category] || w.category),
       row("来源", w.source),
-      row("作者", "Coolcat · @aicoolcat"),
+      row("作者", "Coolcat · @minaoneday"),
     ].filter(Boolean));
     el.mtags.replaceChildren(...(w.tags || []).map((t) =>
       h("button", { class: "chip", onclick: () => { closeModal(); setTag(t); } }, "#" + t)));
