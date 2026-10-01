@@ -4,7 +4,7 @@ const canvas = document.querySelector('#hero-canvas');
 const control = document.querySelector('#hero-motion');
 const reduced = matchMedia('(prefers-reduced-motion: reduce)');
 const savedPause = (() => { try { return localStorage.getItem('mina-hero-paused') === 'true'; } catch { return false; } })();
-let paused = savedPause || reduced.matches;
+let paused = savedPause || reduced.matches || document.body.classList.contains('retro-ui');
 let visible = true;
 let frame = 0;
 let previous = 0;

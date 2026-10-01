@@ -15,7 +15,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Great+Vibes&family=JetBrains+Mono:wght@400;500&family=Noto+Sans+SC:wght@300;400;500;700&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="assets/style.css">
 </head>
-<body>
+  <body class="retro-ui">
   <canvas id="stars" aria-hidden="true"></canvas>
   <div class="nebula" aria-hidden="true"></div>
 
@@ -25,9 +25,15 @@
         <span class="wordmark">Coolcat</span>
         <span class="brand-sub">
           <span class="tagline">AI 艺术作品与提示词</span>
-          <span class="tagline-en">AI art &amp; prompts</span>
+          <span class="tagline-en">ONLINE SINCE 1999</span>
         </span>
       </a>
+      <nav class="retro-nav" aria-label="复古站点导航">
+        <a href="#grid">HOME</a>
+        <a href="#grid">GALLERY</a>
+        <a href="#search">PROMPTS</a>
+        <a href="#grid">LINKS</a>
+      </nav>
       <a class="x-link" href="https://x.com/aicoolcat" target="_blank" rel="noopener">
         <svg viewBox="0 0 24 24" width="16" height="16" aria-hidden="true"><path fill="currentColor" d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
         <span>@aicoolcat</span>
@@ -38,13 +44,30 @@
   <section class="hero-stage" id="hero-stage" aria-labelledby="hero-title">
     <canvas id="hero-canvas" aria-hidden="true"></canvas>
     <div class="hero-planet" aria-hidden="true"></div>
+    <div class="retro-collage" aria-hidden="true">
+      <div class="retro-window retro-window-main">
+        <div class="retro-titlebar"><span>COOLCAT.EXE</span><b>_ □ ×</b></div>
+        <div class="retro-window-body">
+          <div class="retro-pixel-globe">✦</div>
+          <div class="retro-readout"><strong>NOW ONLINE</strong><span>VISITOR 000042</span><span>MOOD: ELECTRIC</span></div>
+        </div>
+        <div class="retro-status">loading imagination... <span>███████░░░</span></div>
+      </div>
+      <div class="retro-window retro-window-mini">
+        <div class="retro-titlebar"><span>LINKS.TXT</span><b>×</b></div>
+        <div class="retro-mini-list"><span>★ AI ART</span><span>★ PIXEL DREAMS</span><span>★ COOL LINKS</span></div>
+      </div>
+      <span class="retro-sticker retro-sticker-y2k">Y2K!</span>
+      <span class="retro-sticker retro-sticker-hot">HOT!!</span>
+      <span class="retro-badge">BEST VIEWED<br>IN FULL COLOR</span>
+    </div>
     <div class="hero-copy">
-      <span class="eyebrow">COOLCAT / DIGITAL EXPERIENCE</span>
-      <h1 id="hero-title">把想法变成一个<br><em>会动的世界</em></h1>
-      <p>探索视觉作品、动效系统与 AI 构建提示词。</p>
+      <span class="eyebrow">COOLCAT WEB RING / 1999</span>
+      <h1 id="hero-title">欢迎来到<br><em>Coolcat 网络世界</em></h1>
+      <p>AI 艺术、提示词和一些正在发光的互联网碎片。</p>
       <div class="hero-actions">
-        <a class="hero-primary" href="#grid">进入作品库 <span>↓</span></a>
-        <a class="hero-secondary" href="#grid">浏览作品</a>
+        <a class="hero-primary" href="#grid">进入画廊 <span>↓</span></a>
+        <a class="hero-secondary" href="#grid">随机浏览</a>
       </div>
     </div>
     <button class="hero-motion" id="hero-motion" type="button" aria-pressed="false">暂停动效</button>

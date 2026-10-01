@@ -318,3 +318,92 @@ main { max-width: 1240px; margin: 0 auto; padding: 22px 24px 40px; }
   *, *::before, *::after { animation: none !important; transition: none !important; }
 }
 .soon-empty { max-width: 560px; margin: 30px auto; align-items: center; text-align: center; min-height: 260px; }
+
+/* ---------- nostalgic 1990s personal web skin ---------- */
+body.retro-ui {
+  --retro-blue: #07328f; --retro-cobalt: #0b2476; --retro-ink: #00134d; --retro-yellow: #fff200;
+  --retro-pink: #ff4db8; --retro-mint: #5dffd0; --retro-white: #f7f7ff; --retro-gray: #c5c7d2;
+  position: relative; color: var(--retro-white); background: #061a62;
+  font-family: "MS Sans Serif", "Tahoma", "Microsoft YaHei", sans-serif; image-rendering: pixelated;
+}
+body.retro-ui::before { content: ""; position: fixed; inset: 0; z-index: -3; pointer-events: none; background: repeating-conic-gradient(from 0deg at 10px 10px, rgba(255,255,255,.045) 0 25%, transparent 0 50%) 0 0 / 20px 20px, linear-gradient(180deg, #0a3ba4, #05184f 80%); }
+body.retro-ui::after { content: ""; position: fixed; inset: 0; z-index: 20; pointer-events: none; opacity: .13; background: repeating-linear-gradient(0deg, transparent 0 3px, #03164d 4px 5px); mix-blend-mode: multiply; }
+body.retro-ui #stars, body.retro-ui .nebula { display: none; }
+body.retro-ui a { color: inherit; }
+body.retro-ui button, body.retro-ui input { font-family: "MS Sans Serif", "Tahoma", "Microsoft YaHei", sans-serif; }
+
+body.retro-ui .site-header { padding: 14px 16px 8px; }
+body.retro-ui .header-inner { max-width: 1180px; padding: 8px 10px; border: 3px outset #e9ecff; background: var(--retro-gray); color: var(--retro-ink); box-shadow: 5px 5px 0 #00134d; }
+body.retro-ui .brand { gap: 12px; }
+body.retro-ui .wordmark { padding: 0; color: var(--retro-ink); background: none; filter: none; font-family: "Arial Black", Impact, sans-serif; font-size: clamp(30px, 5vw, 48px); letter-spacing: -.08em; text-shadow: 2px 2px 0 #fff; }
+body.retro-ui .brand-sub { border-left: 2px inset #fff; padding-left: 10px; }
+body.retro-ui .tagline { font-size: 12px; font-weight: 700; letter-spacing: .04em; }
+body.retro-ui .tagline-en { color: #15429c; font-size: 9px; letter-spacing: .18em; }
+body.retro-ui .retro-nav { display: flex; align-items: center; gap: 5px; margin-left: auto; }
+body.retro-ui .retro-nav a { padding: 5px 8px; color: #fff; background: #1547ba; border: 2px outset #83aaff; font: 700 10px/1 "Courier New", monospace; text-decoration: none; }
+body.retro-ui .retro-nav a:nth-child(2) { background: #d61c83; }
+body.retro-ui .retro-nav a:nth-child(3) { background: #16886f; }
+body.retro-ui .retro-nav a:nth-child(4) { background: #7046c4; }
+body.retro-ui .retro-nav a:hover { color: var(--retro-yellow); filter: saturate(1.35); }
+body.retro-ui .x-link { padding: 6px 9px; border: 2px outset #fff; border-radius: 0; color: #fff; background: #001c77; font: 700 11px "Courier New", monospace; }
+body.retro-ui .x-link:hover { color: var(--retro-yellow); background: #d61c83; border-color: #fff; }
+
+body.retro-ui .hero-stage { max-width: 1180px; min-height: 520px; margin: 12px auto 18px; padding: 42px 40px; border: 4px outset #b5c9ff; background: linear-gradient(135deg, #0a3aa4 0%, #092671 55%, #24105c 100%); box-shadow: 7px 7px 0 #00134d; }
+body.retro-ui .hero-stage::before { content: ""; position: absolute; inset: 0; z-index: 0; opacity: .26; pointer-events: none; background-image: radial-gradient(#fff 1px, transparent 1px), radial-gradient(#73ffd9 1px, transparent 1px); background-position: 0 0, 19px 17px; background-size: 34px 34px, 48px 48px; }
+body.retro-ui .hero-stage::after { content: "★  NEW!  ★  UPDATED DAILY  ★  NO COOKIES  ★"; position: absolute; left: 16px; right: 16px; bottom: 8px; z-index: 4; color: var(--retro-yellow); font: 700 10px "Courier New", monospace; letter-spacing: .18em; text-align: center; text-shadow: 2px 2px #00134d; }
+body.retro-ui .hero-copy { z-index: 5; width: 52%; }
+body.retro-ui .eyebrow { color: var(--retro-mint); font: 700 11px "Courier New", monospace; letter-spacing: .08em; text-shadow: 2px 2px #00134d; }
+body.retro-ui .hero-copy h1 { margin: 16px 0 14px; color: #fff; font-family: "Arial Black", Impact, sans-serif; font-size: clamp(39px, 6vw, 74px); letter-spacing: -.08em; line-height: .98; text-shadow: 4px 4px 0 #00134d, 7px 7px 0 rgba(255,77,184,.55); }
+body.retro-ui .hero-copy h1 em { color: var(--retro-yellow); background: none; -webkit-text-fill-color: currentColor; text-shadow: 4px 4px 0 #a70e6f; }
+body.retro-ui .hero-copy p { color: #d9e7ff; font: 700 14px/1.7 "Courier New", monospace; text-shadow: 2px 2px #00134d; }
+body.retro-ui .hero-actions { gap: 12px; margin-top: 26px; }
+body.retro-ui .hero-actions a { border: 3px outset #fff; border-radius: 0; padding: 10px 16px; color: var(--retro-ink); background: var(--retro-yellow); box-shadow: 3px 3px 0 #00134d; font: 700 12px "Courier New", monospace; }
+body.retro-ui .hero-actions a:hover { transform: translate(2px,2px); box-shadow: 1px 1px 0 #00134d; }
+body.retro-ui .hero-actions .hero-secondary { color: #fff; background: var(--retro-pink); }
+body.retro-ui #hero-canvas, body.retro-ui .hero-planet { display: none; }
+body.retro-ui .hero-motion { display: none; }
+
+body.retro-ui .retro-collage { position: absolute; z-index: 3; right: 5%; top: 9%; width: 45%; height: 82%; display: block; transform: rotate(2deg); }
+body.retro-ui .retro-window { position: absolute; border: 3px outset #eef2ff; background: #dedfe8; color: var(--retro-ink); box-shadow: 6px 6px 0 #00134d; }
+body.retro-ui .retro-window-main { right: 3%; top: 8%; width: 82%; transform: rotate(-3deg); }
+body.retro-ui .retro-window-mini { left: 1%; bottom: 5%; width: 54%; transform: rotate(5deg); z-index: 2; }
+body.retro-ui .retro-titlebar { display: flex; justify-content: space-between; gap: 10px; padding: 4px 6px; color: #fff; background: linear-gradient(90deg, #112a94, #c81387 76%, #ff4db8); font: 700 10px "Courier New", monospace; }
+body.retro-ui .retro-titlebar b { color: var(--retro-yellow); letter-spacing: .12em; }
+body.retro-ui .retro-window-body { display: flex; align-items: center; gap: 14px; min-height: 190px; padding: 15px; background: #071f76; background-image: radial-gradient(#fff 1px, transparent 1px); background-size: 15px 15px; }
+body.retro-ui .retro-pixel-globe { width: 142px; height: 142px; display: grid; place-items: center; flex: none; border: 5px outset #fff; border-radius: 50%; color: var(--retro-yellow); background: radial-gradient(circle at 32% 28%, #ff7acb, #5c20bc 47%, #061349 75%); box-shadow: 0 0 0 4px #26efc5, 0 0 24px #ff4db8; font-size: 44px; text-shadow: 3px 3px #00134d; }
+body.retro-ui .retro-readout { display: grid; gap: 7px; color: #fff; font: 700 11px/1.35 "Courier New", monospace; }
+body.retro-ui .retro-readout strong { color: var(--retro-mint); font-size: 15px; }
+body.retro-ui .retro-readout span:nth-child(2) { color: var(--retro-yellow); }
+body.retro-ui .retro-status { padding: 5px 7px; color: #00134d; background: #c6ffd8; border-top: 2px inset #fff; font: 10px "Courier New", monospace; }
+body.retro-ui .retro-status span { float: right; color: #cb1680; letter-spacing: -.18em; }
+body.retro-ui .retro-mini-list { display: grid; gap: 8px; padding: 12px; color: #fff; background: #1136a4; font: 700 11px "Courier New", monospace; }
+body.retro-ui .retro-mini-list span:nth-child(1) { color: var(--retro-yellow); }.retro-mini-list span:nth-child(2) { color: var(--retro-mint); }.retro-mini-list span:nth-child(3) { color: #ff8bdb; }
+body.retro-ui .retro-sticker { position: absolute; z-index: 4; padding: 7px 9px; border: 2px solid #00134d; color: #00134d; background: var(--retro-yellow); font: 900 15px "Arial Black", sans-serif; box-shadow: 3px 3px 0 #00134d; }
+body.retro-ui .retro-sticker-y2k { right: -2%; top: 1%; transform: rotate(12deg); }.retro-sticker-hot { left: 8%; top: 14%; color: #fff; background: var(--retro-pink); transform: rotate(-12deg); }
+body.retro-ui .retro-badge { position: absolute; right: -2%; bottom: 1%; padding: 5px; border: 2px dashed var(--retro-yellow); color: var(--retro-yellow); background: #00134d; font: 700 8px/1.3 "Courier New", monospace; text-align: center; transform: rotate(-7deg); }
+
+body.retro-ui .toolbar { max-width: 1180px; margin: 0 auto; padding: 10px; border: 3px outset #fff; border-radius: 0; background: var(--retro-gray); color: var(--retro-ink); box-shadow: 5px 5px 0 #00134d; }
+body.retro-ui .cats { gap: 3px; padding: 3px; border: 2px inset #fff; border-radius: 0; background: #7b7d8b; }
+body.retro-ui .cat { padding: 7px 13px; border: 2px outset #fff; border-radius: 0; color: #00134d; background: #d5d6df; font: 700 12px "Courier New", monospace; }
+body.retro-ui .cat[aria-selected="true"] { color: #fff; background: var(--retro-pink); box-shadow: none; }
+body.retro-ui .search-wrap { max-width: 430px; }.retro-ui .search-icon { color: var(--retro-ink); }
+body.retro-ui #search { padding: 9px 12px 9px 36px; border: 2px inset #fff; border-radius: 0; color: #00134d; background: #fff; font: 700 12px "Courier New", monospace; }
+body.retro-ui #search::placeholder { color: #4e5680; }.retro-ui #search:focus { border-color: var(--retro-pink); box-shadow: none; }
+body.retro-ui .filter-toggle { padding: 8px 12px; border: 2px outset #fff; border-radius: 0; color: #fff; background: #1d46aa; font: 700 12px "Courier New", monospace; }
+body.retro-ui .filter-toggle:hover, body.retro-ui .filter-toggle[aria-expanded="true"] { border-color: #fff; background: #d61c83; }.retro-ui .filter-glyph { color: var(--retro-yellow); }
+body.retro-ui .filter-count { border-radius: 0; background: var(--retro-yellow); color: #00134d; }
+body.retro-ui .selected-chip { padding: 3px 8px; border: 2px outset #fff; border-radius: 0; color: #00134d; background: #7fffd4; font: 700 10px "Courier New", monospace; }
+body.retro-ui .filter-panel { border: 3px outset #fff; border-radius: 0; color: #00134d; background: #c5c7d2; box-shadow: 6px 6px 0 #00134d; backdrop-filter: none; }
+body.retro-ui .filter-panel-head span, body.retro-ui .filter-panel-head strong { color: #00134d; }.retro-ui .filter-search { border: 2px inset #fff; border-radius: 0; background: #fff; color: #00134d; }.retro-ui .filter-search input { color: #00134d; }
+body.retro-ui .tag-group { border-top: 2px groove #fff; }.retro-ui .tag-group h3 { color: #d61c83; }.retro-ui .chip { border: 2px outset #fff; border-radius: 0; color: #00134d; background: #e8e9f0; }.retro-ui .chip.active { color: #fff; background: #1547ba; box-shadow: none; }
+
+body.retro-ui main { max-width: 1180px; padding: 18px 10px 38px; }.retro-ui .status { color: var(--retro-yellow); font: 700 12px "Courier New", monospace; text-shadow: 2px 2px #00134d; }.retro-ui .grid { columns: 4 220px; column-gap: 12px; }
+body.retro-ui .card { margin-bottom: 12px; border: 3px outset #fff; border-radius: 0; background: #d7d8e2; box-shadow: 4px 4px 0 #00134d; }
+body.retro-ui .card .thumb { background: #00134d; border-bottom: 3px inset #fff; }.retro-ui .card img, .retro-ui .card video { image-rendering: auto; }.retro-ui .card .overlay { padding: 34px 10px 10px; background: linear-gradient(0deg, rgba(0,19,77,.95), rgba(0,19,77,0)); }.retro-ui .card .overlay h3 { color: #fff; font: 700 13px "Courier New", monospace; }.retro-ui .card .overlay p { color: var(--retro-mint); font: 10px "Courier New", monospace; }
+body.retro-ui .badge { top: 6px; right: 6px; padding: 2px 5px; border: 2px outset #fff; border-radius: 0; color: #00134d; background: var(--retro-yellow); font: 700 9px "Courier New", monospace; }
+body.retro-ui .soon { border: 3px dashed var(--retro-yellow); border-radius: 0; background: #1547ba; box-shadow: 4px 4px 0 #00134d; }.retro-ui .soon .spark { color: var(--retro-pink); }.retro-ui .soon h3, .retro-ui .soon p { color: #fff; }.retro-ui .soon a { color: var(--retro-yellow); }
+body.retro-ui .site-footer { padding: 18px 16px 38px; color: #b9d0ff; font: 10px "Courier New", monospace; }.retro-ui .site-footer a { color: var(--retro-yellow); }
+
+body.retro-ui .modal-backdrop { background: rgba(0, 12, 65, .88); backdrop-filter: none; }.retro-ui .modal-panel { border: 4px outset #fff; border-radius: 0; background: #c5c7d2; box-shadow: 8px 8px 0 #00134d; }.retro-ui .modal-media { background: #00134d; }.retro-ui .modal-info { color: #00134d; }.retro-ui .modal-info h2, .retro-ui .meta b { color: #00134d; }.retro-ui .meta, .retro-ui .section .body, .retro-ui .section ul { color: #27305a; }.retro-ui .m-tags .chip { color: #00134d; }.retro-ui .prompt-block { border: 3px inset #fff; border-radius: 0; background: #fff; }.retro-ui .prompt-head { color: #00134d; border-bottom: 2px groove #fff; }.retro-ui #m-prompt { color: #00134d; }.retro-ui .copy-btn, .retro-ui .ghost-btn { border: 2px outset #fff; border-radius: 0; color: #00134d; background: var(--retro-yellow); }.retro-ui .icon-btn { border: 2px outset #fff; border-radius: 0; color: #00134d; background: var(--retro-gray); }.retro-ui .toast { border: 2px outset #fff; border-radius: 0; color: #00134d; background: var(--retro-yellow); font: 700 11px "Courier New", monospace; }
+@media (max-width: 900px) { body.retro-ui .retro-nav { order: 3; flex-basis: 100%; justify-content: center; }.retro-ui .retro-collage { right: 1%; width: 47%; }.retro-ui .grid { columns: 3 200px; } }
+@media (max-width: 720px) { body.retro-ui .header-inner { flex-wrap: wrap; }.retro-ui .retro-nav { order: 3; overflow-x: auto; justify-content: flex-start; }.retro-ui .hero-stage { min-height: 660px; padding: 320px 18px 64px; }.retro-ui .hero-copy { width: 100%; text-align: center; }.retro-ui .hero-copy h1 { font-size: 43px; }.retro-ui .hero-actions { justify-content: center; }.retro-ui .retro-collage { left: 50%; right: auto; top: 5%; width: 92%; height: 300px; transform: translateX(-50%) scale(.86); transform-origin: top center; }.retro-ui .grid { columns: 2 150px; }.retro-ui .toolbar { box-shadow: 3px 3px 0 #00134d; } }
