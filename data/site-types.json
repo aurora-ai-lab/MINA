@@ -1,10 +1,170 @@
 [
-  {"id":"ai-tech","icon":"✦","title":"AI / 科技产品","description":"AI 工具、SaaS、智能硬件与未来科技品牌。","resources":"Aceternity UI · React Bits"},
-  {"id":"3d-creative","icon":"◈","title":"3D 创意展示","description":"数字艺术、空间计算、视觉实验与沉浸式作品。","resources":"Motion Sites · Anime.js"},
-  {"id":"brand-luxury","icon":"◇","title":"品牌与高端官网","description":"美妆、时装、珠宝与生活方式品牌。","resources":"Aceternity UI · Motion Sites"},
-  {"id":"interactive-story","icon":"✧","title":"互动故事体验","description":"叙事网页、艺术实验与滚动交互体验。","resources":"Anime.js · Motion Sites"},
-  {"id":"ecommerce","icon":"▱","title":"电商与产品页","description":"产品发布、商品展示和营销落地页。","resources":"Uiverse · React Bits"},
-  {"id":"game-entertainment","icon":"⚡","title":"游戏与娱乐","description":"游戏官网、角色展示和活动体验页。","resources":"Anime.js · React Bits"},
-  {"id":"portfolio","icon":"◎","title":"作品集与创作者","description":"摄影师、设计师、AI 创作者和个人品牌。","resources":"Motion Sites · Uiverse"},
-  {"id":"dashboard","icon":"▦","title":"Dashboard / SaaS","description":"数据后台、管理系统与量化终端。","resources":"React Bits · Uiverse"}
+  {
+    "id": "ai-tech",
+    "icon": "✦",
+    "title": "AI / 科技产品",
+    "description": "AI 工具、SaaS、智能硬件与未来科技品牌。",
+    "resources": "Aceternity UI · React Bits",
+    "preview": {
+      "brand": "NOVA / AI",
+      "kicker": "INTELLIGENCE, IN MOTION",
+      "headline": "让复杂的工作，十秒开始运行",
+      "intro": "一个面向团队的 AI 工作台，把想法变成可执行的结果。",
+      "primary": "免费试用",
+      "secondary": "观看演示",
+      "accent": "#8b5cf6",
+      "accent2": "#22d3ee",
+      "variant": "terminal",
+      "stats": [["10s", "首个结果"], ["94.8%", "任务完成率"], ["24/7", "智能协作"]],
+      "cards": ["自然语言工作流", "实时团队协作", "可控的智能 API"],
+      "prompt": "深紫星空、发光网格、浮动产品界面、Bento 功能区、理性精密的 AI SaaS 官网。"
+    }
+  },
+  {
+    "id": "3d-creative",
+    "icon": "◈",
+    "title": "3D 创意展示",
+    "description": "数字艺术、空间计算、视觉实验与沉浸式作品。",
+    "resources": "Motion Sites · Anime.js",
+    "preview": {
+      "brand": "ATLAS / STUDIO",
+      "kicker": "DIGITAL MATTER / 03",
+      "headline": "空间，是新的画布",
+      "intro": "一间研究光、材质和运动的数字展厅。",
+      "primary": "进入展厅",
+      "secondary": "查看实验",
+      "accent": "#6d28d9",
+      "accent2": "#67e8f9",
+      "variant": "gallery",
+      "stats": [["12", "沉浸作品"], ["04", "实验空间"], ["2026", "最新展期"]],
+      "cards": ["可旋转的数字雕塑", "生成式光场", "空间声音实验"],
+      "prompt": "纯黑作品区、全息粉与冷光青、可拖拽的 3D 主体、横向画廊和极简诗意排版。"
+    }
+  },
+  {
+    "id": "brand-luxury",
+    "icon": "◇",
+    "title": "品牌与高端官网",
+    "description": "美妆、时装、珠宝与生活方式品牌。",
+    "resources": "Aceternity UI · Motion Sites",
+    "preview": {
+      "brand": "LUNE / ATELIER",
+      "kicker": "COLLECTION 06 — 2026",
+      "headline": "时间沉淀，光芒自现",
+      "intro": "一件作品，从触感开始，抵达被记住的时刻。",
+      "primary": "探索系列",
+      "secondary": "预约体验",
+      "accent": "#d4af7a",
+      "accent2": "#e8c4b8",
+      "variant": "luxury",
+      "stats": [["06", "全新系列"], ["1988", "品牌创立"], ["01", "限量工艺"]],
+      "cards": ["手工打磨的细节", "来自月光的色泽", "预约专属体验"],
+      "prompt": "丝绒紫、玫瑰金和充足留白，高端衬线字体，慢速大片、交错系列展示和细线 CTA。"
+    }
+  },
+  {
+    "id": "interactive-story",
+    "icon": "✧",
+    "title": "互动故事体验",
+    "description": "叙事网页、艺术实验与滚动交互体验。",
+    "resources": "Anime.js · Motion Sites",
+    "preview": {
+      "brand": "NIGHTFALL / 04",
+      "kicker": "A SCROLLING STORY",
+      "headline": "那一夜，星星没有落下",
+      "intro": "向下滚动，穿过四个章节，回到故事发生以前。",
+      "primary": "开始阅读",
+      "secondary": "查看章节",
+      "accent": "#f472b6",
+      "accent2": "#fbbf24",
+      "variant": "story",
+      "stats": [["04", "章节"], ["09:42", "阅读时长"], ["∞", "种结局"]],
+      "cards": ["序章：夜幕降临", "第二章：微光出现", "尾声：黎明之前"],
+      "prompt": "电影感深紫夜幕、章节进度条、固定视觉和滚动推进的文字段落，高潮切换暖金色。"
+    }
+  },
+  {
+    "id": "ecommerce",
+    "icon": "▱",
+    "title": "电商与产品页",
+    "description": "产品发布、商品展示和营销落地页。",
+    "resources": "Uiverse · React Bits",
+    "preview": {
+      "brand": "FORM / 01",
+      "kicker": "LIMITED RELEASE · 48H",
+      "headline": "把光，带在身边",
+      "intro": "一盏为夜行者设计的便携智能灯，首发立减 200。",
+      "primary": "立即购买",
+      "secondary": "查看细节",
+      "accent": "#2dd4bf",
+      "accent2": "#fb923c",
+      "variant": "product",
+      "stats": [["48h", "限时优惠"], ["4.9/5", "用户评分"], ["24mo", "质保服务"]],
+      "cards": ["三档智能光色", "磁吸无级调光", "今晚下单明日发货"],
+      "prompt": "清晰转化导向、发光产品主图、亮青购买按钮、价格高亮、规格对比和底部吸附购买栏。"
+    }
+  },
+  {
+    "id": "game-entertainment",
+    "icon": "⚡",
+    "title": "游戏与娱乐",
+    "description": "游戏官网、角色展示和活动体验页。",
+    "resources": "Anime.js · React Bits",
+    "preview": {
+      "brand": "ECHO / ZERO",
+      "kicker": "SEASON 01 — AWAKEN",
+      "headline": "觉醒吧，指挥官",
+      "intro": "在失重城市中集结你的队伍，夺回最后一束光。",
+      "primary": "立即预约",
+      "secondary": "观看预告",
+      "accent": "#ff2e9a",
+      "accent2": "#00f0ff",
+      "variant": "game",
+      "stats": [["03", "可选角色"], ["12.08", "正式上线"], ["1M", "预约目标"]],
+      "cards": ["角色：Rin / 光刃", "活动：零点突袭", "社区：加入战队"],
+      "prompt": "高饱和品红、电光紫与赛博青，角色展示、故障扫光、赛事倒计时和强烈预约 CTA。"
+    }
+  },
+  {
+    "id": "portfolio",
+    "icon": "◎",
+    "title": "作品集与创作者",
+    "description": "摄影师、设计师、AI 创作者和个人品牌。",
+    "resources": "Motion Sites · Uiverse",
+    "preview": {
+      "brand": "MINA / CREATIVE",
+      "kicker": "PHOTOGRAPHER · AI ARTIST",
+      "headline": "我用镜头，替光说话",
+      "intro": "视觉创作者 Mina 的摄影、设计和生成艺术档案。",
+      "primary": "查看作品",
+      "secondary": "联系我",
+      "accent": "#a3e635",
+      "accent2": "#fb7185",
+      "variant": "portfolio",
+      "stats": [["38", "精选作品"], ["08", "合作品牌"], ["2026", "正在创作"]],
+      "cards": ["摄影 / 城市与人", "设计 / 视觉系统", "AI / 梦境档案"],
+      "prompt": "轻量作品优先的深紫画布、不规则瀑布流、个性签名色、状态标签和一键联系入口。"
+    }
+  },
+  {
+    "id": "dashboard",
+    "icon": "▦",
+    "title": "Dashboard / SaaS",
+    "description": "数据后台、管理系统与量化终端。",
+    "resources": "React Bits · Uiverse",
+    "preview": {
+      "brand": "PULSE / CONTROL",
+      "kicker": "LIVE OPERATIONS CENTER",
+      "headline": "让每一个数据点，都能推动决策",
+      "intro": "把实时指标、异常告警和团队行动集中到一个控制台。",
+      "primary": "打开控制台",
+      "secondary": "查看报告",
+      "accent": "#22d3ee",
+      "accent2": "#a78bfa",
+      "variant": "dashboard",
+      "stats": [["¥2.48m", "今日成交额"], ["+12.4%", "环比增长"], ["99.98%", "系统可用性"]],
+      "cards": ["实时趋势与预测", "异常告警中心", "团队权限管理"],
+      "prompt": "冷静高密度控制台、深色面板、青紫数据序列、K 线和实时表格，动效克制不干扰阅读。"
+    }
+  }
 ]
